@@ -2,10 +2,10 @@ import type { NextConfig } from "next";
 
 const tdmHeaders = [
   { key: "X-TDM-Reservation", value: "reserved" },
-  { key: "X-Licence", value: "TOSOL-1.0" },
+  { key: "X-Licence", value: "CC-BY-NC-4.0" },
   {
     key: "Link",
-    value: '<https://timet.org/open-database/licence>; rel="license"',
+    value: '<https://creativecommons.org/licenses/by-nc/4.0/>; rel="license"',
   },
   { key: "X-Content-Type-Options", value: "nosniff" },
 ];
@@ -17,6 +17,7 @@ const legacyRedirects = [
   { source: "/default.asp", destination: "/" },
   { source: "/contacts.htm", destination: "/contact" },
   { source: "/licenses.htm", destination: "/open-database/licence" },
+  { source: "/open-database/licence/full", destination: "https://creativecommons.org/licenses/by-nc/4.0/legalcode" },
   { source: "/sitemap.htm", destination: "/" },
   { source: "/links.htm", destination: "/about" },
   { source: "/about/:path+", destination: "/about" },

@@ -37,8 +37,8 @@ Updated: 2026-11-04
   - `prefers-reduced-motion` respected
 - [x] **9 — README and Vercel**
   - `README.md` with local commands, env setup and DNS records
-- [x] **10 — TOSOL-1.0**
-  - `content/licence/tosol-1.0.md` byte-identical to the supplied text
+- [x] **10 — Licence: CC BY-NC 4.0 (replaces TOSOL-1.0, 2026-11-19)**
+  - Licence page is a CC BY-NC summary; full text redirects to creativecommons.org
   - Section 6 headers in `next.config.ts`
   - Section 7 invariants in `types/soundObject.ts`
   - Root fields and per-object reservations in `public/dataset.json`
@@ -50,7 +50,7 @@ Updated: 2026-11-04
 ## Verified behaviour
 
 - `npm run build` passes; 25 routes generated.
-- Dataset + audio endpoints return `X-TDM-Reservation: reserved`, `X-Licence: TOSOL-1.0` and the licence `Link` header.
+- Dataset + audio endpoints return `X-TDM-Reservation: reserved`, `X-Licence: CC-BY-NC-4.0` and the licence `Link` header.
 - `/open-database`: 10 objects, 2 held, 2 disabled play buttons, 10 type blocks.
 - Filters: type `voice` → 4 objects; year `1998` → 3 objects.
 - Playback starts one object, bottom player appears, stop resets state.

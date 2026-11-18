@@ -1,0 +1,29 @@
+---
+title: "Mirio Cosottini"
+source: "about/aboutmc.htm"
+section: "about"
+license: CC BY-NC 4.0
+---
+
+Mirio Cosottini graduated from Florence¹s Academy of Music in 1992 and subsequently studied under P. Thibaud. In
+1999, he received his degree in Philosophy at the University of Florence. He is one of the founding members of Timet, a 10-year collaboration that led to his contribution as a performer and composer on several of the group¹s highly original works. Since that time, he has delved further into composition, musical analysis and improvisation, also evidenced in his musical contributions to the fields of dance (Raffaella Giordano ­ Sosta Palmizi, Simone Sandroni Dejadonne), theatre (Massimo Luconi), poetry (Giancarlo Majorino), and cinema (soundtrack music for "Anche le donne hanno perso la guerra" directed by Carlo Bolli for Rai Sat network). 
+He has worked with many contemporary and classical artists, among them Giorgio Gaber, Irene Grandi, [Marco Parente](http://www.marcoparente.it), [Andrea Chimenti](http://www.andreachimenti.it/), Ares Tavolazzi, [Stefano Bollani](http://www.stefanobollani.com/), Mirko Guerrini, Monica Demuru, Andrea De Luca, [Zeena Parkins](http://www.zeenaparkins.com/), Frank Shulte, Werner Puntigam, Italian Young Orchestra, Bruno De Franceschi, Fulvio Caldini, Maurizio Ben Omar, Oliviero Lacagnina, Vinko Globocar , [Eliott Sharp](http://www.panix.com/%7Eesharp/). 
+ 
+Performances: 
+Centro per L'arte Contemporanea Luigi Pecci, Prato (IT); Festival "Il Teatro e il Sacro", Arezzo (IT); "Genovantasette", Poetry Festival, Genova (IT); Teatro 2 di Roma (IT); Filmhouse, Cologne (D); Centre International d'arts visual, Marseille (FRA); 20° Biennale di Musica di Zagabria (International Festival of Contemporary Music), Zagabria; Teatro Manzoni, Pistoia, (IT); Teatro dell'Elfo, Milano, (IT); Institute of Italian Culture, Los Angeles USA; Teatro Metastasio (IT); Theater of Luzern (Swiss). 
+
+Discography: 
+Timet "Cicli di Sintesi" (PerBox) 
+Timet "Quadri di schermo vivo" (Arti Elettroniche) 
+Timet "Colazione con la pietra" (Arti Elettroniche) 
+Timet "La via negativa" (I Dischi Forma) 
+Timet "Restituzioni" (I Dischi Forma) 
+Fulvio Caldini "Data - Hands" (Ariston - ARCL CD/37) 
+Giorgio Gaber "Io non mi sento italiano" 
+Andrea Chimenti "Qoelet" 
+Sbim "Snowdoniani baccelloni attaccano Megaton 4" (Sbim
+- SW002) 
+Tacite Voci Ensemble -Naqqâra Ensemble "La mutazione" (TVE001) 
+Bobo Rondelli - Stefano Bollani "Disperati intellettuali ubriaconi" 
+Irene Grandi - "Prima di partire" 2003 CGD East West a división of Warner Music Italia S.r.l. 
+" Come fiori in mare" - Luigi Tenco riletto - Virgin Music Italia Srl.

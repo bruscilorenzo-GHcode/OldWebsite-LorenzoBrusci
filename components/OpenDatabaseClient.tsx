@@ -216,7 +216,7 @@ export function OpenDatabaseClient() {
               </div>
               <div className="flex items-baseline justify-between border-b border-line py-3">
                 <dt className="mono uppercase tracking-[0.14em] text-muted">Licence</dt>
-                <dd className="mono">TOSOL-1.0</dd>
+                <dd className="mono">CC-BY-NC-4.0</dd>
               </div>
             </dl>
             <Link href="/open-database/licence" className="link-arrow mt-4 inline-flex">

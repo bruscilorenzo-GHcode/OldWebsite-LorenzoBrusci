@@ -1,0 +1,51 @@
+---
+title: "Densa"
+source: "events/densa.htm"
+section: "events"
+license: CC BY-NC 4.0
+---
+
+DENSA – PERFORMANCE 
+ 
+[Letizia Renzini](../about/aboutlr.htm) (TIMET) con Marina Giovannini
+
+· Scatole in giro per la galleria.
+
+· Solo 4 contengono dentro un’istruzione (chiamata)
+
+· La danzatrice ha come scopo la costruzione di “serie”, un’organizzazione seriale delle scatole cui corrisponde un’organizzazione seriale dei movimenti nello spazio.
+
+· La danzatrice ha il compito di “dirigere” la performance attraverso 4 chiamate convenute che aprono gli altrettanti mondi sonori.
+
+· Le sorgenti sonore sono tratte dal triplo cd TIMET – [L’ultimo Animale/sullo Zarathustra](../downloads/zara.htm), in vendita in galleria.
+
+· Le scatole con cui la danzatrice interagisce sono l’involucro dei tre CD audio. Un oggetto disegnato da Marco Veneri per STUDIO BIANCO
+
+[Vai alla galleria fotografica...](javascript:pic())
+
+---
+
+ISABELLABRANCOLINI
+
+ARTECONTEMPORANEA
+
+presenta
+
+olivo barbieri, paolo comuzzi, antonio fiorini, glenys hodgeman, [letizia renzini](../about/aboutlr.htm), corrado sassi, massimo vitali
+
+alta densità
+
+a cura di Antonella Crippa
+
+6 giugno-31 luglio
+
+opening venerdì 6 giugno ore 18:30
+
+Alta densità è una mostra che intende riflettere sulle sensazioni provocate dalla partecipazione ad eventi, situazioni, contesti sociali particolarmente affollati. La mostra raduna un gruppo di artisti che hanno lavorato intorno a questo tema, scelti per il loro sguardo emotivamente coinvolto e attento ad una restituzione qualitativamente significativa. Le opere presentate costituiranno un viaggio che attraversa lo spazio e il tempo che ha inizio per le strade di una metropoli caotica e si conclude con il paradosso di una città abbandonata dai suoi abitanti.
+
+In mostra saranno presenti fotografie, video, installazioni, pitture di Olivo BARBIERI, Paolo COMUZZI, Antonio FIORINI, Glenys HODGEMAN, Corrado SASSI, e Massimo VITALI.
+
+La sera dell’inaugurazione la giovane artista [Letizia RENZINI](../about/aboutlr.htm) presenterà una performance appositamente ideata per questa occasione.
+
+Lungarno Acciaiuoli, 4 50123 Firenze Italia Tel. +39
+055 281549 [www.isabellabrancolini.it](http://www.isabellabrancolini.it) email: [email omessa]

@@ -1,0 +1,56 @@
+---
+title: "Orto Abitato"
+source: "events/orto.htm"
+section: "events"
+license: CC BY-NC 4.0
+---
+
+[Stefano Passerotti](http://www.stefanopasserotti.it)/Lorenzo Brusci-Timet 
+ 
+*Electronic Music meets a botanic environment. Perspectives on a sonic town.* 
+*Lorenzo Brusci* and the *Timet* collective have been composing electro-acoustic music for more than
+11 years, designing sounds and music compositions for theatre, dance and television; performing concerts and setting up installations all around Europe. 
+ 
+Since the very beginning one of *Timet* main task has been to overcome electro-acoustic *lack of physicality* and widen its *emotional and symbolic reference*, participating in and producing many *sound architecture projects* and *immersive sound experiences*. 
+ 
+In august 2003 Lorenzo Brusci invited Stefano Passerotti, gardener in Florence, to consider the possibility of including *sounds, music* and *sonic objects* in the design and realization of *gardens* and *parks*. His main idea was that a naturalistic context and specifically a *garden* could represent a strong embodiment of Timet research and provide a symbolic dimension to sounds and music that were usually described as *artificial* and *abstrac*t. Integrated within the life of the garden, they become *relevant part of a living metaphor*, expressing and enhancing the multilayered complexity of a naturalistic environment. The first result of this meeting was the foundation of **Giardino Sonoro La Limonaia dell'Imperialino**, in Firenze, a *sonic garden lab* where the team is able to test and verify the main implications of its sonic garden installative solutions. 
+ 
+" ...you could interpret our gardens as hypothesis for a *livable sound city*, oasis where our ears can learn how to put in *tune and harmonize* the noise of the whole town. A precise stance and a practical contribution to the *sonic planning of a city*, representing and exemplifying the qualitative alternative to the *acoustic chaos measured* so far in db invasiveness..." Lorenzo Brusci suggests, giving hints to guess strong implications of Timet-Passerotti actual work. 
+ 
+Timet and Stefano Passerotti build their own *loudspeakers* and find the engineering solutions to obtain the highest integration between technology and nature; since their very first commissions they have been paying attention to plants chromatic cycles, gestures and postures suggested by sound diffusion through out plant location, plant sizes and their orientation. Historical uses of plants have often guided their *sonic garden* installative work. 
+ 
+" This is a *real beginning*. Personally I'm aware that music composition will be strongly affected by the *garden design* and the *botanic living rules* and *symbolic history*. But the circle of influences is never strictly one way oriented... garden design is already encountering our acoustic needs... ".
+
+**Un Orto Toscano risuona di vita. 
+A Sonic Kitchen Garden.**
+
+By 
+Giardino Sonoro La Limonaia dell'Imperialino, Firenze 
+Stefano Passerotti, gardener in Firenze 
+Lorenzo Brusci-Timet, sound and visual artists
+
+designed by
+
+Gardener Stefano Passerotti 
+Architect Giampaolo Di Cocco 
+Architect Paolo Fiumi 
+Composer and Sound Designer Lorenzo Brusci-Timet 
+sound design by Lorenzo Brusci-Timet
+
+Paolo Fiumi illustration
+
+patronized by
+
+**TRA ART 
+Rete Regionale Toscana per L'Arte Contemporanea**
+
+supported by
+
+**Vivaio Valfredda, Brescia 
+Consorzio Ortovivaistico Pistoiese 
+Degl'Innocenti Macchine Agricole Firenze 
+Moresi Restauri & Costruzioni s.r.l. Firenze**
+
+A Tuscan traditional kitchen garden resonating of sounds from the everyday family life: noises, human dialogues and popular chants. 
+Sounds are diffused by sonic objects, designed coherently with shapes and meaning of the garden itself. The sound will be acoustically and electronically integrated in the botanic world. Integrated electronic means are used to interleave the invisible and real spaces of the garden. Electronic and botanic build a further neural system of the spot, creating conditions for a multiple and hyper-historical perceptions of the garden space. 
+The *created garden space* is actually a tribute to the human perception and deep understanding of our *complex* and *multi-layered environment*.

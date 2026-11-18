@@ -1,0 +1,29 @@
+---
+title: "Andres Bosshard"
+source: "about/coab.htm"
+section: "about"
+license: CC BY-NC 4.0
+---
+
+1955, lives and works in Zürich, Köln, Berlin, Wien, 
+1996 to 2001 collaborations with IGNCA in New Delhi.
+
+Andres Bosshard is an extraordinarily versatile artist who began as a painter but soon expanded into actions and performances before turning to experimental music theatre. 
+He has developed solar powered sound-objects, interactive computer music programs and multichannel sound installations.
+
+His most important projects: 
+" Dam in Fusio" (1987), 
+" Sound Bridge Bern" (1990), 
+" telefonia" (1991) a simultaneous satellite-link concert (sound and video streamng between New York and Winterthur. 
+ 
+Bosshard was co-author and responsible for the sound mixing of te collective projects "chip radio" (ORF radio 1992); "realtime" (ORF radio and TV,
+1993); "manandarbandr" sonambiente, Berlin (1996); media-architecture for the"Klangturm" in St.Pölten, Austria (1995-98); 
+Fellow at the khm (academy of media arts Cologne) (1997/8), 
+expo project "Wasserspuren" for Hann.Münden (2000); expo project "Klangallee" Bad Pyrmont (2000). 
+Expo project"Agora", a sound land art theatre in the shape of a giant ear, Nitterfeld (Leipzig) (since
+2000) Artistic director of the sound tower in Biel for the National expo02 in Switzerland (2002). 
+He was part of “Radiotopia”, Ars Electronica, Linz 2002. 
+First presentation of the"rotobossophon", Dresden November 2002. 
+Rotophonia, Singuhr Hoergallerie Parochial Kirche, Berlin 2003 
+Guest Professor at the khm (academy of media arts Cologne)
+2003.

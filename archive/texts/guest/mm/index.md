@@ -1,0 +1,23 @@
+---
+title: "matteo milani"
+source: "guest/mm/index.htm"
+section: "guest"
+license: CC BY-NC 4.0
+---
+
+Matteo Milani – 1974 - is a sound designer living in Milan. Actually he works in a post production facility, editing audio for cinema, tv and radio commercials.
+
+He started his career at the end of the 80’s in local radio stations, playing, editing and mixing music in “analogue” mode. He focused on dance projects, producing and applying electronic music on his dj activity, sequencing audio samples in his sessions. In the mid
+90’s he pioneered the rising of digital audio workstations as Digidesign Pro Tools creative user. In the last years he studied and developed a deep interest in relationships between sound and picture. He joined Timet, reflecting most of his sensibility creating sound elements for new forms of art expression.
+
+Collaborations:
+
+- Game Programming Italia ([www.gameprog.it](http://www.gameprog.it)), as a writer for interactive audio;
+
+- Symbolic Sound Corporation, home of the Kyma sound design language ([www.symbolicsound.com](http://www.symbolicsound.com)), as a third party samples supplier.
+
+“…from the beginning of my creative process, like recording a real sound source, the same source suggests to me what is could became: I have discovered that, from my way of interpreting sound design, the best way to treat sound is to start from a ‘living” source, that remind us something familiar.
+
+Even though I am not a musician, I have always loved experimenting to build sound textures usign both noise and music elements, trying to fill the gap between these two worlds…”.
+
+You may find samples of his work visiting [graphicalsound](http://www.graphicalsound.com)
