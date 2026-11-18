@@ -6,9 +6,10 @@ dist/
 .DS_Store
 *.log
 *.tsbuildinfo
+
 .env
 .env.*
+.vercel/
 
 deploy/aruba-media/audio/
-
 deploy/aruba-media.zip

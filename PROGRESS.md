@@ -141,3 +141,15 @@ database / object storage, not for a static `/public` upload.
 14 release pages. 13 have direct Bandcamp links. Only Isiaca has no Bandcamp page.
 SRS and LoLe were removed from "Further releases"; that section now has ATM, Marble and
 108 pieces.
+
+## Deployment (2026-11-18)
+
+- Private GitHub repository: https://github.com/bruscilorenzo-GHcode/OldWebsite-LorenzoBrusci
+- Vercel production preview: https://oldwebsite-lorenzobrusci.vercel.app
+- `timet.org` and its DNS are untouched. No custom domain is attached yet.
+- `NEXT_PUBLIC_AUDIO_BASE` is not set. The four previews in `public/audio/` play; the four
+  Aruba objects (`obj-0005` … `obj-0008`) stay unavailable until `media.timet.org` is live.
+- Link check against the Vercel URL: 23 pages, 14 assets, 39 external links, 0 failures;
+  10 legacy redirects return 308.
+- The Vercel project is not connected to GitHub for auto-deploy yet: the Vercel account
+  needs a GitHub login connection first. Until then, deploy with `npx vercel --prod`.

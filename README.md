@@ -1,5 +1,8 @@
 # TIMET.ORG — rebuild
 
+Live preview: https://oldwebsite-lorenzobrusci.vercel.app  
+(`timet.org` is not switched yet; see `docs/GO-LIVE-OPTION-A.md`.)
+
 A new static site for **Timet**, the Italian sound-art collective founded by Lorenzo Brusci in 1993 and active until 2003.
 
 Built from the legacy archive at `/Users/lorenzobrusci2020/TIMET_SITO_BACKUP`. The backup is read-only source material and is never modified.
