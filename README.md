@@ -59,8 +59,7 @@ On Vercel: Project → Settings → Environment Variables → add `NEXT_PUBLIC_A
 | `/archive` | Legacy register in the paper register: writings, PDFs, photographic inventory, held material |
 | `/contact` | Canonical address `info@musi-co.com`; legacy addresses marked defunct |
 | `/open-database` | Client-side sound-object index, filters, waveform, Web Audio playback |
-| `/open-database/licence` | PAGE COPY from TOSOL-1.0, geometric definition blocks |
-| `/open-database/licence/full` | Full TOSOL-1.0 legal text |
+| `/open-database/licence` | CC BY-NC 4.0 summary; full text redirects to creativecommons.org |
 
 Also generated: `/sitemap.xml`, `/robots.txt`, `/opengraph-image`, `/icon.svg`, `/apple-icon.png`.
 
@@ -104,10 +103,9 @@ automated requests. The script uses `playwright` with the system Google Chrome.
 
 - All editorial text comes from `content/`, extracted verbatim from the legacy pages. `Isiaca` (1999) is sourced from `lorenzobrusci.com`; release dates are from the same source.
 - Thirteen releases link directly to their Bandcamp album pages (see `content/discography.json`), including the three Zarathustra volumes, Nova Compilatione (two volumes), Easy Classics, SRS, LoLe and the 2003 Timet/Mariposa collaboration. Isiaca is the only release without a public Bandcamp page; the release page says so.
-- `content/licence/tosol-1.0.md` is byte-identical to the supplied `TOSOL-1.0` text.
-- `public/dataset.json` carries the Section 6 root fields (`licence`, `tdm_policy`, `ai_training`) and the Section 7 invariants per object, including `published`, `provenance`, `checksum`, `licence` and `tdm_reservation`.
+- Everything (dataset, audio, texts, interviews) is licensed **CC BY-NC 4.0**. The earlier custom TOSOL-1.0 draft was dropped.
+- `public/dataset.json` carries root fields (`licence`, `tdm_policy`, `ai_training`) and metadata per object, including `published`, `provenance`, `checksum`, `licence` and `tdm_reservation`.
 - Two objects are `published: false`; they render as metadata-only rows labelled “Master held, not published” with playback disabled.
-- The licence page shows “Pending legal review”.
 
 ### Machine-readable reservation
 
@@ -115,8 +113,8 @@ automated requests. The script uses `playwright` with the system Google Chrome.
 
 ```
 X-TDM-Reservation: reserved
-X-Licence: TOSOL-1.0
-Link: <https://timet.org/open-database/licence>; rel="license"
+X-Licence: CC-BY-NC-4.0
+Link: <https://creativecommons.org/licenses/by-nc/4.0/>; rel="license"
 ```
 
 `app/robots.ts` disallows the dataset and audio endpoints for all agents and lists the automated agents explicitly, while keeping the licence pages readable.

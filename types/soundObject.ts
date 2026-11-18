@@ -6,7 +6,7 @@ export type SoundObjectType =
   | "percussion"
   | "texture";
 
-/** Metadata invariants required by TOSOL-1.0 Section 7. */
+/** Per-object metadata invariants. */
 export interface SoundObject {
   id: string;
   title: string;
@@ -17,7 +17,7 @@ export interface SoundObject {
   duration: number;
   sampleRate: number;
   tags: string[];
-  licence: "TOSOL-1.0";
+  licence: "CC-BY-NC-4.0";
   tdm_reservation: "reserved";
   checksum: string;
   provenance: string;
@@ -28,13 +28,13 @@ export interface SoundObject {
   audio: string | null;
 }
 
-/** Root manifest required by TOSOL-1.0 Section 6. */
+/** Root manifest. */
 export interface SoundDataset {
   name: string;
   version: string;
   curator: string;
   contact: string;
-  licence: "TOSOL-1.0";
+  licence: "CC-BY-NC-4.0";
   tdm_policy: "reserved";
   ai_training: "reserved";
   source: string;

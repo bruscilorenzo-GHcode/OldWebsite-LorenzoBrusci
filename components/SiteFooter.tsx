@@ -37,7 +37,7 @@ export function SiteFooter() {
               © Timet / Lorenzo Brusci. Texts reproduced from the original timet.org archive.
             </p>
             <p className="mono text-muted">
-              <Link href="/open-database/licence" className="no-underline hover:text-accent">TOSOL-1.0</Link>
+              <Link href="/open-database/licence" className="no-underline hover:text-accent">CC-BY-NC-4.0</Link>
             </p>
           </div>
         </div>

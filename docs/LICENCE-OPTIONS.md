@@ -1,3 +1,5 @@
+> **Decision (2026-11-19):** the project uses CC BY-NC 4.0 for everything. This document is kept as history of the options considered.
+
 # TIMET — LICENCE OPTIONS FOR THE OPEN SOUND DATABASE
 
 Status: DRAFT. Not legal advice. Have counsel review before publishing,
