@@ -1,0 +1,51 @@
+---
+title: "Per una stanza - Senza titolo"
+source: "events/stanza.htm"
+section: "events"
+license: CC BY-NC 4.0
+---
+
+coreographer Raffaella Giordano
+
+Per una stanza (2001)
+
+Senza Titolo (2002)
+
+A 
+Raffaella Giordano-[Sosta Palmizi](http://www.sostapalmizi.it/) project
+
+Together with: 
+Fondazione Teatro Metastasio di Prato 
+R.E.D. Reggio Emilia Danza 
+Associazione Reggio Parma Festival 
+Armunia Festival della Riviera 
+Viartisti Teatro 
+Teatrimpegnocivile 
+Teatro Giacosa d'Ivrea - C.R.U.T. 
+Theatre De La Bastille - Paris 
+Teatro Comunale di Castiglion Fiorentino
+
+For 8 actors
+
+Raffaella Giordano 
+Aldo Rendina 
+Clelia Moretti 
+Doriana Crema 
+Elena De Renzio 
+Enrico Tedde 
+Giulio De Leo 
+Piera Principe
+
+Choreography 
+Raffaella Giordano
+
+Lighting design 
+Vincent Longuemare
+
+Music 
+[Lorenzo Brusci](../about/aboutlb.htm)
+
+Background 
+Stefano Ricci
+
+The language of body-dance is my specific; the reality living inside is not only matter-body, but thoughts, heart, intellect, emotion... It is necessary for me not to exlude, but try to recognize inclusion, integrity. Thus the human being becomes the centre of observation and each form of expression is a possible kind of writing. Every work is the result of a relationship. The focolalization of the pre-text occurs during the creation since it has to connect intimately with the present time and whith the present time and with the necessity of the characters taking part. The mode of language and the signs which are used achieve that pre text and free it in synthony with the origin of everyone. Steeped in a mysterious relationships system. The absence of a story to tell makes the glance free from the need to understanding. Men in black, joined by a common destiny, they represent human condition in which everyone time afther time is a spooksmen of a difference. Figures and scenic elements create a always moving geography, manipulated, displaced. Doors, cracks, empties opening: the impression of a mistery about us, nameless, it gets through the space. Land scape changes, leaving us amazed of a place in motion. The actor is not affectionate to a particular role, he is in a state of reception, he becomes slave of surroundings and he's exposed to the ambiguity of meanings, producing a deeper meaning. Border is fleeting: men in black are both inquisitors/inquisited, observers/observed, witnesses and builders of acts of life, of love, of cruelty.

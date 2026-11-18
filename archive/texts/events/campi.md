@@ -1,0 +1,66 @@
+---
+title: "Giardino Sonoro Urbano"
+source: "events/campi.htm"
+section: "events"
+license: CC BY-NC 4.0
+---
+
+installazione 
+ 
+**Giardino Sonoro Urbano** 
+Campi Bisenzio - Natale 2004 
+28 novembre 2004 / 7 gennaio 2005
+
+Installazione di 
+ 
+**La Limonaia dell'Imperialino** 
+*\_team of environmental design\_Firenze*
+
+lorenzo brusci/timet\_sound and acoustics designer 
+andrea sensoli\_designer architect [[www](http://www.sensoli.it)] 
+stefano passerotti\_garden designer 
+andres bosshard\_ sound architect 
+cogesim\_electrical and lighting engineering 
+eyes\_ lighting consultant 
+enzo cimino/timet\_sound techinician 
+roberto baccioni\_architect project manager
+
+**opening sunday nov 28th, 5.00 PM**
+
+photos by Giacomo Bonciolini [[watch](javascript:flash())]>
+
+**Site #1\_Piazza Dante.** 
+Il Teatro NeoNaturale/ *The NeoNaturalistic Theatre*
+
+Dove l'artificio e il naturale s?incontrano, per la nascita della nuova città 
+*Where the artificial and nature meet, to give birth to a new town*
+
+Una porta botanica, sonora e luminosa aperta sul centro storico di campi bisenzio 
+Un invito a riscoprire l'intimità di un centro cittadino, nuovamente naturale 
+*A botanic, sonic and luminous door to the historical town center of Campi Bisenzio 
+An invitation to re-discover the intimacy of a town center, once again naturally livable*
+
+**Site #2\_Piazza Matteotti** 
+Creature d'acqua/ *Water Creatures*
+
+Sullo Spirituale della/nella città. Tracce di memoria comune 
+*On spirituality of/in the town. Traces of public memories*
+
+Memorie e suoni di Campi Bisenzio e della Toscana tutta 
+*Memories and sounds from Campi Bisenzio and all of Tuscany*
+
+/Nella fontana/lavatoio è stata collocata una riproduzione dell'affresco *Annunciazione con la Trinità*, attribuito a Raffaellino del Garbo, 1513 ca., presente nel Teatro Parrocchiale già Oratorio della Compagnia della Pieve di S. Stefano di Campi Bisenzio; l'affresco rivelato è circondato da 4 misteriosi altoarlanti aerei / 
+*/ A copy of the fresco **Annunciazione con la trinità**, Raffaellino del Garbo, 1513 ca., has been placed in the fountain/wash basin, the original is located in the Teatro Parrocchiale, Oratorio della Compagnia della Pieve di S. Stefano, Campi Bisenzio; the revealed fresco is surrounded by mysterious and flying loudspeakers /*
+
+**Site #3\_Piazza Fra Ristoro** 
+Alberi di molte vite/ *Trees of many lives*
+
+Albero Sacro. Albero delle Donne. Albero dei bimbi. Albero del lavoro. Albero del mistero. Albero della mediaticità 
+*The Sacred Tree. The Women's Tree. The Children's Tree. The Work Tree. The Mystery Tree. The Media Tree*
+
+La piazza del gioco. Ogni albero ha un cuore vitale ed espressivo. L'assieme offre una rappresentazione del suono e del rumore delle nostre vite contemporanee 
+Verso la trasfigurazione del rumore cittadino.... attraverso i simboli musicali 
+*The playing square. Each tree has its profound and expressive core. The whole installation sets up a representation of contemporary life noises and sounds 
+Towards the transfiguration of city noise through music symbols.*
+
+[downloads manifesto](man.pdf)[>]

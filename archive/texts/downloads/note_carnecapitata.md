@@ -1,0 +1,128 @@
+---
+title: "Untitled Document"
+source: "downloads/note_carnecapitata.html"
+section: "downloads"
+license: CC BY-NC 4.0
+---
+
+1 T'abitui . 02’58”  
+voce – Monica Demuru 
+percussione elettronica – Beppe Mangione e Lorenzo Brusci 
+chitarra granulare – Beppe Mnagione 
+tromba – Mirio Cosottini 
+synth vocale – Paolo Frasconi 
+composizione, suoni e arrangiamento – Lorenzo Brusci 
+2 Inizia dal cervello . 02’50” 
+voce – Monica Demuru 
+flauti – Mirko Guerrini 
+piano preparato – Tonino Miano 
+strutture elettroritmiche - Beppe Mangione 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+(voci di coda tratte dalla lavorazione del video E-Motions – regia Claudio Prati – RTSI produzioni) 
+3 Ovunque è come ovunque . 03’32” 
+voce – Monica Demuru 
+strutture elettroritmiche – Beppe Mangione 
+arrangiamento tastiere – Mirio Cosottini 
+trattamenti vocali – Paolo Frasconi e Lorenzo Brusci 
+composizione, suoni, arrangiamento – Lorenzo Brusci 
+4 L’uomo . 03’28” 
+voce – Monica Demuru 
+strutture elettroritmiche – Beppe Mangione 
+tromba – Mirio Cosottini 
+composizione, suoni – Lorenzo Brusci 
+arrangiamento – Paolo Frasconi e Lorenzo Brusci 
+5 Noi siamo qui . 04’01” 
+voce – Monica Demuru 
+campioni vocali - Nami Payapackan 
+strutture elettroritmiche e suoni elettronici – Beppe Mangione 
+tromba e pianoforte - Mirio Cosottini 
+arrangiamento – Beppe Mangione e Lorenzo Brusci 
+composizione e processamenti strumentali - Lorenzo Brusci 
+6 Rotolando . 02’19” 
+voce – Enrico Fink 
+sax – Mirko Gerrini 
+strutture elettroritmiche – Beppe Mangione 
+improvvisazione di pianoforte – Tonino Miano 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+7 E’ sempre tenero e azzurro . 03’39” 
+voce – Monica Demuru 
+strutture elettroritmiche e chitarra granulare – Beppe Mangione 
+chitarra elettrica – Massimo Fantoni 
+sax – Mirko Guerrini 
+fender rhodes – Mirio Cosottini 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+8 Ascoltare la mente . 05’09” 
+voce – Monica Demuru 
+strutture elettroritmiche – Massimo Bressan e Lorenzo Brusci 
+tromba - Mirio Cosottini 
+arrangiamento - Lorenzo Brusci, Massimo Bressan 
+composizione – Lorenzo Brusci 
+9 E’ perchè ora puoi . 03’13” 
+voce femminile - Letizia Renzini 
+voce maschile – Gianluca Gori 
+tastiere – Mirio Cosottini 
+chitarra elettrica – Massimo Fantoni 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+10 Amore con la carne capitata . 02’52” 
+voce – Monica Demuru 
+tromba - Mirio Cosottini 
+trattamenti vocali – Paolo Frasconi, Beppe Mangione 
+composizione, loops e arrangiamento - Lorenzo Brusci 
+11 E’ reagire . 03’10” 
+voce – Letizia Renzini 
+suoni fantasma – Beppe Mangione 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+12 L’avvolse in . 03’30 
+voce – Monica Demuru 
+piano – Stefano Bollani 
+arrangiamento – Lorenzo Brusci, Stefano Bollani, Monica Demuru 
+composizione - Lorenzo Brusci 
+13 Mi trasferirò presso amici . 02’59” 
+voce – Gianluca Gori 
+strutture elettroritmiche e bassi elettronici – Beppe Mangione 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+14 Il fiume di sangue . 01’38” 
+voce – Monica Demuru 
+synth Korg – Mirio Cosottini –trattato in tempo reale da Beppe Mangione- 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+15 Fatica l'Enrica . 02’45 
+voce – Monica Demuru 
+tromba - Mirio Cosottini 
+elettrobasso e insetti elettronici – Beppe Mangione 
+trattamenti vocali – Beppe Mangione 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+..................... 
+Avanti Avanti Avanti . 02’39” 
+voce – Monica Demuru 
+percussioni elettroniche – Beppe Mangione 
+chitarra elettrica – Massimo Fantoni 
+tromba - Mirio Cosottini 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+16 C'era sempre qualcosa nelle poesie . 02’36” 
+voce femminile – Monica Demuru 
+voce maschile – Enrico Fink 
+strutture elettroritmiche – Beppe Mangione 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+..................... 
+16 C'era sempre qualcosa nelle poesie . 02’36” 
+voce femminile – Monica Demuru 
+voce maschile – Enrico Fink 
+strutture elettroritmiche – Beppe Mangione 
+composizione, suoni e arrangiamento - Lorenzo Brusci 
+..................... 
+Si muovono . 02’19” 
+voce – Monica Demuru 
+piano – Tonino Miano 
+bells – Beppe Mangione, Mirio Cosottini 
+composizione, suoni e arrangiamento - Lorenzo Brusci
+
+Carne Capitata -- Timet -- I DISCHI FORMA 
+Composizione di canzoni sulle poesie di Giancarlo Majorino 
+Musiche di Lorenzo Brusci - Timet 
+Produzione artistica Lorenzo Brusci Beppe Mangione e Paolo Frasconi 
+Produzione esecutiva Matrix – I Dischi Forma 
+Progetto Grafico Marco Veneri 
+Le poesie di Giancarlo Majorino sono tratte dal libro Autoantologia edito da Garzanti - gli elefanti. Si ringrazia l’editore per la gentile concessione. 
+Registrato da Lorenzo Brusci a Montevarchi, presso il Timet studio, tra giugno1999 e agosto 2000; 
+mixato da Lorenzo Brusci al Timet Studio 
+masterizzazione Lorenzo Tommasini – Macinarino Recordings – novembre 2000

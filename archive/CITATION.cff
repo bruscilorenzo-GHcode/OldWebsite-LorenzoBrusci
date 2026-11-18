@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset or texts, please cite them as below."
+title: "timet.org archive: timet.database and texts"
+authors:
+  - family-names: Brusci
+    given-names: Lorenzo
+license: CC-BY-NC-4.0
+type: dataset
+keywords: [sound design, sampling, nonlinear music, open data, music archive]

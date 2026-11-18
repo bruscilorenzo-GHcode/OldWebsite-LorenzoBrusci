@@ -1,0 +1,28 @@
+---
+title: "Giacomo Bonciolini"
+source: "about/aboutgb.htm"
+section: "about"
+license: CC BY-NC 4.0
+---
+
+Photography, video, sculpture, installation, performance. 
+ 
+He has been working in contemporary art since early '70. 
+Giacomo has a wide range of cultural references, from the '900 avant-garde to a recent techno-aesthetic research on automation techniques. 
+In late 2003 He joined the research group TIMET, designing for and with them sophisticated sonic objects (domain he started to explore in the '70, finding now in Timet a new stimulus to go further). 
+He is a strenuous supporter of the artistic activity as an almost scientific type of research, ironically rigorous and pataphysique at the same time. He thinks of art as a interlinguistic instrument, able to improve the ontological-perceptive awareness of reality and of its implied social constructions. 
+ 
+The formal rigor of some of his works, specially in photography, alternates to free and chaotic expressionistic results (see the recent sonic objects designed for Timet). 
+ 
+" ...my analogue and empirical perception is facing the artistic work as a violent crash against the matter, in a constant synthesis of action and reflection...". 
+ 
+some recent exhibitions: 
+ 
+August 2000 - "Offene Ateliers", Bielefeld (De) 
+November-December 2001 - LA FERREA LOGICA DELL'IMMAGINAZIONE
+- Momoyama Art Space Firenze. 
+January 2002 - PROJECT PHOENIX - REDBUD GALLERY - HOUSTON TEXAS. 
+April 2003 - ODISSEA METROPOLITANA, Studio D'ars, Milano. 
+July 2003 - FUORI STAGIONE - Circolo Bertolt Brecht Milano. 
+ 
+[webpage](http://www.giacomobonciolini.com)
