@@ -71,7 +71,7 @@ Never delete, move, or modify files there.
 - All text must come from the extracted legacy content. Never paraphrase, never invent.
 - Keep original Italian where it was Italian.
 - Where a field is unclear or missing, write `TODO: verify` rather than guessing.
-- Legacy contact address `lorenzo.brusci@timet.org` is DEFUNCT.
+- Legacy contact address `info@musi-co.com` is DEFUNCT.
   Use `info@musi-co.com` as the site contact instead.
 - Keep external links to `lorenzobrusci.com`, `musstdesign.com` and the SoundCloud
   profiles as references to ongoing work.

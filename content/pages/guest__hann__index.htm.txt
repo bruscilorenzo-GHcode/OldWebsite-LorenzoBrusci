@@ -31,7 +31,7 @@ _hardware: computer, ADAM monitor speakers
 
 _software: SuperCollider 3: www.audiosynth.com
 
-_< hannes@earweego.net >
+_< [email omessa] >
 
 1.
 OllieInDaTube150 [ listen ]

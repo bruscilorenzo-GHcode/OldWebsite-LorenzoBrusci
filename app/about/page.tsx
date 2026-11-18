@@ -60,7 +60,7 @@ export default function AboutPage() {
           </div>
           <div className="col-span-12 md:col-span-8 md:col-start-5">
             <p className="prose-editorial">
-              {about.collective.statement.replaceAll("lorenzo.brusci@timet.org", "info@musi-co.com")}
+              {about.collective.statement.replaceAll("info@musi-co.com", "info@musi-co.com")}
             </p>
           </div>
         </div>
