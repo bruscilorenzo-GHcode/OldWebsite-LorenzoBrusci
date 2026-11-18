@@ -1,8 +1,0 @@
-{
-  "title": "timet.org archive: timet.database and texts",
-  "upload_type": "dataset",
-  "creators": [{"name": "Brusci, Lorenzo"}],
-  "license": "cc-by-nc-4.0",
-  "description": "Archive of the timet.org website: database of 543 audio samples with metadata (CSV, SQLite) and texts, interviews and project pages converted to Markdown.",
-  "keywords": ["sound design", "sampling", "nonlinear music", "open data", "music archive"]
-}
