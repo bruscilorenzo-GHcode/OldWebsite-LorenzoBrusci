@@ -1,0 +1,30 @@
+{
+  "base": "https://media.timet.org/audio",
+  "uploadTo": "audio/objects/",
+  "objects": [
+    {
+      "id": "obj-0005",
+      "file": "objects/obj-0005.mp3",
+      "bytes": 6161154,
+      "sha256": "327b7dc55de9bd943c9a420ed23bff3110c43c042e9b2af66042db3588c93838"
+    },
+    {
+      "id": "obj-0006",
+      "file": "objects/obj-0006.mp3",
+      "bytes": 2147497,
+      "sha256": "db047b2c808fe6d94a8b9484278b88d41900ea11222316ce616da25dad423dc9"
+    },
+    {
+      "id": "obj-0007",
+      "file": "objects/obj-0007.mp3",
+      "bytes": 2999502,
+      "sha256": "cfa48c0b5964a9cd4849907f41178d54a38ede39385181ee031b7cfd078d7201"
+    },
+    {
+      "id": "obj-0008",
+      "file": "objects/obj-0008.mp3",
+      "bytes": 12942523,
+      "sha256": "93d312fb0b4db69d543df4b30caba3c906dada54b7506db4292ccd5497ce8b7b"
+    }
+  ]
+}

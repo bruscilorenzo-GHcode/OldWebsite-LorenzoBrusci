@@ -1,0 +1,56 @@
+TIMET — PACCHETTO MEDIA PER ARUBA
+=================================
+
+Questo pacchetto serve per far suonare l'Open Database:
+il sito (frontend) sta su Vercel, i file audio stanno su Aruba.
+
+COSA FARE, IN ORDINE
+--------------------
+
+1. Nel pannello Aruba crea il sottodominio:
+      media.timet.org
+
+2. Attiva SSL per media.timet.org (Let's Encrypt / AutoSSL).
+
+3. Apri il File Manager della cartella assegnata a media.timet.org
+   (di solito public_html, www, httpdocs o wwwroot).
+
+4. Carica questo ZIP nella cartella del sottodominio ed estrailo.
+   Dentro trovi:
+      audio/objects/obj-0005.mp3
+      audio/objects/obj-0006.mp3
+      audio/objects/obj-0007.mp3
+      audio/objects/obj-0008.mp3
+      .htaccess      (per hosting Linux)
+      web.config     (per hosting Windows)
+      manifest.json
+      README.md
+
+   Tieni il file di configurazione adatto al tuo hosting:
+   - Linux/Apache  -> .htaccess
+   - Windows/IIS   -> web.config
+   L'altro può restare lì: non dà fastidio.
+
+5. Prova ad aprire nel browser:
+      https://media.timet.org/audio/objects/obj-0005.mp3
+   Deve partire il download o la riproduzione.
+
+6. Controlla le intestazioni (opzionale, da terminale):
+      curl -I https://media.timet.org/audio/objects/obj-0005.mp3
+   Devono comparire:
+      200 OK
+      Accept-Ranges: bytes
+      Access-Control-Allow-Origin: *
+
+COSA NON FARE
+-------------
+- Non caricare il vecchio sito (ASP, PHP, database).
+- Non toccare timet.org / www / DNS in questa fase.
+- Non cambiare i nameserver.
+- Non cancellare l'hosting Aruba: serve come storage per l'anno pagato.
+
+DOPO
+----
+Quando questo indirizzo funziona, si passa a Vercel e solo alla fine
+si spostano i DNS di timet.org. La checklist completa è in:
+docs/GO-LIVE-OPTION-A.md

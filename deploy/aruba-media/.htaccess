@@ -1,0 +1,25 @@
+# Timet media origin — Apache / Linux shared hosting
+# Place this file in the folder that serves the audio (e.g. media.timet.org/audio/).
+
+<IfModule mod_headers.c>
+  Header always set Access-Control-Allow-Origin "*"
+  Header always set Access-Control-Allow-Methods "GET, HEAD, OPTIONS"
+  Header always set Access-Control-Allow-Headers "Range, Content-Type"
+  Header always set Access-Control-Expose-Headers "Content-Length, Content-Range, Accept-Ranges"
+  Header always set Accept-Ranges "bytes"
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType audio/mpeg .mp3
+  AddType audio/wav .wav
+  AddType image/jpeg .jpg .jpeg
+  AddType image/png .png
+  AddType image/webp .webp
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # CORS preflight
+  RewriteCond %{REQUEST_METHOD} OPTIONS
+  RewriteRule ^(.*)$ $1 [R=204,L]
+</IfModule>

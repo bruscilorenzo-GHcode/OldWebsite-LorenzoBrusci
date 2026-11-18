@@ -1,0 +1,27 @@
+SOURCE: about/aboutpf.htm
+
+timet.about us | Paolo Frasconi
+
+timet.about
+us
+
+<home
+
+Paolo
+Frasconi is Associate Professor of Computer Science
+with the Università di Firenze, Italy. His research
+interests include machine learning and neural networks
+with applications to bioinformatics, natural language
+and pattern recognition. He worked as a professional
+musician in the early 80's and joined Timet since its
+early conception. His contributions include some productions
+and with a few compositions.
+
+www.dsi.unifi.it/~paolo/
+
+<back
+to about us\\
+
+// Last update::
+October 6, 2004
+//

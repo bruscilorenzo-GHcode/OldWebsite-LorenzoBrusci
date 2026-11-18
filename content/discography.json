@@ -1,0 +1,2042 @@
+{
+  "_meta": {
+    "source": "TIMET_SITO_BACKUP (mirror of www.timet.org)",
+    "extracted": "2026-11-04",
+    "rule": "Titles, credits and durations are copied verbatim from the source pages. Unknown values are marked 'TODO: verify'. Do not treat inferred values as confirmed.",
+    "releaseOrder": "chronological by year",
+    "updated": "2026-11-04",
+    "newSource": "Isiaca (1999), release dates and short descriptions verified on https://lorenzobrusci.com/#history. No values were inferred."
+  },
+  "releases": [
+    {
+      "slug": "cicli-di-sintesi",
+      "title": "Cicli di sintesi",
+      "year": 1996,
+      "yearSource": "downloads/FAindex.htm",
+      "sourcePage": "downloads/cicli.htm",
+      "description": "TODO: verify (no prose description exists on downloads/cicli.htm; only tracklist and credits)",
+      "coverImage": "Assets/immagini/downloads/cd_cicli.jpg",
+      "coverThumb": "Assets/immagini/downloads/ciclisibt.gif",
+      "audioFolder": "mp3/CiclidiSintesi",
+      "audioNote": "18 MP3 files named 'timet - Track01..18 (cicli di sintesi).mp3'. Track 15 exists as audio but has no title in the source HTML.",
+      "lineup": [
+        {
+          "name": "Paolo Corsi",
+          "role": "Batteria"
+        },
+        {
+          "name": "Fabio Provazza",
+          "role": "Batteria"
+        },
+        {
+          "name": "Alessandro Navarrini",
+          "role": "Basso"
+        },
+        {
+          "name": "Remo Cioli",
+          "role": "Basso"
+        },
+        {
+          "name": "Fabio Baini",
+          "role": "Basso"
+        },
+        {
+          "name": "Lorenzo Bellacci",
+          "role": "Chitarre"
+        },
+        {
+          "name": "Giovanni Conversano",
+          "role": "Chitarre"
+        },
+        {
+          "name": "Riccardo Onori",
+          "role": "Chitarre"
+        },
+        {
+          "name": "Sandro Satanassi",
+          "role": "Piano e tastiere"
+        },
+        {
+          "name": "Roberto Andreucci",
+          "role": "Piano e tastiere"
+        },
+        {
+          "name": "Paolo Lepri",
+          "role": "Piano e tastiere"
+        },
+        {
+          "name": "Mirio Cosottini",
+          "role": "Piano e tastiere / Tromba"
+        },
+        {
+          "name": "Davide Priore",
+          "role": "Batterie elettroniche"
+        },
+        {
+          "name": "Simone Baldini",
+          "role": "Violino / Voce"
+        },
+        {
+          "name": "Lorenzo Donati",
+          "role": "Violino"
+        },
+        {
+          "name": "Giovanni Nardi",
+          "role": "Sax"
+        },
+        {
+          "name": "Daniele Malvisi",
+          "role": "Sax"
+        },
+        {
+          "name": "Sandro Satanassi",
+          "role": "Strumentazione classica"
+        },
+        {
+          "name": "Monica DeMuru",
+          "role": "Voce"
+        },
+        {
+          "name": "Dino Acconci",
+          "role": "Voce"
+        },
+        {
+          "name": "Michelle Bobko",
+          "role": "Voce"
+        },
+        {
+          "name": "Franco Di Francescantonio",
+          "role": "Attori"
+        },
+        {
+          "name": "Fernando Maraghini",
+          "role": "Attori"
+        },
+        {
+          "name": "Monica De Muro",
+          "role": "Attori"
+        },
+        {
+          "name": "Gianluigi Tosto",
+          "role": "Attori"
+        }
+      ],
+      "composerLegend": {
+        "L.B.": "LORENZO BRUSCI",
+        "S.S.": "SANDRO SATANASSI",
+        "M.C.": "MIRIO COSOTTINI",
+        "D.M.": "DANIELE MALVISI"
+      },
+      "creditsNotes": [
+        "* effettistica generale e linea melodica della seconda parte sono elaborate con Giovanni Nardi",
+        "** Daniele Malvisi é il compositore della sezione di Sax",
+        "*** la parte del coro é scritta da Sandro Satanassi"
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Pesce d'Ambiente (L.B.)",
+          "duration": "06.26",
+          "section": null
+        },
+        {
+          "n": 2,
+          "title": "tra Simboli Continui - parte II (L.B. - S.S.)",
+          "duration": "02.01",
+          "section": null
+        },
+        {
+          "n": 3,
+          "title": "Z(x)= T per F. Zappa (L.B.)",
+          "duration": "05.14",
+          "section": null
+        },
+        {
+          "n": 4,
+          "title": "Sui piani della rinuncia, tutto è vivo (L.B)",
+          "duration": "04.35",
+          "section": null
+        },
+        {
+          "n": 5,
+          "title": "Chirurgia Animale ( L.B. - S.S. )",
+          "duration": "07.36",
+          "section": null
+        },
+        {
+          "n": 6,
+          "title": "Perchè il contagio aderisca alla vita e non la distrugga (L.B)",
+          "duration": "03.53",
+          "section": null
+        },
+        {
+          "n": 7,
+          "title": "Angoscia Libera / Compimento Monotono (L.B.)*",
+          "duration": "09.25",
+          "section": null
+        },
+        {
+          "n": 8,
+          "title": "Corale della fertilità (L.B. - M.C. - D. M.)",
+          "duration": "02.30",
+          "section": null
+        },
+        {
+          "n": 9,
+          "title": "Simboli continui parte I (L.B.)",
+          "duration": "00.23",
+          "section": null
+        },
+        {
+          "n": 10,
+          "title": "Il Caos Organico (L.B.)",
+          "duration": "06.14",
+          "section": null
+        },
+        {
+          "n": 11,
+          "title": "Marine (L.B. - S.S.)",
+          "duration": "02.42",
+          "section": null
+        },
+        {
+          "n": 12,
+          "title": "Salti di vita (L.B.)",
+          "duration": "03.08",
+          "section": null
+        },
+        {
+          "n": 13,
+          "title": "Ripetizioni di Colpa (L.B. - S.S. - M.C.)",
+          "duration": "02.54",
+          "section": null
+        },
+        {
+          "n": 14,
+          "title": "Estensioni Minime dell'Amore (L.B. - S.S.)",
+          "duration": "01.13",
+          "section": "MEMORIA"
+        },
+        {
+          "n": 15,
+          "title": "TODO: verify",
+          "duration": "09.50",
+          "section": "MEMORIA"
+        },
+        {
+          "n": 16,
+          "title": "Ultime Tempeste (L.B.)",
+          "duration": "00.45",
+          "section": "MEMORIA"
+        },
+        {
+          "n": 17,
+          "title": "Unità (L.B. - S.S.***)",
+          "duration": "04.22",
+          "section": "COMPIANTO"
+        },
+        {
+          "n": 18,
+          "title": "Riassuntino (L.B.)",
+          "duration": "00.27",
+          "section": "COMPIANTO"
+        }
+      ],
+      "anomalies": [
+        "Track 15 title is absent in source HTML; an MP3 for Track15 exists.",
+        "The text '------Rinunce (L.B.)' appears as a divider before 'MEMORIA:'; it is not modelled as a track."
+      ],
+      "releaseDate": "December 1996",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "externalLinks": [
+        {
+          "label": "Bandcamp — 5-track remastered edition",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/cicli-di-sintesi-remastered",
+          "note": "The 1996 CD has 18 tracks; the Bandcamp edition is a five-track remastered selection."
+        }
+      ],
+      "sortDate": 1996.95
+    },
+    {
+      "slug": "quadri-di-schermo-vivo",
+      "title": "Quadri di schermo vivo",
+      "year": 1997,
+      "yearSource": "downloads/FAindex.htm",
+      "sourcePage": "downloads/quadri.htm",
+      "description": "il quadro divenne prima specchio cosciente, schermo; poi fu organico alla realtà, vivo.\nper una Musica Narrativa",
+      "coverImage": "Assets/immagini/downloads/cd_quadri.jpg",
+      "coverThumb": "Assets/immagini/downloads/quadri.gif",
+      "audioFolder": "mp3/QuadriDiSchermoVivo",
+      "audioNote": "Folder also contains 7 .tar files (consegnarsi, notte, restituzione, altpop, equilibrio, dignita, mani).",
+      "lineup": [
+        {
+          "name": "Lorenzo Brusci",
+          "role": "Suoni - voce maschile su \"Alt Pop - chit. classica\""
+        },
+        {
+          "name": "Beppe Mangione",
+          "role": "Suoni Elettronici e Batterie Elettro-acustiche"
+        },
+        {
+          "name": "Remo Cioli",
+          "role": "Basso elettrico"
+        },
+        {
+          "name": "Monica Demuru",
+          "role": "Canto e voce recitante"
+        },
+        {
+          "name": "Mirio Cosottini",
+          "role": "Tromba"
+        },
+        {
+          "name": "Mirko Guerrini",
+          "role": "Sax alto, tenore, soprano e Clavietta"
+        },
+        {
+          "name": "Andrea Melani",
+          "role": "Batteria acustica su \"Dignità e Oceano\""
+        },
+        {
+          "name": "Riccardo Onori",
+          "role": "chitarra el."
+        },
+        {
+          "name": "Lorenzo Bellacci",
+          "role": "chitarra tapping su \"Dignità Oceano\" e \"Consegnarsi\""
+        },
+        {
+          "name": "Bruno De Franceschi",
+          "role": "Piano"
+        },
+        {
+          "name": "Andrea De Luca",
+          "role": "Effettistica vocale su \"Dignità Oceano\""
+        },
+        {
+          "name": "Filippo Timi",
+          "role": "Effettistica vocale su \"Notte\""
+        },
+        {
+          "name": "Giovanni Nardi",
+          "role": "Sax soprano in \"Dignità Oceano\""
+        },
+        {
+          "name": "Préot Buxton",
+          "role": "Voce Maschile su \"Consegnarsi\" e \"Mani\""
+        },
+        {
+          "name": "Fabio Provazza",
+          "role": "Batteria --reg. Live su Alt Pop e Dignità Oceano"
+        },
+        {
+          "name": "Fabio Baini",
+          "role": "Basso elettrico -- reg. Live su Alt Pop e Dignità Oceano"
+        },
+        {
+          "name": "Massimo Bressan",
+          "role": "soft djing su \"Restituzioni\""
+        }
+      ],
+      "creditsNotes": [
+        "testi Lorenzo Brusci",
+        "*** testo di G. Majorino",
+        "Composto da Lorenzo Brusci",
+        "eccetto Restituzioni: L.B. / Mirio Cosottini"
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Notte ----> fino all'ultimo *",
+          "duration": "23.08",
+          "section": null
+        },
+        {
+          "n": 2,
+          "title": "Pure l'albero è*** ----> corpo segreto",
+          "duration": "02.09",
+          "section": null
+        },
+        {
+          "n": 3,
+          "title": "Dignità oceano ----> quanto uomo *",
+          "duration": "10.59",
+          "section": null
+        },
+        {
+          "n": 4,
+          "title": "Restituzione ---> bocca come ferita",
+          "duration": "11.14",
+          "section": null
+        },
+        {
+          "n": 5,
+          "title": "Equilibrio ----> avere amore **",
+          "duration": "05.09",
+          "section": null
+        },
+        {
+          "n": 6,
+          "title": "Alt Pop ----> molti dispersi *",
+          "duration": "10.09",
+          "section": null
+        },
+        {
+          "n": 7,
+          "title": "Consegnarsi ---> nell' imprimersi *",
+          "duration": "05.54",
+          "section": null
+        },
+        {
+          "n": 8,
+          "title": "Mani ----> essere l'offerta",
+          "duration": "06.30",
+          "section": null
+        },
+        {
+          "n": 9,
+          "title": "Ma chi sei tu *** ----> nell' esprimersi",
+          "duration": "03.16",
+          "section": null
+        }
+      ],
+      "releaseDate": "June 1997",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "externalLinks": [
+        {
+          "label": "Bandcamp — remastered edition",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/quadri-di-schermo-vivo-remastered"
+        }
+      ],
+      "sortDate": 1997.45
+    },
+    {
+      "slug": "colazione-con-la-pietra",
+      "title": "Colazione con la Pietra",
+      "year": 1997,
+      "yearSource": "downloads/FAindex.htm (listed as 1997; about/aboutbm.htm says 1998)",
+      "sourcePage": "downloads/colaz.htm",
+      "description": "Questo è un disco Pop",
+      "coverImage": "Assets/immagini/downloads/cd_colaz.jpg",
+      "coverThumb": "Assets/immagini/downloads/colaz.gif",
+      "audioFolder": "mp3/Colazione con la pietra",
+      "lineup": [
+        {
+          "name": "Beppe Mangione",
+          "role": "Suoni e Batterie elettroniche"
+        },
+        {
+          "name": "Mirio Cosottini",
+          "role": "Tromba e analisi musicale"
+        },
+        {
+          "name": "Monica Demuru",
+          "role": "Canto"
+        },
+        {
+          "name": "Mirko Guerrini",
+          "role": "Sax e clavietta"
+        },
+        {
+          "name": "Riccardo Onori",
+          "role": "Chitarra elettrica"
+        },
+        {
+          "name": "Preòt Buxton",
+          "role": "Canto e cut up \"Ginsberghiano\" su Pensiero abitabile"
+        },
+        {
+          "name": "Andrea Melani",
+          "role": "Batteria acustica"
+        },
+        {
+          "name": "Andrea De Luca",
+          "role": "Voce ed effettistica vocale su Lamentazione e Rispettare la tela"
+        },
+        {
+          "name": "Fabio Baini",
+          "role": "Basso elettrico su Pensiero abitabile, Costruisci la stanza, Manie di cinema"
+        },
+        {
+          "name": "Remo Cioli",
+          "role": "Basso elettrico su Manie di cinema, Lamentazione"
+        },
+        {
+          "name": "Paolo Frasconi",
+          "role": "co-concepitore esperimento ritmico Lamentazione"
+        },
+        {
+          "name": "Khaled",
+          "role": "voce narrante su Dividersi come respirare"
+        },
+        {
+          "name": "Carlo Mingusi",
+          "role": "Contrabbasso su Pensiero Abitabile"
+        },
+        {
+          "name": "Giovanni Coltraneti",
+          "role": "Sax su Colazione con la pietra"
+        },
+        {
+          "name": "Lorenzo Brusci",
+          "role": "Suoni, testi e canzoni"
+        }
+      ],
+      "creditsNotes": [
+        "Composto da Lorenzo Brusci",
+        "Prodotto da Lorenzo Brusci e Beppe Mangione"
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "PICCOLA DONNA* -- la madre di terra",
+          "duration": "06:23"
+        },
+        {
+          "n": 2,
+          "title": "LORO SI CHIAMANO * -- errori visibili grazie",
+          "duration": "07:26"
+        },
+        {
+          "n": 3,
+          "title": "RISPETTARE LA TELA -- la trasfigurazione",
+          "duration": "05:24"
+        },
+        {
+          "n": 4,
+          "title": "DIVIDERSI -- parole colpevoli",
+          "duration": "08:17"
+        },
+        {
+          "n": 5,
+          "title": "COME VENTO -- generazioni dentro",
+          "duration": "03:23"
+        },
+        {
+          "n": 6,
+          "title": "MANIE DI CINEMA -- la ricostruzione",
+          "duration": "05:20"
+        },
+        {
+          "n": 7,
+          "title": "PENSIERO ABITABILE -- l'interinganno",
+          "duration": "08:44"
+        },
+        {
+          "n": 8,
+          "title": "1° LAMENTAZIONE PER LA RITMICA REALTÀ",
+          "duration": "06:08"
+        },
+        {
+          "n": 9,
+          "title": "RETTILI -- la donna rotta",
+          "duration": "04:38"
+        },
+        {
+          "n": 10,
+          "title": "COSTRUISCI LA STANZA* -- genereflection",
+          "duration": "04:50"
+        },
+        {
+          "n": 11,
+          "title": "2° LAMENTAZIONE PER LA RITMICA REALTÀ",
+          "duration": "02:17"
+        },
+        {
+          "n": 12,
+          "title": "IL CANTO -- della salvezza",
+          "duration": "04:25"
+        },
+        {
+          "n": 13,
+          "title": "COLAZIONE CON LA PIETRA -- fare sintesi",
+          "duration": "05:33"
+        },
+        {
+          "n": 14,
+          "title": "LA PIETRA -- reintroduzione",
+          "duration": "01:05"
+        }
+      ],
+      "releaseDate": "November 1997",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "externalLinks": [
+        {
+          "label": "Bandcamp — remastered edition",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/colazione-con-la-pietra"
+        }
+      ],
+      "sortDate": 1997.85
+    },
+    {
+      "slug": "la-via-negativa",
+      "title": "La Via Negativa",
+      "year": 1998,
+      "yearSource": "downloads/FAindex.htm",
+      "sourcePage": "downloads/vianeg.htm",
+      "description": "Composed by Lorenzo Brusci and wholly dedicated to the art of editing, as a game of reconstructing music history.",
+      "coverImage": "Assets/immagini/downloads/cd_vianeg.jpg",
+      "coverThumb": "Assets/immagini/downloads/vianeg.gif",
+      "audioFolder": "mp3/LaViaNegativa",
+      "lineup": [
+        {
+          "name": "Lorenzo Brusci",
+          "role": "compositions, sampling and production"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "E",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 2,
+          "title": "la corsa",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 3,
+          "title": "la lettura",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 4,
+          "title": "l'invenzione",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 5,
+          "title": "restituzioni part. I",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 6,
+          "title": "la riconduzione",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 7,
+          "title": "l'incontro",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 8,
+          "title": "l'esibizione dell'interno",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 9,
+          "title": "aprire e versare",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 10,
+          "title": "le ipotesi",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 11,
+          "title": "presunzioni",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 12,
+          "title": "è carne cruda",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 13,
+          "title": "carne diffusa",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 14,
+          "title": "decadenze",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 15,
+          "title": "pensiero cosa n te",
+          "duration": "TODO: verify"
+        },
+        {
+          "n": 16,
+          "title": "restituzioni parte II",
+          "duration": "TODO: verify"
+        }
+      ],
+      "anomalies": [
+        "No durations are published on the source page."
+      ],
+      "releaseDate": "March 1998",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "externalLinks": [
+        {
+          "label": "Bandcamp",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/la-via-negativa"
+        }
+      ],
+      "descriptionSource": "https://lorenzobrusci.com/#history",
+      "sortDate": 1998.2
+    },
+    {
+      "slug": "shadows-ombre",
+      "title": "Shadows / Ombre",
+      "sourceTitle": "Shadows",
+      "year": 1998,
+      "yearSource": "downloads/FAindex.htm",
+      "sourcePage": "downloads/shadows.htm",
+      "description": "freely based on \"Murder in the cathedral\" by TS Eliot",
+      "coverImage": "Assets/immagini/downloads/cd_shadows.jpg",
+      "coverThumb": "Assets/immagini/downloads/shadows.gif",
+      "audioFolder": "mp3/Shadows",
+      "lineup": [
+        {
+          "name": "Andrea de Luca",
+          "role": "voices"
+        },
+        {
+          "name": "Lorenzo Brusci",
+          "role": "compositions"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "The hungry hawk",
+          "duration": "7.50",
+          "section": "Seven years"
+        },
+        {
+          "n": 2,
+          "title": "the land",
+          "duration": "03.13",
+          "section": "Seven years"
+        },
+        {
+          "n": 3,
+          "title": "nothing conclusive",
+          "duration": "01.16",
+          "section": "Seven years"
+        },
+        {
+          "n": 4,
+          "title": "death from the sea",
+          "duration": "03.21",
+          "section": "Seven years"
+        },
+        {
+          "n": 5,
+          "title": "the city",
+          "duration": "02.08",
+          "section": "Servants"
+        },
+        {
+          "n": 6,
+          "title": "pride",
+          "duration": "04.40",
+          "section": "Servants"
+        },
+        {
+          "n": 7,
+          "title": "we do not wish",
+          "duration": "01.47",
+          "section": "Little rest"
+        },
+        {
+          "n": 8,
+          "title": "you will find",
+          "duration": "00.42",
+          "section": "Little rest"
+        },
+        {
+          "n": 9,
+          "title": "action is suffering",
+          "duration": "02.36",
+          "section": "Little rest"
+        },
+        {
+          "n": 10,
+          "title": "action",
+          "duration": "01.29",
+          "section": "Little rest"
+        },
+        {
+          "n": 11,
+          "title": "present",
+          "duration": "03.06",
+          "section": "Think"
+        },
+        {
+          "n": 12,
+          "title": "submission",
+          "duration": "02.54",
+          "section": "Think"
+        },
+        {
+          "n": 13,
+          "title": "heaven",
+          "duration": "01.40",
+          "section": "Think"
+        },
+        {
+          "n": 14,
+          "title": "partly living",
+          "duration": "05.02",
+          "section": "Living"
+        },
+        {
+          "n": 15,
+          "title": "lost",
+          "duration": "01.01",
+          "section": "Living"
+        },
+        {
+          "n": 16,
+          "title": "hands",
+          "duration": "01.13",
+          "section": "Living"
+        },
+        {
+          "n": 17,
+          "title": "Reasons ->",
+          "duration": "02.17",
+          "section": "Living"
+        },
+        {
+          "n": 18,
+          "title": "Being a martyr",
+          "duration": "03.43",
+          "section": "Living"
+        },
+        {
+          "n": 19,
+          "title": "depart",
+          "duration": "03.18",
+          "section": "Beasts as Men"
+        },
+        {
+          "n": 20,
+          "title": "in our veins",
+          "duration": "03.19",
+          "section": "Beasts as Men"
+        },
+        {
+          "n": 21,
+          "title": "my will",
+          "duration": "03.12",
+          "section": "Beasts as Men"
+        },
+        {
+          "n": 22,
+          "title": "the knife",
+          "duration": "02.44",
+          "section": "Where"
+        },
+        {
+          "n": 23,
+          "title": "power",
+          "duration": "01.56",
+          "section": "Where"
+        },
+        {
+          "n": 24,
+          "title": "obedience",
+          "duration": "03.56",
+          "section": "Where"
+        },
+        {
+          "n": 25,
+          "title": "Clear the air",
+          "duration": "02.07",
+          "section": "Where"
+        }
+      ],
+      "sectionDurations": {
+        "Seven years": "02.04",
+        "Servants": "06.48",
+        "Little rest": "06.34",
+        "Think": "07.40",
+        "Living": "07.26",
+        "Beasts as Men": "09.48",
+        "Where": "08.36"
+      },
+      "anomalies": [
+        "Source MP3 folder contains two files for track 15/16 ('15-lost.mp3', '16-lost.mp3') and '17-hands.mp3' plus '17-reasons-18 beeing a mrtyr.mp3'; filename numbering does not match the HTML tracklist numbering.",
+        "Section durations are published in parentheses on the source page."
+      ],
+      "releaseDate": "February 1998",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "externalLinks": [
+        {
+          "label": "Bandcamp",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/shadows-murder-in-the-cathedral"
+        }
+      ],
+      "sortDate": 1998.1
+    },
+    {
+      "slug": "restituzioni",
+      "title": "Restituzioni",
+      "year": 1999,
+      "yearSource": "downloads/FAindex.htm",
+      "sourcePage": "downloads/restituzioni.htm",
+      "description": "A record built on popular Tuscan songs, which The Honest Archive revisits as a project of 1999.",
+      "coverImage": "Assets/immagini/downloads/cd_restituzioni.jpg",
+      "coverThumb": "Assets/immagini/downloads/restituzioni.gif",
+      "audioFolder": "mp3/Restituzioni",
+      "lineup": [
+        {
+          "name": "Monica Demuru",
+          "role": "Voce"
+        },
+        {
+          "name": "Ares Tavolazzi",
+          "role": "Contrabbasso"
+        },
+        {
+          "name": "Stefano Bollani",
+          "role": "Pianoforte e Fisarmonica"
+        },
+        {
+          "name": "Mirio Cosottini",
+          "role": "Tromba; composizioni per violoncello (con Lorenzo Brusci)"
+        },
+        {
+          "name": "Lorenzo Brusci",
+          "role": "Elettro-acustica; composizioni per violoncello (con Mirio Cosottini)"
+        },
+        {
+          "name": "Luca Provenzani",
+          "role": "Violoncello"
+        },
+        {
+          "name": "Beppe Mangione",
+          "role": "Campioni percussivi"
+        }
+      ],
+      "creditsNotes": [
+        "Arrangiamenti delle canzoni Timet",
+        "Composizione delle canzoni Lorenzo Brusci",
+        "Ringraziamenti: allo studioso della cultura popolare valdarnese Dante Priore, senza il cui lavoro non avremmo potuto rivivere queste preziose lontananze; al poeta estemporaneo Libero Vietti, per la sua lezione di vita poetica; alle informatrici Rosa Melani e Annunziata Lorenzi dalla cui testimonianza sono tratte le canzoni originali. al fotografo Guido Dani per il suo incanto"
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "La piccola donna si difende",
+          "duration": "03'17\"",
+          "section": "Quadro 1 – La divisione esprime"
+        },
+        {
+          "n": 2,
+          "title": "\"la canzone dei contadini\"",
+          "duration": "01'42\"",
+          "section": "Quadro 1 – La divisione esprime"
+        },
+        {
+          "n": 3,
+          "title": "la danza lungo l'arteria",
+          "duration": "03'25\"",
+          "section": "Quadro 1 – La divisione esprime"
+        },
+        {
+          "n": 4,
+          "title": "\"è stato proprio i'vento\"",
+          "duration": "02'37\"",
+          "section": "Quadro 1 – La divisione esprime"
+        },
+        {
+          "n": 5,
+          "title": "sfogati tempo cornuto",
+          "duration": "00'52\"",
+          "section": "Quadro 1 – La divisione esprime"
+        },
+        {
+          "n": 6,
+          "title": "dividersi come respirare, per tentare l'assieme",
+          "duration": "03'56\"",
+          "section": "Quadro 1 – La divisione esprime"
+        },
+        {
+          "n": 7,
+          "title": "W Maria pensando Napoleonico",
+          "duration": "03'29\"",
+          "section": "Quadro 2 – l'artificio"
+        },
+        {
+          "n": 8,
+          "title": "\"Son 4 anni e piu' d'amore\"",
+          "duration": "03'12\"",
+          "section": "Quadro 2 – l'artificio"
+        },
+        {
+          "n": 9,
+          "title": "il trasporto: i processi meccanici e le morti biologiche non s'incotrano mai",
+          "duration": "03'06\"",
+          "section": "Quadro 2 – l'artificio"
+        },
+        {
+          "n": 10,
+          "title": "\"e tutte le invenzioni le vengan da Parigi\"",
+          "duration": "03'10\"",
+          "section": "Quadro 2 – l'artificio"
+        },
+        {
+          "n": 11,
+          "title": "cosparsi i bimbi temporale richiamano fragranze",
+          "duration": "05'05\"",
+          "section": "Quadro 2 – l'artificio"
+        },
+        {
+          "n": 12,
+          "title": "così pensiero abitabile",
+          "duration": "04'22\"",
+          "section": "Quadro 2 – l'artificio"
+        },
+        {
+          "n": 13,
+          "title": "la traccia per le storie",
+          "duration": "02'31\"",
+          "section": "Quadro 3 – lo specchio"
+        },
+        {
+          "n": 14,
+          "title": "\"nebbia nebbia coccolina\", o l'incanto",
+          "duration": "02'16\"",
+          "section": "Quadro 3 – lo specchio"
+        },
+        {
+          "n": 15,
+          "title": "vedersi nel proprio brodo",
+          "duration": "01'53\"",
+          "section": "Quadro 3 – lo specchio"
+        },
+        {
+          "n": 16,
+          "title": "ascoltando la mente",
+          "duration": "04'41\"",
+          "section": "Quadro 3 – lo specchio"
+        },
+        {
+          "n": 17,
+          "title": "alle radici fisiche dell'insofferenza. l'informe: voglio il mio tempo",
+          "duration": "05'21\"",
+          "section": "Quadro 3 – lo specchio"
+        },
+        {
+          "n": 18,
+          "title": "\"come sarò bella\"",
+          "duration": "05'15\"",
+          "section": "Quadro 3 – lo specchio"
+        },
+        {
+          "n": 19,
+          "title": "il pieno sviluppo dell'uguale",
+          "duration": "03'16\"",
+          "section": "Quadro 4 – la restituzione"
+        },
+        {
+          "n": 20,
+          "title": "\"gira la rota\"",
+          "duration": "02'57\"",
+          "section": "Quadro 4 – la restituzione"
+        },
+        {
+          "n": 21,
+          "title": "parlo forte, e soffio",
+          "duration": "00'39\"",
+          "section": "Quadro 4 – la restituzione"
+        },
+        {
+          "n": 22,
+          "title": "\"dimmelo e dammelo caro mio bene\"",
+          "duration": "02'39\"",
+          "section": "Quadro 4 – la restituzione"
+        },
+        {
+          "n": 23,
+          "title": "e soprattutto fertile sempre",
+          "duration": "01'33\"",
+          "section": "Quadro 4 – la restituzione"
+        },
+        {
+          "n": 24,
+          "title": "\"nebbia nebbia coccolina\", dalla pura finzione",
+          "duration": "02'31\"",
+          "section": "Quadro 4 – la restituzione"
+        }
+      ],
+      "releaseDate": "October 1999",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "externalLinks": [
+        {
+          "label": "Bandcamp — remastered edition",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/restituzioni"
+        }
+      ],
+      "descriptionSource": "https://lorenzobrusci.com/#history",
+      "sortDate": 1999.78
+    },
+    {
+      "slug": "isiaca",
+      "title": "Isiaca",
+      "sourceTitle": "ISIACA",
+      "year": 1999,
+      "yearSource": "https://lorenzobrusci.com/#history (entry d7)",
+      "releaseDate": "November 1999",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "sourcePage": "https://lorenzobrusci.com/ (History, discography entry d7)",
+      "description": "A procession dedicated to the work of the artist G. Di Cocco.",
+      "descriptionSource": "https://lorenzobrusci.com/#history",
+      "coverImage": "covers/isiaca.jpg",
+      "coverThumb": null,
+      "audioFolder": null,
+      "audioNote": "No audio is published for this release. It is documented from the personal site of Lorenzo Brusci.",
+      "lineup": [],
+      "lineupNote": "TODO: verify — no line-up is published on lorenzobrusci.com.",
+      "tracks": [],
+      "tracklistStatus": "TODO: verify — no tracklist is published on lorenzobrusci.com.",
+      "creditsNotes": [],
+      "externalLinks": [],
+      "sortDate": 1999.87,
+      "bandcampStatus": "No Bandcamp page is published for this release.",
+      "coverFit": "contain",
+      "coverNote": "Archive image: work by G. Di Cocco, from the Timet archive (about/cogdc.htm). Not confirmed as the original Isiaca cover."
+    },
+    {
+      "slug": "carne-capitata",
+      "title": "Carne Capitata",
+      "year": 2000,
+      "yearSource": "downloads/FAindex.htm (about/aboutbm.htm says Carne capitata 2001)",
+      "sourcePage": "downloads/carnecapitata.htm",
+      "description": "Composizione di canzoni sulle poesie di Giancarlo Majorino\nMusiche di Lorenzo Brusci\nProduzione artistica Lorenzo Brusci, Beppe Mangione, Paolo Frasconi\n\nLe poesie di Giancarlo Majorino sono tratte dal libro Autoantologia edito da Garzanti - gli elefanti. Si ringrazia l'editore per la gentile concessione.",
+      "coverImage": "Assets/immagini/downloads/cd_carnecap.jpg",
+      "coverThumb": "Assets/immagini/downloads/carnecap.gif",
+      "audioFolder": "mp3/CarneCapitata",
+      "lineup": [
+        {
+          "name": "Giancarlo Majorino",
+          "role": "poesie"
+        },
+        {
+          "name": "Lorenzo Brusci",
+          "role": "musiche / produzione artistica"
+        },
+        {
+          "name": "Beppe Mangione",
+          "role": "produzione artistica"
+        },
+        {
+          "name": "Paolo Frasconi",
+          "role": "produzione artistica"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "T'abitui",
+          "duration": "02'58\""
+        },
+        {
+          "n": 2,
+          "title": "Inizia dal cervello",
+          "duration": "02'50\""
+        },
+        {
+          "n": 3,
+          "title": "Ovunque è come ovunque",
+          "duration": "03'32\""
+        },
+        {
+          "n": 4,
+          "title": "L'uomo",
+          "duration": "03'28\""
+        },
+        {
+          "n": 5,
+          "title": "Noi siamo qui",
+          "duration": "04'01\""
+        },
+        {
+          "n": 6,
+          "title": "Rotolando",
+          "duration": "02'19\""
+        },
+        {
+          "n": 7,
+          "title": "E' sempre tenero e azzurro",
+          "duration": "03'39\""
+        },
+        {
+          "n": 8,
+          "title": "Ascoltare la mente",
+          "duration": "05'09\""
+        },
+        {
+          "n": 9,
+          "title": "E' perchè ora puoi",
+          "duration": "03'13\""
+        },
+        {
+          "n": 10,
+          "title": "Amore con la carne capitata",
+          "duration": "02'52\""
+        },
+        {
+          "n": 11,
+          "title": "E' reagire",
+          "duration": "03'10\""
+        },
+        {
+          "n": 12,
+          "title": "L'avvolse in",
+          "duration": "03'30\""
+        },
+        {
+          "n": 13,
+          "title": "Mi trasferirò presso amici",
+          "duration": "02'59\""
+        },
+        {
+          "n": 14,
+          "title": "Il fiume di sangue",
+          "duration": "01'38\""
+        },
+        {
+          "n": 15,
+          "title": "Fatica l'Enrica",
+          "duration": "02'45\""
+        },
+        {
+          "n": "Avanti",
+          "title": "Avanti Avanti Avanti",
+          "duration": "02'39\"",
+          "note": "unnumbered piece in source; duration mapping inferred from source order — TODO: verify"
+        },
+        {
+          "n": 16,
+          "title": "C'era sempre qualcosa nelle poesie",
+          "duration": "02'36\"",
+          "note": "duration mapping inferred from source order — TODO: verify"
+        },
+        {
+          "n": "Si muovono",
+          "title": "Si muovono",
+          "duration": "02'19\"",
+          "note": "unnumbered piece in source; duration mapping inferred from source order — TODO: verify"
+        }
+      ],
+      "anomalies": [
+        "Source HTML lists 16 numbered tracks plus two unnumbered pieces ('Avanti Avanti Avanti', 'Si muovono') and 18 durations. Assignment of the last three durations is inferred and must be verified against the audio."
+      ],
+      "releaseDate": "November 2000",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "externalLinks": [
+        {
+          "label": "Bandcamp",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/carne-capitata"
+        }
+      ],
+      "sortDate": 2000.85
+    },
+    {
+      "slug": "on-zarathustra",
+      "title": "On Zarathustra",
+      "sourceTitle": "Zarathustra",
+      "year": 2002,
+      "yearSource": "downloads/FAindex.htm",
+      "sourcePage": "downloads/zara.htm",
+      "description": "The last of the Timet records listed in the early biography.",
+      "coverImage": "Assets/immagini/downloads/cd_zara.jpg",
+      "coverThumb": "Assets/immagini/downloads/zara.gif",
+      "audioFolder": "tracks/zara",
+      "audioNote": "tracks/zara/cd_1, tracks/zara/cd_2, tracks/zara/cd_3",
+      "lineup": [
+        {
+          "name": "TODO: verify",
+          "role": "no lineup is published on the release page"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Zarathustra's Prologue",
+          "duration": "08'55\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 2,
+          "title": "The Despisers of the Body",
+          "duration": "08'43\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 3,
+          "title": "The New Idol",
+          "duration": "08'31\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 4,
+          "title": "The Giving Virtue",
+          "duration": "05'51\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 5,
+          "title": "Joys and Passions",
+          "duration": "08'43\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 6,
+          "title": "The Tree on the Hill",
+          "duration": "07'27\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 7,
+          "title": "The Preachers of Death",
+          "duration": "09'13\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 8,
+          "title": "War and Warriors",
+          "duration": "10'16\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 9,
+          "title": "The Three Metamorphoses",
+          "duration": "05'01\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 10,
+          "title": "The Flies in the Market-Place",
+          "duration": "04'30\"",
+          "disc": "CD_1"
+        },
+        {
+          "n": 11,
+          "title": "Reading and Writing",
+          "duration": "08'01\"",
+          "disc": "CD_2"
+        },
+        {
+          "n": 12,
+          "title": "The Afterworldly",
+          "duration": "04'43\"",
+          "disc": "CD_2"
+        },
+        {
+          "n": 13,
+          "title": "The Giving Virtue",
+          "duration": "05'46\"",
+          "disc": "CD_2"
+        },
+        {
+          "n": 14,
+          "title": "Chastity",
+          "duration": "07'38\"",
+          "disc": "CD_2"
+        },
+        {
+          "n": 15,
+          "title": "Love of the neighbor",
+          "duration": "07'48\"",
+          "disc": "CD_2"
+        },
+        {
+          "n": 16,
+          "title": "The Pale Criminal",
+          "duration": "07'43\"",
+          "disc": "CD_2"
+        },
+        {
+          "n": 17,
+          "title": "Old and Young Women",
+          "duration": "11'32\"",
+          "disc": "CD_2"
+        },
+        {
+          "n": 18,
+          "title": "The Bite of the Adder",
+          "duration": "09'23\"",
+          "disc": "CD_3"
+        },
+        {
+          "n": 19,
+          "title": "The Way of the Creator",
+          "duration": "07'37\"",
+          "disc": "CD_3"
+        },
+        {
+          "n": 20,
+          "title": "The Academic Chairs of Virtue",
+          "duration": "01'57\"",
+          "disc": "CD_3"
+        },
+        {
+          "n": 21,
+          "title": "The Friend",
+          "duration": "10'06\"",
+          "disc": "CD_3"
+        },
+        {
+          "n": 22,
+          "title": "The Giving Virtue",
+          "duration": "02'36\"",
+          "disc": "CD_3"
+        },
+        {
+          "n": 23,
+          "title": "Child and Marriage",
+          "duration": "09'51\"",
+          "disc": "CD_3"
+        },
+        {
+          "n": 24,
+          "title": "The Thousand and One Goals",
+          "duration": "08'44\"",
+          "disc": "CD_3"
+        },
+        {
+          "n": 25,
+          "title": "Voluntary Death",
+          "duration": "05'04\"",
+          "disc": "CD_3"
+        }
+      ],
+      "releaseDate": "August 2002",
+      "releaseDateSource": "https://lorenzobrusci.com/#history",
+      "externalLinks": [
+        {
+          "label": "Bandcamp — Vol. 1",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/zarathustra-vol-1"
+        },
+        {
+          "label": "Bandcamp — Vol. 2",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/zarathustra-vol-2"
+        },
+        {
+          "label": "Bandcamp — Vol. 3",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/zarathustra-vol-3"
+        }
+      ],
+      "descriptionSource": "https://lorenzobrusci.com/#history",
+      "sortDate": 2002.6
+    },
+    {
+      "slug": "metamorfosi-di-canzoni-napoletane",
+      "title": "Metamorfosi di canzoni napoletane",
+      "sourceTitle": "Metamorfosi di canzoni napoletane",
+      "year": 2003,
+      "yearSource": "downloads/metamorfosi.htm (remixing March–April 2003); client note 2026-11-04",
+      "releaseDate": "2003",
+      "releaseDateSource": "downloads/metamorfosi.htm + client note",
+      "sortDate": 2003.25,
+      "sourcePage": "downloads/metamorfosi.htm",
+      "description": "Elettroidee sulla zoomorfosi sonora di alcune canzoni napoletane\nElectro-Ideas on the zoomorphosis of some neapolitan songs\n\nOriginal interpretations of neapolitan traditional songs by Mariposa.\nEditing, re-mixing and transfigurations by Lorenzo Brusci - Timet\n\nTIMET - ensemble MARIPOSA",
+      "descriptionSource": "downloads/metamorfosi.htm",
+      "coverImage": "Assets/immagini/downloads/cd_metamorfosi.jpg",
+      "coverThumb": null,
+      "audioFolder": "mp3/metamorfosi",
+      "audioNote": "Original Mariposa versions and Timet re-mixes are held in the archive; the Bandcamp edition is the published listening copy.",
+      "lineup": [
+        {
+          "name": "Lorenzo Brusci",
+          "role": "sound designer, composition, editing and mastering"
+        },
+        {
+          "name": "Enzo Cimino",
+          "role": "sound technician, glockenspiel and percussion"
+        },
+        {
+          "name": "Alessandro Fiori",
+          "role": "vocals, violin, harmonium"
+        },
+        {
+          "name": "Enrico Gabrielli",
+          "role": "flute, clarinets, sax and composition"
+        },
+        {
+          "name": "Gianluca Giusti",
+          "role": "keyboards"
+        },
+        {
+          "name": "Rocco Marchi",
+          "role": "electric guitar, harmonium and mini moog"
+        },
+        {
+          "name": "Michele Orvieti",
+          "role": "keyboards"
+        },
+        {
+          "name": "Pierpaolo Cimino",
+          "role": "live electronics and loops in Cicerenella"
+        },
+        {
+          "name": "Mattia Di Rosa",
+          "role": "vocal argument in Palumma"
+        },
+        {
+          "name": "Mario Frezzato",
+          "role": "english horn in Cicerenella"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Meta.Guarracino — freely from “Lo Guarracino”, di ignoti (1700 c.a.)",
+          "duration": "10:18"
+        },
+        {
+          "n": 2,
+          "title": "Meta.Merlo — freely from “Miérolo Affortunato”, versi di S. Di Giacomo, musica di E.A. Mario (1926)",
+          "duration": "6:02"
+        },
+        {
+          "n": 3,
+          "title": "Meta.Cammello — freely from “Caravan Petrol”, di Renato Carosone",
+          "duration": "7:44"
+        },
+        {
+          "n": 4,
+          "title": "Meta.Cicerenella — freely from “Cicerenella”, di ignoti (1750 c.a.)",
+          "duration": "6:26"
+        },
+        {
+          "n": 5,
+          "title": "Meta.Palummella — freely from “La palummella”, versi attr. a D. Bolognese, versi di ignoto (pubbl. T. Cottrau, Napoli 1837)",
+          "duration": "6:55"
+        },
+        {
+          "n": 6,
+          "title": "Meta.Palumma — freely from “Palumm’e notte”",
+          "duration": "6:16"
+        },
+        {
+          "n": 7,
+          "title": "Meta.Ciuccio — freely from “Lo ciuccio de Cola”",
+          "duration": "8:52"
+        }
+      ],
+      "creditsNotes": [
+        "Acoustic recordings made by Enzo and Pierpaolo Cimino at ObstUndGemuse studio, Cerro Veronese (VR), May 2001.",
+        "Remixing, editing and mastering made by Lorenzo Brusci at Timet studio, Ripa di Pietrasanta (Lucca), Italia, between March and April 2003; assisted with love and patience by Mariposa."
+      ],
+      "externalLinks": [
+        {
+          "label": "Bandcamp",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/metamorfosi-di-canzoni-napoletane"
+        }
+      ],
+      "anomalies": []
+    },
+    {
+      "slug": "nova-compilatione",
+      "title": "Nova Compilatione",
+      "sourceTitle": "The Metacollectors (Nova Compilatione) — Lorenzo Brusci, Paolo Frasconi",
+      "year": 2000,
+      "yearSource": "Bandcamp (Vol. 1: 3 Jan 2000; Vol. 2: 1 Apr 2000); about signed L. Brusci, 2001",
+      "releaseDate": "2000 — Vol. 1: 3 January; Vol. 2: 1 April",
+      "releaseDateSource": "Bandcamp album pages",
+      "sortDate": 2000.0,
+      "sourcePage": "Bandcamp Vol. 1 and Vol. 2; legacy: downloads/compilatione.htm",
+      "description": "\"...The challenge was clear: sampling arts with a more certain contextualization. Paolo Frasconi helped me to frame properly the compositional modality. Many composers and musicians from the Timet network accepted to join the experiment.\nWe split the results in 2 releases (...).\nL. Brusci, 2001",
+      "descriptionSource": "Bandcamp (Vol. 1 and Vol. 2 about text)",
+      "coverImage": "covers/nova-compilatione.jpg",
+      "coverThumb": null,
+      "audioFolder": null,
+      "audioNote": "Published on Bandcamp in two volumes; no audio is stored in this repository.",
+      "lineup": [
+        {
+          "name": "Lorenzo Brusci",
+          "role": "Composer"
+        },
+        {
+          "name": "Paolo Frasconi",
+          "role": "Composer"
+        },
+        {
+          "name": "Beppe Mangione",
+          "role": "Composer"
+        },
+        {
+          "name": "Mirio Cosottini",
+          "role": "Composer"
+        },
+        {
+          "name": "Andrea de Luca",
+          "role": "Composer"
+        },
+        {
+          "name": "Stefano Roslmair",
+          "role": "Composer"
+        },
+        {
+          "name": "Mariposa",
+          "role": "Composer"
+        },
+        {
+          "name": "Letizia Renzini",
+          "role": "Composer"
+        },
+        {
+          "name": "Andres Bosshard",
+          "role": "Composer"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Stravy the Arabesque (feat. Enrico Gabrielli)",
+          "duration": "8:00",
+          "disc": "Vol. 1"
+        },
+        {
+          "n": 2,
+          "title": "Loss of Entropy",
+          "duration": "3:25",
+          "disc": "Vol. 1"
+        },
+        {
+          "n": 3,
+          "title": "Lexipiano (feat. Stefano Roslmair)",
+          "duration": "7:46",
+          "disc": "Vol. 1"
+        },
+        {
+          "n": 4,
+          "title": "Trap at the End",
+          "duration": "3:49",
+          "disc": "Vol. 1"
+        },
+        {
+          "n": 5,
+          "title": "An Die Musiz (feat. Andrea de Luca & Mirio Cosottini)",
+          "duration": "4:00",
+          "disc": "Vol. 1"
+        },
+        {
+          "n": 6,
+          "title": "Il Mostro e L'aerosol (feat. Mariposa)",
+          "duration": "4:55",
+          "disc": "Vol. 1"
+        },
+        {
+          "n": 7,
+          "title": "Obsession",
+          "duration": "2:48",
+          "disc": "Vol. 1"
+        },
+        {
+          "n": 8,
+          "title": "Run Gould Run (eat. Letizia Renzini)",
+          "duration": "5:24",
+          "disc": "Vol. 2"
+        },
+        {
+          "n": 9,
+          "title": "Not Quite a Panther",
+          "duration": "3:51",
+          "disc": "Vol. 2"
+        },
+        {
+          "n": 10,
+          "title": "Intercultura (feat. Mirio Cosottini)",
+          "duration": "4:07",
+          "disc": "Vol. 2"
+        },
+        {
+          "n": 11,
+          "title": "Sky Tribunal",
+          "duration": "6:58",
+          "disc": "Vol. 2"
+        },
+        {
+          "n": 12,
+          "title": "Distacco (feat. Phonat & Dj Seya)",
+          "duration": "3:59",
+          "disc": "Vol. 2"
+        },
+        {
+          "n": 13,
+          "title": "The Dance of a Tricky Gnome",
+          "duration": "3:06",
+          "disc": "Vol. 2"
+        },
+        {
+          "n": 14,
+          "title": "Orchestral Scream",
+          "duration": "12:56",
+          "disc": "Vol. 2"
+        }
+      ],
+      "creditsNotes": [
+        "Composers: Lorenzo Brusci, Paolo Frasconi, Beppe Mangione, Mirio Cosottini, Andrea de Luca, Stefano Roslmair, Mariposa, Letizia Renzini, Andres Bosshard."
+      ],
+      "externalLinks": [
+        {
+          "label": "Bandcamp — Vol. 1",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/the-metacollectors-nova-compilatione-lorenzo-brusci-paolo-frasconi-vol-1"
+        },
+        {
+          "label": "Bandcamp — Vol. 2",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/the-metacollectors-nova-compilatione-lorenzo-brusci-paolo-frasconi-vol-2"
+        }
+      ],
+      "anomalies": [
+        "The original 18-track Compilatione page and the 14-track Nova Compilatione edition do not list identical tracks. The Nova edition is the published Bandcamp version."
+      ]
+    },
+    {
+      "slug": "easy-classics",
+      "title": "Easy Classics",
+      "sourceTitle": "Easy Classics (in Electronics)",
+      "year": 2000,
+      "yearSource": "Bandcamp, 1 May 2000",
+      "releaseDate": "1 May 2000",
+      "releaseDateSource": "Bandcamp album page",
+      "sortDate": 2000.4,
+      "sourcePage": "Bandcamp; legacy: downloads/easycl.htm",
+      "description": "\"...What if cultivated musicians could deal with the classical repertoire as a Dj or an electronic producer would use any music artwork or sample or music library, live or in the studio practices: interpreting this huge collection of music expressions as a starting and solid reference for a new and abstract concert ritual, synchronically multilayered, diachronically wide and inclusive, reopenable as only a radical sampling practice could allow postmodern musicians to be, with their synthetic idiosyncrasies (simplifications...ripen postmodernity) (...).\nI can imagine Glen Gould accepting the challenge: conducting in real time a recorded piece, altering its musical fundamentals, without losing the linear evolution, or just preserving the strong memory of the reference, altering its time consistency and its original narrative or ritual function (...). \nAn open door for future integral and extensive meta-players, ultra-level djs (...)\".\n\nLorenzo Brusci, December 2005",
+      "descriptionSource": "Bandcamp",
+      "coverImage": "covers/easy-classics.jpg",
+      "coverThumb": null,
+      "audioFolder": null,
+      "audioNote": "Published on Bandcamp; no audio is stored in this repository.",
+      "lineup": [
+        {
+          "name": "Lorenzo Brusci",
+          "role": "Composer and metacomposer"
+        },
+        {
+          "name": "Mirio Cosottini",
+          "role": "Composer and metacomposer"
+        },
+        {
+          "name": "Stefano Roslmair",
+          "role": "Composer and metacomposer"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Mt Petrushka",
+          "duration": "34:54"
+        },
+        {
+          "n": 2,
+          "title": "UltraGouldyGoldyBach",
+          "duration": "5:24"
+        },
+        {
+          "n": 3,
+          "title": "Mt. Pavane",
+          "duration": "5:41"
+        },
+        {
+          "n": 4,
+          "title": "Mt Ellingtonians",
+          "duration": "4:31"
+        },
+        {
+          "n": 5,
+          "title": "Mt Prelude",
+          "duration": "10:27"
+        },
+        {
+          "n": 6,
+          "title": "Mt Diotima",
+          "duration": "7:32"
+        },
+        {
+          "n": 7,
+          "title": "Mt Minimalism",
+          "duration": "4:45"
+        },
+        {
+          "n": 8,
+          "title": "Mt VerlaktNacht",
+          "duration": "5:22"
+        },
+        {
+          "n": 9,
+          "title": "Mt pianoconcerto",
+          "duration": "13:50"
+        },
+        {
+          "n": 10,
+          "title": "Mt BeethBachOven",
+          "duration": "11:10"
+        },
+        {
+          "n": 11,
+          "title": "Mt MinimalBeethStrings",
+          "duration": "9:40"
+        }
+      ],
+      "creditsNotes": [
+        "Composers and Metacomposers: Lorenzo Brusci, Mirio Cosottini, Stefano Roslmair."
+      ],
+      "externalLinks": [
+        {
+          "label": "Bandcamp",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/easy-classics-in-electronics"
+        }
+      ],
+      "anomalies": [
+        "The legacy page lists 9 tracks; the Bandcamp edition has 11. The Bandcamp tracklist is used here."
+      ]
+    },
+    {
+      "slug": "societa-ritmico-sintetica",
+      "title": "Società Ritmico Sintetica",
+      "sourceTitle": "Società Ritmico Sintetica — Synthetic Rhythmical Society",
+      "year": 2003,
+      "yearSource": "downloads/srs.htm (stereo mix dated July 2003); Bandcamp date 1 January 2004",
+      "releaseDate": "July 2003 (Bandcamp: 1 January 2004)",
+      "releaseDateSource": "downloads/srs.htm + Bandcamp",
+      "sortDate": 2003.5,
+      "sourcePage": "Bandcamp; legacy: downloads/srs.htm",
+      "description": "\"...Gathering friends around the rhythmical pretext of telling stories about music obsessions and uncertainties... imminent and multi-historical challenges, necessary and divisive (...). Songs as life, ...life has rare fundamental redundant forms. Organisms? We, the ones that challenge any consistency. The experimental ones, ...\".\n\nLorenzo Brusci, 2005",
+      "descriptionSource": "Bandcamp",
+      "coverImage": "covers/societa-ritmico-sintetica.jpg",
+      "coverThumb": null,
+      "audioFolder": null,
+      "audioNote": "Published on Bandcamp; no audio is stored in this repository.",
+      "lineup": [
+        {
+          "name": "Lorenzo Brusci",
+          "role": "Composition and electronics"
+        },
+        {
+          "name": "Enrico Gabrielli",
+          "role": "Keyboards, flutes and clarinets"
+        },
+        {
+          "name": "Stefano Roslmair",
+          "role": "Keyboards (on “Fast Becoming”)"
+        },
+        {
+          "name": "Preot Buxton",
+          "role": "Vocals"
+        },
+        {
+          "name": "Letizia Renzini",
+          "role": "Vocals"
+        },
+        {
+          "name": "Reuven Halevi",
+          "role": "Vocals"
+        },
+        {
+          "name": "Giovanni Cerrone",
+          "role": "Multilingual vocals"
+        },
+        {
+          "name": "Mirko Guerrini",
+          "role": "Sax"
+        },
+        {
+          "name": "Mattia di Rosa",
+          "role": "Special vocal guest"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Perfect Environment I define my Love (feat. Preot Buxton & Enrico Gabrielli)",
+          "duration": "7:27"
+        },
+        {
+          "n": 2,
+          "title": "Fast Becoming Rest No Present (feat. Ares Tavolazzi, Enrico Gabrielli, Stefano Roslmair & Preot Buxton)",
+          "duration": "7:26"
+        },
+        {
+          "n": 3,
+          "title": "The daughter of Youth (feat. Mirko Guerrini)",
+          "duration": "5:12"
+        },
+        {
+          "n": 4,
+          "title": "Derived Derided Deprived Divided (feat. Enrico Gabrielli)",
+          "duration": "4:29"
+        },
+        {
+          "n": 5,
+          "title": "The Fury (feat. Preot Buxton & Enrico Gabrielli)",
+          "duration": "4:24"
+        },
+        {
+          "n": 6,
+          "title": "The Oracle (feat. Preot Buxton & Letizia Renzini)",
+          "duration": "4:11"
+        },
+        {
+          "n": 7,
+          "title": "the Alter Thread or the Explicit Racing (feat. Reuven Halevi & Letizia Renzini)",
+          "duration": "7:32"
+        },
+        {
+          "n": 8,
+          "title": "The First American Was Not American (feat. Giovanni Cerrone & Mirko Guerrini)",
+          "duration": "4:20"
+        },
+        {
+          "n": 9,
+          "title": "The Intelligent Selective Flipper",
+          "duration": "6:28"
+        },
+        {
+          "n": 10,
+          "title": "The Legendary Same Sex Milk (feat. Preot Buxton & Enrico Gabrielli)",
+          "duration": "3:34"
+        },
+        {
+          "n": 11,
+          "title": "The Unpersonal Witness (feat. Enrico Gabrielli)",
+          "duration": "4:43"
+        },
+        {
+          "n": 12,
+          "title": "The Monster's Drive",
+          "duration": "8:53"
+        }
+      ],
+      "creditsNotes": [
+        "Composition and Electronics, Lorenzo Brusci. Keyboards, Enrico Gabrielli, Stefano Roslmair. Vocals, Preot Buxton, Letizia Renzini, Lorenzo Brusci, Reuven Halevi. Multilingual vocals, Giovanni Cerrone. Sax, Mirko Guerrini. Flutes and Clarinettes, Enrico Gabrielli. Special Vocal Guest, Mattia di Rosa."
+      ],
+      "externalLinks": [
+        {
+          "label": "Bandcamp",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/societ-ritmico-sintetica-synthetic-rhythmical-society"
+        }
+      ],
+      "anomalies": [
+        "The legacy page lists 15 tracks; the Bandcamp edition has 12. The Bandcamp tracklist is used here."
+      ]
+    },
+    {
+      "slug": "lole",
+      "title": "LoLe #1, Musica Leggiadra",
+      "sourceTitle": "Musica Leggiadra — Letizia Renzini, Lorenzo Brusci, TIMET",
+      "year": 2006,
+      "yearSource": "Bandcamp, 1 January 2006; legacy excerpt dated 2002",
+      "releaseDate": "2006 (legacy excerpt 2002)",
+      "releaseDateSource": "Bandcamp + downloads/lole.htm",
+      "sortDate": 2006.0,
+      "sourcePage": "Bandcamp; legacy: downloads/lole.htm",
+      "description": "Notes from the CD, 2006.\n\n\"Un disco può suggerire modi e tecniche di coesistenza tra un essere umano dotato di memoria e un organismo elettroacustico preesistente ma aperto all'uso.\nCosì una donna cantante si fa essere prototipico, guida per l'esplorazione e la ricomposizione di svariati aggregati informi (...).\n\nMixed and Mastered by Lorenzo Brusci between October 2001 and December 2004. Timet Studio, Montevarchi (AR).\n\nProduced by Massimo Bressan\n\nArt direction, Lorenzo Brusci & Letizia Renzini",
+      "descriptionSource": "Bandcamp",
+      "coverImage": "covers/lole.jpg",
+      "coverThumb": null,
+      "audioFolder": null,
+      "audioNote": "Published on Bandcamp; no audio is stored in this repository.",
+      "lineup": [
+        {
+          "name": "Lorenzo Brusci",
+          "role": "Music, live electronics, sound design, co-producer"
+        },
+        {
+          "name": "Letizia Renzini",
+          "role": "Vocals, vocal arrangements, co-producer"
+        },
+        {
+          "name": "Mirio Cosottini",
+          "role": "Trumpet"
+        },
+        {
+          "name": "Massimo Bressan",
+          "role": "Executive producer"
+        },
+        {
+          "name": "Paolo Fiumi",
+          "role": "Cover and booklet design"
+        }
+      ],
+      "tracks": [
+        {
+          "n": 1,
+          "title": "Piccoli Corpi",
+          "duration": "13:49"
+        },
+        {
+          "n": 2,
+          "title": "Too Sophisticated",
+          "duration": "4:11"
+        },
+        {
+          "n": 3,
+          "title": "Lonely Woman",
+          "duration": "14:36"
+        },
+        {
+          "n": 4,
+          "title": "Delete",
+          "duration": "4:51"
+        },
+        {
+          "n": 5,
+          "title": "Night of the Hunter",
+          "duration": "9:45"
+        },
+        {
+          "n": 6,
+          "title": "Run Gould Run",
+          "duration": "5:26"
+        },
+        {
+          "n": 7,
+          "title": "Florence Nightingale",
+          "duration": "7:43"
+        },
+        {
+          "n": 8,
+          "title": "Josephine",
+          "duration": "2:02"
+        }
+      ],
+      "creditsNotes": [
+        "Music, Lorenzo Brusci. Vocals, Letizia Renzini (vocal arrangements). Trumpet, Mirio Cosottini. Live electronics and sound design, Lorenzo Brusci. Executive producer, Massimo Bressan. Cover and booklet design, Paolo Fiumi."
+      ],
+      "externalLinks": [
+        {
+          "label": "Bandcamp",
+          "url": "https://lorenzobrusci-timet.bandcamp.com/album/musica-leggiadra-letizia-renzini-lorenzo-brusci-timet"
+        }
+      ],
+      "anomalies": [
+        "The legacy page lists one 2002 excerpt; the Bandcamp edition has 8 tracks. The Bandcamp tracklist is used here."
+      ]
+    }
+  ],
+  "additionalReleasesFound": [
+    {
+      "slug": "ambienti-tribali-moderni",
+      "title": "Ambienti Tribali Moderni",
+      "year": 2004,
+      "sourcePage": "downloads/ATM.htm",
+      "note": "9 tracks. Conceived and composed by G. Mangione."
+    },
+    {
+      "slug": "marble-a-matter-of-evidence",
+      "title": "Marble. A matter of evidence",
+      "year": "TODO: verify",
+      "sourcePage": "downloads/marble.htm",
+      "note": "3 stereo excerpts, DVD 5.1."
+    },
+    {
+      "slug": "108-pieces-for-the-web",
+      "title": "108 pieces for the web",
+      "year": 2004,
+      "sourcePage": "downloads/database/index.HTM",
+      "note": "Database-driven web project. Source files are in downloads/database/mp3: 109 MP3 files, 500 MB. The page lists 108 pieces; one extra file is present. Not published in this repository."
+    }
+  ]
+}

@@ -1,0 +1,3209 @@
+{
+  "generated": "2026-11-04",
+  "root": "/Users/lorenzobrusci2020/TIMET_SITO_BACKUP",
+  "totalFiles": 2781,
+  "totalBytes": 4065328413,
+  "folders": {
+    "(root)": {
+      "files": 19,
+      "bytes": 254748,
+      "mb": 0.2,
+      "ext": {
+        "htm": 7,
+        "html": 5,
+        "asp": 3,
+        "html_": 1,
+        "config": 1,
+        "js": 1,
+        "htm_": 1
+      }
+    },
+    "App_Data": {
+      "files": 1,
+      "bytes": 166,
+      "mb": 0.0,
+      "ext": {
+        "config": 1
+      }
+    },
+    "Assets": {
+      "files": 294,
+      "bytes": 3290293,
+      "mb": 3.1,
+      "ext": {
+        "jpg": 196,
+        "gif": 91,
+        "htm": 3,
+        "asp": 2,
+        "mov": 1,
+        "png": 1
+      }
+    },
+    "Backup": {
+      "files": 1,
+      "bytes": 13979,
+      "mb": 0.0,
+      "ext": {
+        "htm": 1
+      }
+    },
+    "Compilazione": {
+      "files": 21,
+      "bytes": 90926521,
+      "mb": 86.7,
+      "ext": {
+        "mp3": 19,
+        "html": 1,
+        "css": 1
+      }
+    },
+    "Connections": {
+      "files": 6,
+      "bytes": 1512,
+      "mb": 0.0,
+      "ext": {
+        "asp": 6
+      }
+    },
+    "GSLI_img": {
+      "files": 508,
+      "bytes": 163808920,
+      "mb": 156.2,
+      "ext": {
+        "jpg": 456,
+        "gif": 16,
+        "pdf": 13,
+        "mov": 10,
+        "swf": 8,
+        "doc": 3,
+        "html": 2
+      }
+    },
+    "_notes": {
+      "files": 2,
+      "bytes": 19189,
+      "mb": 0.0,
+      "ext": {
+        "xml": 2
+      }
+    },
+    "about": {
+      "files": 20,
+      "bytes": 283367,
+      "mb": 0.3,
+      "ext": {
+        "htm": 20
+      }
+    },
+    "anti": {
+      "files": 1,
+      "bytes": 12272,
+      "mb": 0.0,
+      "ext": {
+        "htm": 1
+      }
+    },
+    "articles": {
+      "files": 6,
+      "bytes": 469681,
+      "mb": 0.4,
+      "ext": {
+        "htm": 4,
+        "pdf": 2
+      }
+    },
+    "aspnet_client": {
+      "files": 7,
+      "bytes": 52720,
+      "mb": 0.1,
+      "ext": {
+        "js": 5,
+        "htm": 2
+      }
+    },
+    "cgi-bin": {
+      "files": 2,
+      "bytes": 999,
+      "mb": 0.0,
+      "ext": {
+        "php": 1,
+        "config": 1
+      }
+    },
+    "css": {
+      "files": 1,
+      "bytes": 1417,
+      "mb": 0.0,
+      "ext": {
+        "css": 1
+      }
+    },
+    "database": {
+      "files": 455,
+      "bytes": 1346961096,
+      "mb": 1284.6,
+      "ext": {
+        "mp3": 449,
+        "asp": 6
+      }
+    },
+    "downloads": {
+      "files": 157,
+      "bytes": 590570904,
+      "mb": 563.2,
+      "ext": {
+        "mp3": 124,
+        "htm": 24,
+        "asp": 3,
+        "jpg": 1,
+        "html": 1,
+        "doc": 1,
+        "css": 1,
+        "swf": 1,
+        "xml": 1
+      }
+    },
+    "events": {
+      "files": 372,
+      "bytes": 130642858,
+      "mb": 124.6,
+      "ext": {
+        "jpg": 287,
+        "htm": 73,
+        "swf": 7,
+        "pdf": 3,
+        "php": 1,
+        "mp3": 1
+      }
+    },
+    "forum": {
+      "files": 219,
+      "bytes": 2691446,
+      "mb": 2.6,
+      "ext": {
+        "gif": 119,
+        "asp": 94,
+        "js": 3,
+        "mdb": 1,
+        "htm": 1,
+        "txt": 1
+      }
+    },
+    "gdc": {
+      "files": 5,
+      "bytes": 33787,
+      "mb": 0.0,
+      "ext": {
+        "asp": 3,
+        "htm": 1,
+        "css": 1
+      }
+    },
+    "guest": {
+      "files": 31,
+      "bytes": 119805581,
+      "mb": 114.3,
+      "ext": {
+        "mp3": 20,
+        "htm": 10,
+        "pdf": 1
+      }
+    },
+    "icons": {
+      "files": 75,
+      "bytes": 31159,
+      "mb": 0.0,
+      "ext": {
+        "png": 75
+      }
+    },
+    "images": {
+      "files": 2,
+      "bytes": 3953,
+      "mb": 0.0,
+      "ext": {
+        "asp": 2
+      }
+    },
+    "mdb-database": {
+      "files": 7,
+      "bytes": 1405265,
+      "mb": 1.3,
+      "ext": {
+        "mdb": 5,
+        "config": 1,
+        "(none)": 1
+      }
+    },
+    "modular": {
+      "files": 227,
+      "bytes": 362140031,
+      "mb": 345.4,
+      "ext": {
+        "htm": 101,
+        "jpg": 74,
+        "mp3": 40,
+        "mov": 8,
+        "swf": 2,
+        "pdf": 2
+      }
+    },
+    "mp3": {
+      "files": 149,
+      "bytes": 830614406,
+      "mb": 792.1,
+      "ext": {
+        "mp3": 141,
+        "tar": 7,
+        "html": 1
+      }
+    },
+    "public": {
+      "files": 16,
+      "bytes": 3606490,
+      "mb": 3.4,
+      "ext": {
+        "php": 5,
+        "config": 4,
+        "html": 2,
+        "xml": 2,
+        "htm": 1,
+        "(none)": 1,
+        "ico": 1
+      }
+    },
+    "stream": {
+      "files": 40,
+      "bytes": 605801,
+      "mb": 0.6,
+      "ext": {
+        "xml": 14,
+        "swf": 13,
+        "htm": 13
+      }
+    },
+    "timet new": {
+      "files": 34,
+      "bytes": 58659,
+      "mb": 0.1,
+      "ext": {
+        "gif": 31,
+        "db": 2,
+        "asp": 1
+      }
+    },
+    "timet.org": {
+      "files": 3,
+      "bytes": 36394,
+      "mb": 0.0,
+      "ext": {
+        "inc": 1,
+        "asp": 1,
+        "js": 1
+      }
+    },
+    "timet_test": {
+      "files": 63,
+      "bytes": 488991,
+      "mb": 0.5,
+      "ext": {
+        "gif": 34,
+        "asp": 20,
+        "jpg": 3,
+        "htm": 2,
+        "db": 2,
+        "mdb": 1,
+        "mno": 1
+      }
+    },
+    "tracks": {
+      "files": 36,
+      "bytes": 416494979,
+      "mb": 397.2,
+      "ext": {
+        "mp3": 35,
+        "htm": 1
+      }
+    },
+    "work file": {
+      "files": 1,
+      "bytes": 829,
+      "mb": 0.0,
+      "ext": {
+        "html": 1
+      }
+    }
+  },
+  "filesOver2MB": [
+    {
+      "path": "tracks/easy_classics/cd_1/01 - petruska_(CD1).mp3",
+      "bytes": 50301177,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/il silenzio dei cani crocifissi/timet - Track04.mp3",
+      "bytes": 40857599,
+      "ext": "mp3"
+    },
+    {
+      "path": "events/Andres SGLab promenade.mp3",
+      "bytes": 35101405,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/il silenzio dei cani crocifissi/timet - Track03.mp3",
+      "bytes": 30721879,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/Sempre straniero/- Track01.mp3",
+      "bytes": 29785860,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/butterfly/Timet - 01 ('Butterfly'  Musician Ikue Mori, conduction).mp3",
+      "bytes": 27481338,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Emigrazioni/emigrazioni 02.mp3",
+      "bytes": 22926523,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/notte.tar",
+      "bytes": 22312960,
+      "ext": "tar"
+    },
+    {
+      "path": "GSLI_img/video/promenade_2.mov",
+      "bytes": 21594099,
+      "ext": "mov"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 05.mp3",
+      "bytes": 21526568,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/easy_classics/cd_1/03 - chopin_(CD1).mp3",
+      "bytes": 19969252,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/il silenzio dei cani crocifissi/timet - Track01.mp3",
+      "bytes": 19081507,
+      "ext": "mp3"
+    },
+    {
+      "path": "GSLI_img/video/promenade_3.mov",
+      "bytes": 18888430,
+      "ext": "mov"
+    },
+    {
+      "path": "GSLI_img/video/promenade_1.mov",
+      "bytes": 18632553,
+      "ext": "mov"
+    },
+    {
+      "path": "mp3/exc/hic.mp3",
+      "bytes": 18282288,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/radiotopia/- 8 - opening klangpark.mp3",
+      "bytes": 18004554,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 01.mp3",
+      "bytes": 17136116,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/Klang/- Track01 ().mp3",
+      "bytes": 16805719,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_2/07 - Old and young women_(CD2).mp3",
+      "bytes": 16611368,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/radiotopia/- 5 - monday session.mp3",
+      "bytes": 16451627,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 06.mp3",
+      "bytes": 16252132,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/easy_classics/cd_1/04 - bach_bee_(CD1).mp3",
+      "bytes": 16142418,
+      "ext": "mp3"
+    },
+    {
+      "path": "GSLI_img/video/CampiBisenzio.mov",
+      "bytes": 15831011,
+      "ext": "mov"
+    },
+    {
+      "path": "database/db 1/db 1 - 04.mp3",
+      "bytes": 15635225,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Emigrazioni/emigrazioni 01.mp3",
+      "bytes": 15254046,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track07 (cicli di sintesi).mp3",
+      "bytes": 15188844,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 03.mp3",
+      "bytes": 15175052,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/easy_classics/cd_1/02 - wagner_(CD1).mp3",
+      "bytes": 15091669,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/08 - War and warriors_(CD1).mp3",
+      "bytes": 15077249,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Metamorfosi/guarracino.mp3",
+      "bytes": 14787957,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_3/04 - The friend_(CD3).mp3",
+      "bytes": 14657200,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/radiotopia/- 3 - soire\u00e8.mp3",
+      "bytes": 14437273,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track15 (cicli di sintesi).mp3",
+      "bytes": 14319280,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_3/06 - Child and marriage_(CD3).mp3",
+      "bytes": 14287933,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/11-presunzioni.mp3",
+      "bytes": 13834259,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_3/01 - The bite of the adder_(CD3).mp3",
+      "bytes": 13575731,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Egk orch 2.mp3",
+      "bytes": 13453478,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/butterfly/Timet - 04 ('Butterfly'  Musician Ikue Mori, conduction).mp3",
+      "bytes": 13330808,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Lukas Ligeti ensemble.mp3",
+      "bytes": 13295489,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/07 - The preachers of death_(CD1).mp3",
+      "bytes": 13262888,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Metamorfosi/ciuccio.mp3",
+      "bytes": 13024922,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/01 - Zarathustra's prologue__Zara_(CD1).mp3",
+      "bytes": 12942523,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 03.mp3",
+      "bytes": 12819643,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_3/07 - The thousand and one goals_(CD3).mp3",
+      "bytes": 12687986,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/butterfly/Timet - 02 ('Butterfly'  Musician Ikue Mori, conduction).mp3",
+      "bytes": 12661551,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/05 - Joys and passion_(CD1).mp3",
+      "bytes": 12627799,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 07.mp3",
+      "bytes": 12098036,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Cage a piano piece.mp3",
+      "bytes": 12079855,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 14.mp3",
+      "bytes": 11931270,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 24.mp3",
+      "bytes": 11790209,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Coltrane ensemble 4.mp3",
+      "bytes": 11749458,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 01.mp3",
+      "bytes": 11701811,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum 8.mp3",
+      "bytes": 11691780,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - Stravy arabesque.mp3",
+      "bytes": 11523173,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/16-restituzioni parte II.mp3",
+      "bytes": 11349073,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_2/05 - Love of the neighbor__(CD2).mp3",
+      "bytes": 11330036,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_2/06 - The pale criminal__(CD2).mp3",
+      "bytes": 11212172,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - Lexipiano.mp3",
+      "bytes": 11199059,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/03 - The new Idol_(CD1).mp3",
+      "bytes": 11182080,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/stressing/timet - Breakfast with blossom (lole).mp3",
+      "bytes": 11170551,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_2/04 - Chastity___(CD2)_.mp3",
+      "bytes": 11148851,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_2/01 - Reading and writing_(CD2).mp3",
+      "bytes": 11113115,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Metamorfosi/cammello.mp3",
+      "bytes": 11095832,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_3/02 - The way of the creator_(CD3).mp3",
+      "bytes": 11084903,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track05.mp3",
+      "bytes": 11007372,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 10.mp3",
+      "bytes": 10980831,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/stressing/timet - Track19.mp3",
+      "bytes": 10957136,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track05 (cicli di sintesi).mp3",
+      "bytes": 10926915,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/easy_classics/cd_2/05 - mt mono_(CD2).mp3",
+      "bytes": 10850428,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/restituzione.tar",
+      "bytes": 10833920,
+      "ext": "tar"
+    },
+    {
+      "path": "modular/galleria/stressing/timet - Track20.mp3",
+      "bytes": 10827986,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 17.mp3",
+      "bytes": 10785226,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 12.mp3",
+      "bytes": 10624730,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/dignita.tar",
+      "bytes": 10536960,
+      "ext": "tar"
+    },
+    {
+      "path": "downloads/database/mp3/K Berliotz orch.mp3",
+      "bytes": 10325053,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Varese orch.mp3",
+      "bytes": 10304364,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 11.mp3",
+      "bytes": 10291826,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Messiaen orch 2.mp3",
+      "bytes": 10279287,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 12.mp3",
+      "bytes": 10222862,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/marble/animal percussion  marble cave.mp3",
+      "bytes": 10178478,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/06 - The tre on the hill_(CD1).mp3",
+      "bytes": 10173334,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 01.mp3",
+      "bytes": 10173091,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/Sempre straniero/- Track03.mp3",
+      "bytes": 10102490,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Metamorfosi/palummella.mp3",
+      "bytes": 9918443,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 03.mp3",
+      "bytes": 9903124,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 17.mp3",
+      "bytes": 9819114,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 08.mp3",
+      "bytes": 9812844,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/02  - The despisers of the body_(CD1).mp3",
+      "bytes": 9794036,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Lo brusci 1.mp3",
+      "bytes": 9741373,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/marble/vintage electronics  marble cave.mp3",
+      "bytes": 9686830,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/jw/Stop&Start.mp3",
+      "bytes": 9564577,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 01.mp3",
+      "bytes": 9484328,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/Stabatbig.mp3",
+      "bytes": 9483310,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum-Leti voce.mp3",
+      "bytes": 9407215,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/altpop.tar",
+      "bytes": 9359360,
+      "ext": "tar"
+    },
+    {
+      "path": "GSLI_img/docs/Sonic_Eyes-GSLI_pre_catalogue.pdf",
+      "bytes": 9255559,
+      "ext": "pdf"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track01 (cicli di sintesi).mp3",
+      "bytes": 9249853,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 04.mp3",
+      "bytes": 9168978,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Metamorfosi/cicerenella.mp3",
+      "bytes": 9163610,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Metamorfosi/palumma.mp3",
+      "bytes": 9149186,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/jw/Chanson.mp3",
+      "bytes": 9135750,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track13.mp3",
+      "bytes": 9062190,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/15-Fatica l'Enrica.mp3",
+      "bytes": 9020623,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Sara V orch 4.mp3",
+      "bytes": 8992808,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 13.mp3",
+      "bytes": 8987166,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track10 (cicli di sintesi).mp3",
+      "bytes": 8955819,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 09.mp3",
+      "bytes": 8938892,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 25.mp3",
+      "bytes": 8800338,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K synth 1.mp3",
+      "bytes": 8797830,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 04.mp3",
+      "bytes": 8791062,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/melmoso.mp3",
+      "bytes": 8749684,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Metamorfosi/merlo.mp3",
+      "bytes": 8653276,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 26.mp3",
+      "bytes": 8619153,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/04 - The Giving virtue_(CD1).mp3",
+      "bytes": 8619153,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Davis ensemble 4.mp3",
+      "bytes": 8526993,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Bach orch 1.mp3",
+      "bytes": 8503169,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/16-C'era sempre qualcosa nelle poesie.mp3",
+      "bytes": 8458886,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_2/03 - The giving Virtue__(CD2).mp3",
+      "bytes": 8453014,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum 3.mp3",
+      "bytes": 8442983,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Pensiero abitabile.mp3",
+      "bytes": 8399423,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - a3d.mp3",
+      "bytes": 8306983,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/14-decadenze.mp3",
+      "bytes": 8184913,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/easy_classics/cd_1/05 - ravel_(CD1).mp3",
+      "bytes": 8177161,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/fs/frank shulte - elsewhere.mp3",
+      "bytes": 8113969,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 15.mp3",
+      "bytes": 8106944,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/ab/TATATASUSHIMAMIXSTEREO.mp3",
+      "bytes": 8042597,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Ives orch.mp3",
+      "bytes": 7977168,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Dividersi.mp3",
+      "bytes": 7976440,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track03 (cicli di sintesi).mp3",
+      "bytes": 7964002,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/mm/RANDOM_SUITE.mp3",
+      "bytes": 7923046,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/easy_classics/cd_2/01 - metabach_(CD2).mp3",
+      "bytes": 7838614,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Clavi 2.mp3",
+      "bytes": 7804132,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - Gouldy.mp3",
+      "bytes": 7787251,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/easy_classics/cd_2/02 - metachamber_(CD2).mp3",
+      "bytes": 7779055,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Ambienti tribali/Sweet Spasm.mp3",
+      "bytes": 7745536,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 06.mp3",
+      "bytes": 7737677,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 01.mp3",
+      "bytes": 7715734,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/fs/frank shulte - my way.mp3",
+      "bytes": 7714609,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/17-alle radici fisiche.mp3",
+      "bytes": 7714082,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 18.mp3",
+      "bytes": 7676864,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 93.mp3",
+      "bytes": 7624201,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/18-come saro bella.mp3",
+      "bytes": 7573648,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/pur/nonant.mp3",
+      "bytes": 7519085,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/figlia della giovinezza.mp3",
+      "bytes": 7500822,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/1-E.mp3",
+      "bytes": 7432586,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Janis J ensemble.mp3",
+      "bytes": 7431104,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K drum 2.mp3",
+      "bytes": 7410415,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 04.mp3",
+      "bytes": 7400384,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/11-cosparsi i bimbi temporale.mp3",
+      "bytes": 7327888,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/09 - The three metamorphoses__(CD1).mp3",
+      "bytes": 7325151,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_3/08 - Voluntary death_(CD3).mp3",
+      "bytes": 7312612,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 49.mp3",
+      "bytes": 7278758,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/14-partly living.mp3",
+      "bytes": 7228832,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/8-l'esibizione dell'interno.mp3",
+      "bytes": 7210650,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/marble/landslide  marble cave.mp3",
+      "bytes": 7210549,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Loro si chiamano.mp3",
+      "bytes": 7135513,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 37.mp3",
+      "bytes": 7105723,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/dt/1-primo contatto.mp3",
+      "bytes": 7105622,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - Radio-Pedagogici.mp3",
+      "bytes": 7082578,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/db/Dino Bramanti - trasto (Ampang).mp3",
+      "bytes": 7075840,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 38.mp3",
+      "bytes": 7029236,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 10.mp3",
+      "bytes": 7015444,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 04.mp3",
+      "bytes": 6999770,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Suicide ensemble.mp3",
+      "bytes": 6922657,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/easy_classics/cd_2/03 - tribute_(CD2).mp3",
+      "bytes": 6886921,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Schnittke orch.mp3",
+      "bytes": 6876263,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/butterfly/Timet - 03 ('Butterfly'  Musician Ikue Mori, conduction).mp3",
+      "bytes": 6861322,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_2/02 - the Afterwordly_(CD2).mp3",
+      "bytes": 6831124,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 05.mp3",
+      "bytes": 6799777,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/16-ascoltando la mente.mp3",
+      "bytes": 6747970,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/7-E' sempre tenero e azzurro.mp3",
+      "bytes": 6734803,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/6-pride.mp3",
+      "bytes": 6721637,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 16.mp3",
+      "bytes": 6713886,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Sara V orch 3.mp3",
+      "bytes": 6691316,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 09.mp3",
+      "bytes": 6673762,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Kagel coro.mp3",
+      "bytes": 6616710,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Ambienti tribali/Seconda Percezione.mp3",
+      "bytes": 6612992,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum 4.mp3",
+      "bytes": 6594141,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/stressing/timet - Track09.mp3",
+      "bytes": 6590507,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track04 (cicli di sintesi).mp3",
+      "bytes": 6590379,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track03.mp3",
+      "bytes": 6567809,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 11.mp3",
+      "bytes": 6564675,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 18.mp3",
+      "bytes": 6548374,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/Klang/- Track03 ().mp3",
+      "bytes": 6543986,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum D068.mp3",
+      "bytes": 6541478,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Xenakis orch.mp3",
+      "bytes": 6533328,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/15-pensiero cosa n te.mp3",
+      "bytes": 6509106,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/pur/fireworks_euneun.mp3",
+      "bytes": 6472017,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/3-la lettura.mp3",
+      "bytes": 6469608,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 13.mp3",
+      "bytes": 6469380,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Clavi 48FB.mp3",
+      "bytes": 6468126,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_1/10 - The flies in the market place_(CD1).mp3",
+      "bytes": 6467499,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/il derivato.mp3",
+      "bytes": 6461358,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 63.mp3",
+      "bytes": 6460731,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/7-l'incontro.mp3",
+      "bytes": 6457696,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 48.mp3",
+      "bytes": 6450572,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum 5.mp3",
+      "bytes": 6438033,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 10.mp3",
+      "bytes": 6420479,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 03.mp3",
+      "bytes": 6419852,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 02.mp3",
+      "bytes": 6404178,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Penderecki orch.mp3",
+      "bytes": 6402297,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/Track07.mp3",
+      "bytes": 6355904,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 32.mp3",
+      "bytes": 6337096,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Ambienti tribali/Interject.mp3",
+      "bytes": 6313984,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 07.mp3",
+      "bytes": 6312018,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/12-cosi pensiero abitabile.mp3",
+      "bytes": 6302216,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Sara V orch 2.mp3",
+      "bytes": 6244936,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/2-Inizia dal cervello.mp3",
+      "bytes": 6161154,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Piccola donna.mp3",
+      "bytes": 6159157,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/3-Ovunque e come ovunque.mp3",
+      "bytes": 6084041,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Schnittke orch 3.mp3",
+      "bytes": 6072528,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/10-le ipotesi.mp3",
+      "bytes": 6010690,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/stressing/timet - Track21.mp3",
+      "bytes": 5986765,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - Intercultura1.mp3",
+      "bytes": 5940292,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 07.mp3",
+      "bytes": 5923943,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/consegnarsi.tar",
+      "bytes": 5918720,
+      "ext": "tar"
+    },
+    {
+      "path": "database/db 2/db 2 - 08.mp3",
+      "bytes": 5918301,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/13-carne diffusa.mp3",
+      "bytes": 5914768,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track17 (cicli di sintesi).mp3",
+      "bytes": 5912031,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/1 lamentazione.mp3",
+      "bytes": 5900046,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 05.mp3",
+      "bytes": 5890216,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/8-Ascoltare la mente.mp3",
+      "bytes": 5853954,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 07.mp3",
+      "bytes": 5792913,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Yoshimatsu orch.mp3",
+      "bytes": 5771597,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - kono Seya.mp3",
+      "bytes": 5764119,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - AN die Muzik.mp3",
+      "bytes": 5763489,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 14.mp3",
+      "bytes": 5741504,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/- Track18.mp3",
+      "bytes": 5736488,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/video/valdambra.mov",
+      "bytes": 5716661,
+      "ext": "mov"
+    },
+    {
+      "path": "mp3/Ambienti tribali/Ambienti Tribali.mp3",
+      "bytes": 5711872,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 21.mp3",
+      "bytes": 5693230,
+      "ext": "mp3"
+    },
+    {
+      "path": "GSLI_img/video/promenade_4.mov",
+      "bytes": 5683998,
+      "ext": "mov"
+    },
+    {
+      "path": "mp3/Shadows/24-obedience.mp3",
+      "bytes": 5667754,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/6-dividersi come respirare, per tentare l'assieme.mp3",
+      "bytes": 5666499,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 23.mp3",
+      "bytes": 5663137,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Behrman ensemble.mp3",
+      "bytes": 5654986,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 11.mp3",
+      "bytes": 5628028,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/il silenzio dei cani crocifissi/timet - Track02.mp3",
+      "bytes": 5617370,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track06 (cicli di sintesi).mp3",
+      "bytes": 5616743,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/db/Dino Bramanti - lownext (Ampang).mp3",
+      "bytes": 5609472,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/1-T'abitui.mp3",
+      "bytes": 5591894,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/loozoo/endlost02.mp3",
+      "bytes": 5581416,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/5-Noi siamo qui.mp3",
+      "bytes": 5555531,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - notQuiteAPanther.mp3",
+      "bytes": 5500941,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Bach orch 4.mp3",
+      "bytes": 5466278,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - trapAtTheEnd.mp3",
+      "bytes": 5457127,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/jw/CUTGLA~1.mp3",
+      "bytes": 5445171,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 12.mp3",
+      "bytes": 5419884,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 24.mp3",
+      "bytes": 5417377,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Egk orch.mp3",
+      "bytes": 5408599,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 17.mp3",
+      "bytes": 5380387,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/17-reasons-18 beeing a mrtyr.mp3",
+      "bytes": 5369958,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 09.mp3",
+      "bytes": 5369102,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K synth 2.mp3",
+      "bytes": 5369102,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/mani.tar",
+      "bytes": 5355520,
+      "ext": "tar"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Colazione con la pietra.mp3",
+      "bytes": 5317398,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 11.mp3",
+      "bytes": 5303901,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 09.mp3",
+      "bytes": 5270673,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 10.mp3",
+      "bytes": 5257507,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 31.mp3",
+      "bytes": 5245595,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 16.mp3",
+      "bytes": 5243715,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/hann/OllieInDaTube150.mp3",
+      "bytes": 5211444,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Rispettare la tela.mp3",
+      "bytes": 5199110,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track11.mp3",
+      "bytes": 5164302,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 30.mp3",
+      "bytes": 5164093,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Ambienti tribali/Bubble Rite.mp3",
+      "bytes": 5152768,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 06.mp3",
+      "bytes": 5137762,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/6-la riconduzione.mp3",
+      "bytes": 5127959,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Manie di cinema.mp3",
+      "bytes": 5119277,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Ambienti tribali/Strati Remoti.mp3",
+      "bytes": 5115904,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 25.mp3",
+      "bytes": 5088234,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 17.mp3",
+      "bytes": 5073814,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 13.mp3",
+      "bytes": 5071306,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/7-W Maria pensando Napoleonico.mp3",
+      "bytes": 5069027,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Davis ensemble 2.mp3",
+      "bytes": 5038706,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Metamorfosi/distrazione.mp3",
+      "bytes": 5010140,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/equilibrio.tar",
+      "bytes": 4986880,
+      "ext": "tar"
+    },
+    {
+      "path": "mp3/CarneCapitata/12-L'avvolse in.mp3",
+      "bytes": 4970598,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/3-La danza lungo l'arteria.mp3",
+      "bytes": 4947401,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Schnittke orch 2.mp3",
+      "bytes": 4923976,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 21.mp3",
+      "bytes": 4919587,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 36.mp3",
+      "bytes": 4914572,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track08.mp3",
+      "bytes": 4913945,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/4-L'uomo e venuto con l'uomo.mp3",
+      "bytes": 4901634,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/dt/2-tai\u00e0 le gambe col pod\u00e8t.mp3",
+      "bytes": 4899634,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/5-restituzioni part. I.mp3",
+      "bytes": 4891603,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 51.mp3",
+      "bytes": 4891375,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 25.mp3",
+      "bytes": 4880717,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - Loss of Entropy.mp3",
+      "bytes": 4874625,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Bassi 1.mp3",
+      "bytes": 4821785,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/4-death from the sea.mp3",
+      "bytes": 4817624,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 09.mp3",
+      "bytes": 4813635,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/9-aprire e versare.mp3",
+      "bytes": 4787531,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/20-in our veins.mp3",
+      "bytes": 4786278,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/1-La piccola donna si difende.mp3",
+      "bytes": 4784396,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 03.mp3",
+      "bytes": 4778027,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Messiaen orch.mp3",
+      "bytes": 4754075,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Ambienti tribali/Fast Forward.mp3",
+      "bytes": 4753408,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/19-depart.mp3",
+      "bytes": 4744273,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track06.mp3",
+      "bytes": 4738402,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 12.mp3",
+      "bytes": 4724609,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/19-il pieno sviluppo dell'uguale.mp3",
+      "bytes": 4715434,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/9-E' perche ora puoi.mp3",
+      "bytes": 4698506,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 13.mp3",
+      "bytes": 4693889,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 15.mp3",
+      "bytes": 4687620,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 16.mp3",
+      "bytes": 4685112,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 23.mp3",
+      "bytes": 4667558,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 01.mp3",
+      "bytes": 4660035,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Shorter Drum.mp3",
+      "bytes": 4633703,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/2-the land.mp3",
+      "bytes": 4628916,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 28.mp3",
+      "bytes": 4626180,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/8-Son 4 anni e piu d'amore.mp3",
+      "bytes": 4608227,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/21-mywill.mp3",
+      "bytes": 4600077,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 14.mp3",
+      "bytes": 4574144,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/Il veloce.mp3",
+      "bytes": 4566071,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/10-e tutte le invenzioni.mp3",
+      "bytes": 4565596,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 06.mp3",
+      "bytes": 4561605,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/il furioso.mp3",
+      "bytes": 4546479,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 12.mp3",
+      "bytes": 4539035,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/L'economico.mp3",
+      "bytes": 4538904,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Costruisci la stanza.mp3",
+      "bytes": 4527870,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/Ambiente perfetto.mp3",
+      "bytes": 4512259,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 26.mp3",
+      "bytes": 4508942,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 29.mp3",
+      "bytes": 4503927,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 31.mp3",
+      "bytes": 4503927,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Rettili.mp3",
+      "bytes": 4478955,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/11-present.mp3",
+      "bytes": 4470928,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/9-il trasporto.mp3",
+      "bytes": 4467792,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/fs/frank shulte - projektionen.mp3",
+      "bytes": 4463305,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track12 (cicli di sintesi).mp3",
+      "bytes": 4457533,
+      "ext": "mp3"
+    },
+    {
+      "path": "Compilazione/mp3/Timet - Dance of a tricky gnome.mp3",
+      "bytes": 4456407,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 07.mp3",
+      "bytes": 4409259,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 13.mp3",
+      "bytes": 4404870,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/12-e carne cruda.mp3",
+      "bytes": 4400711,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Davis ensemble 3.mp3",
+      "bytes": 4381674,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 07.mp3",
+      "bytes": 4347819,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Ambienti tribali/Prima Percezione.mp3",
+      "bytes": 4343808,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 10.mp3",
+      "bytes": 4337788,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 17.mp3",
+      "bytes": 4308322,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/11-E' reagire.mp3",
+      "bytes": 4299774,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 08.mp3",
+      "bytes": 4285125,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Beach Boys ensemble 2.mp3",
+      "bytes": 4266944,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/20-gira la rota.mp3",
+      "bytes": 4245230,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Il canto.mp3",
+      "bytes": 4237377,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/- Track02.mp3",
+      "bytes": 4234343,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 08.mp3",
+      "bytes": 4218670,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 23.mp3",
+      "bytes": 4206131,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 24.mp3",
+      "bytes": 4204250,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 01.mp3",
+      "bytes": 4202497,
+      "ext": "mp3"
+    },
+    {
+      "path": "GSLI_img/video/gsli_foglie.mov",
+      "bytes": 4182745,
+      "ext": "mov"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 59.mp3",
+      "bytes": 4181181,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/12-submission.mp3",
+      "bytes": 4176267,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Partch low perc.mp3",
+      "bytes": 4154095,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 13.mp3",
+      "bytes": 4149706,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track13 (cicli di sintesi).mp3",
+      "bytes": 4149079,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Jusus MC.mp3",
+      "bytes": 4138421,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Partch perc.mp3",
+      "bytes": 4127137,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/video/giorgio.mov",
+      "bytes": 4103828,
+      "ext": "mov"
+    },
+    {
+      "path": "mp3/LaViaNegativa/4-l'invenzione.mp3",
+      "bytes": 4092256,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 32.mp3",
+      "bytes": 4080743,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum 9.mp3",
+      "bytes": 4052531,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/10-'more con la carne capitata.mp3",
+      "bytes": 4042729,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 13.mp3",
+      "bytes": 4018676,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/- Track08.mp3",
+      "bytes": 3988583,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K MaxwellD WhiteChoir.mp3",
+      "bytes": 3987956,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 11.mp3",
+      "bytes": 3985448,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track11 (cicli di sintesi).mp3",
+      "bytes": 3972283,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Coltrane ensemble 5.mp3",
+      "bytes": 3971656,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 67.mp3",
+      "bytes": 3951722,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 06.mp3",
+      "bytes": 3944697,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/22-the knife.mp3",
+      "bytes": 3939911,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track10.mp3",
+      "bytes": 3923381,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/6-Rotolando piano.mp3",
+      "bytes": 3913578,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 12.mp3",
+      "bytes": 3907708,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 14.mp3",
+      "bytes": 3903319,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/L'omino flipper.mp3",
+      "bytes": 3902299,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/L'epico dj.mp3",
+      "bytes": 3883230,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 18.mp3",
+      "bytes": 3863822,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track09.mp3",
+      "bytes": 3852328,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 50.mp3",
+      "bytes": 3850030,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 14.mp3",
+      "bytes": 3847023,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 07.mp3",
+      "bytes": 3838118,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 18.mp3",
+      "bytes": 3833102,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 02.mp3",
+      "bytes": 3832475,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/22-dimmelo e dammelo.mp3",
+      "bytes": 3819539,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/13-Mi trasferiro.mp3",
+      "bytes": 3818912,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track12.mp3",
+      "bytes": 3809697,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K F Culley Atl ensemble.mp3",
+      "bytes": 3809279,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/fs/frank shulte - the london trax.mp3",
+      "bytes": 3789972,
+      "ext": "mp3"
+    },
+    {
+      "path": "GSLI_img/video/gsli_laghetto.mov",
+      "bytes": 3786400,
+      "ext": "mov"
+    },
+    {
+      "path": "downloads/mp3/La violenta.mp3",
+      "bytes": 3786316,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Penderecki orch 2.mp3",
+      "bytes": 3780439,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/4-e stato proprio i'vento.mp3",
+      "bytes": 3776906,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 15.mp3",
+      "bytes": 3753481,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/Track08.mp3",
+      "bytes": 3752854,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 16.mp3",
+      "bytes": 3745331,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 06.mp3",
+      "bytes": 3744077,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/9-action is suffering.mp3",
+      "bytes": 3738036,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K R Brown ensemble.mp3",
+      "bytes": 3737808,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 40.mp3",
+      "bytes": 3734046,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/- Track05.mp3",
+      "bytes": 3711476,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 20.mp3",
+      "bytes": 3702072,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 19.mp3",
+      "bytes": 3687026,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track04.mp3",
+      "bytes": 3664247,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/13-la traccia per le storie.mp3",
+      "bytes": 3642742,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/24-nebbia nebbia coccolina.mp3",
+      "bytes": 3640861,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 22.mp3",
+      "bytes": 3640632,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 33.mp3",
+      "bytes": 3629347,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track08 (cicli di sintesi).mp3",
+      "bytes": 3619316,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 58.mp3",
+      "bytes": 3583709,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Feroci solo organ.mp3",
+      "bytes": 3578565,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 09.mp3",
+      "bytes": 3527156,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Haden Bass-_orch DC62.mp3",
+      "bytes": 3507094,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/stressing/timet - Track02.mp3",
+      "bytes": 3505968,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 33.mp3",
+      "bytes": 3477628,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Bach orch 2.mp3",
+      "bytes": 3477628,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 28.mp3",
+      "bytes": 3457566,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/LaViaNegativa/2-la corsa.mp3",
+      "bytes": 3455913,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/Il giocoso.mp3",
+      "bytes": 3455344,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 22.mp3",
+      "bytes": 3446908,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 68.mp3",
+      "bytes": 3435751,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 20.mp3",
+      "bytes": 3423711,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Coleman-Shosta-Bartok orch.mp3",
+      "bytes": 3388603,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/stressing/timet - Track01.mp3",
+      "bytes": 3386223,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 13.mp3",
+      "bytes": 3377945,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 13.mp3",
+      "bytes": 3372929,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 78.mp3",
+      "bytes": 3349732,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Berio-Coro.mp3",
+      "bytes": 3349106,
+      "ext": "mp3"
+    },
+    {
+      "path": "guest/fs/frank shulte - plux 7.mp3",
+      "bytes": 3341084,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 27.mp3",
+      "bytes": 3338448,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track07.mp3",
+      "bytes": 3331551,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/17-hands.mp3",
+      "bytes": 3291656,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/14-nebbia nebbia coccolina.mp3",
+      "bytes": 3280371,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 25.mp3",
+      "bytes": 3274500,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_3/05 - The giving virtue_(CD3).mp3",
+      "bytes": 3273873,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 24.mp3",
+      "bytes": 3265723,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/Come vento.mp3",
+      "bytes": 3263533,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 22.mp3",
+      "bytes": 3258826,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/techno delay.mp3",
+      "bytes": 3229987,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 02.mp3",
+      "bytes": 3215568,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 09.mp3",
+      "bytes": 3210552,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 2/vario 2 - 12.mp3",
+      "bytes": 3208044,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 17.mp3",
+      "bytes": 3204910,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 15.mp3",
+      "bytes": 3203029,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Coltrane ensemble.mp3",
+      "bytes": 3190490,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 19.mp3",
+      "bytes": 3179205,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 25.mp3",
+      "bytes": 3169801,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/53 ma chi sei tu.mp3",
+      "bytes": 3167735,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/Track11.mp3",
+      "bytes": 3159770,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 15.mp3",
+      "bytes": 3137200,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 19.mp3",
+      "bytes": 3132185,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/- Track23.mp3",
+      "bytes": 3126542,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 12.mp3",
+      "bytes": 3126542,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 16.mp3",
+      "bytes": 3125915,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 28.mp3",
+      "bytes": 3121527,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 18.mp3",
+      "bytes": 3106480,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 03.mp3",
+      "bytes": 3105226,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CarneCapitata/14-Il fiume di sangue.mp3",
+      "bytes": 3094171,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/5-the city.mp3",
+      "bytes": 3087273,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/CiclidiSintesi/timet - Track02 (cicli di sintesi).mp3",
+      "bytes": 3078895,
+      "ext": "mp3"
+    },
+    {
+      "path": "GSLI_img/docs/locandina2005.pdf",
+      "bytes": 3074814,
+      "ext": "pdf"
+    },
+    {
+      "path": "mp3/Shadows/25-clear the air.mp3",
+      "bytes": 3043388,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Scott Heron ensamble 3.mp3",
+      "bytes": 3004289,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/1-the hungry hawk.mp3",
+      "bytes": 2999502,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 26.mp3",
+      "bytes": 2998020,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 10.mp3",
+      "bytes": 2974823,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K synth 3.mp3",
+      "bytes": 2967927,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Davis Drum.mp3",
+      "bytes": 2966673,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 04.mp3",
+      "bytes": 2958523,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 02.mp3",
+      "bytes": 2949119,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 54.mp3",
+      "bytes": 2945357,
+      "ext": "mp3"
+    },
+    {
+      "path": "tracks/zara/cd_3/03 - The academic chairs of virtues_(CD3).mp3",
+      "bytes": 2920906,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 24.mp3",
+      "bytes": 2893948,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 34.mp3",
+      "bytes": 2885798,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/Il testimone.mp3",
+      "bytes": 2850871,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Clavi 1.mp3",
+      "bytes": 2848181,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 11.mp3",
+      "bytes": 2810565,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 07.mp3",
+      "bytes": 2802415,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/23-power.mp3",
+      "bytes": 2795748,
+      "ext": "mp3"
+    },
+    {
+      "path": "GSLI_img/video/CHANDELIER.mov",
+      "bytes": 2791672,
+      "ext": "mov"
+    },
+    {
+      "path": "database/db 2/db 2 - 34.mp3",
+      "bytes": 2773576,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/video/sostap.mov",
+      "bytes": 2770506,
+      "ext": "mov"
+    },
+    {
+      "path": "downloads/database/mp3/K Super SSS ensemble.mp3",
+      "bytes": 2752260,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/stressing/timet - Track12.mp3",
+      "bytes": 2749880,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Tiny Grimes ensemble.mp3",
+      "bytes": 2749752,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 05.mp3",
+      "bytes": 2746617,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 05.mp3",
+      "bytes": 2735959,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Shorter Bassi.mp3",
+      "bytes": 2730944,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/15-vedersi nel proprio brodo.mp3",
+      "bytes": 2728665,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 04.mp3",
+      "bytes": 2706493,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 09.mp3",
+      "bytes": 2701478,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Coltrane solo.mp3",
+      "bytes": 2700851,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 31.mp3",
+      "bytes": 2698970,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 04.mp3",
+      "bytes": 2692701,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 02.mp3",
+      "bytes": 2692701,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 41.mp3",
+      "bytes": 2689566,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 35.mp3",
+      "bytes": 2666369,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 04.mp3",
+      "bytes": 2662608,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Schutz coro.mp3",
+      "bytes": 2658846,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 23.mp3",
+      "bytes": 2656338,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 01.mp3",
+      "bytes": 2643799,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 22.mp3",
+      "bytes": 2625618,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K ambience 1.mp3",
+      "bytes": 2622484,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 35.mp3",
+      "bytes": 2617468,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/L'ultimo americano.mp3",
+      "bytes": 2596177,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 10.mp3",
+      "bytes": 2593644,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 15.mp3",
+      "bytes": 2593644,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/7-we do not wish.mp3",
+      "bytes": 2581961,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Track02.mp3",
+      "bytes": 2580897,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 02.mp3",
+      "bytes": 2571701,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/exc/t1.mp3",
+      "bytes": 2569822,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K L Young Atl ensemble.mp3",
+      "bytes": 2569194,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classical2/classical 2 - 15.mp3",
+      "bytes": 2554774,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 20.mp3",
+      "bytes": 2549132,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 16.mp3",
+      "bytes": 2547251,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 03.mp3",
+      "bytes": 2545370,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 14.mp3",
+      "bytes": 2539101,
+      "ext": "mp3"
+    },
+    {
+      "path": "modular/galleria/video/scolpisc piccolo.mov",
+      "bytes": 2537557,
+      "ext": "mov"
+    },
+    {
+      "path": "downloads/mp3/L'archivio oracolare.mp3",
+      "bytes": 2531132,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Bach orch 3.mp3",
+      "bytes": 2530950,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 03.mp3",
+      "bytes": 2529070,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 12.mp3",
+      "bytes": 2528443,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 30.mp3",
+      "bytes": 2520919,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 17.mp3",
+      "bytes": 2508381,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/Techno noise_fdbk A891.mp3",
+      "bytes": 2498350,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 15.mp3",
+      "bytes": 2489572,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 62.mp3",
+      "bytes": 2487820,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Vocalit\u00e0/voc - 46.mp3",
+      "bytes": 2467630,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/2-La canzone dei contadini.mp3",
+      "bytes": 2465977,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 55.mp3",
+      "bytes": 2463996,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 16.mp3",
+      "bytes": 2460733,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/k Roach drum.mp3",
+      "bytes": 2453210,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 08.mp3",
+      "bytes": 2445060,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 02.mp3",
+      "bytes": 2428759,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/13-heaven.mp3",
+      "bytes": 2412688,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 29.mp3",
+      "bytes": 2404309,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 01.mp3",
+      "bytes": 2395532,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum Fast.mp3",
+      "bytes": 2376724,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 05.mp3",
+      "bytes": 2353527,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 22.mp3",
+      "bytes": 2348511,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Drum 6.mp3",
+      "bytes": 2340988,
+      "ext": "mp3"
+    },
+    {
+      "path": "GSLI_img/fla/holdworkshop.swf",
+      "bytes": 2324320,
+      "ext": "swf"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 20.mp3",
+      "bytes": 2317164,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Davis ensemble.mp3",
+      "bytes": 2313403,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 03.mp3",
+      "bytes": 2311522,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 30.mp3",
+      "bytes": 2308387,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 03.mp3",
+      "bytes": 2307760,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/elettronica 2/elettr 2 - 66.mp3",
+      "bytes": 2306007,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/L Nelson orch.mp3",
+      "bytes": 2302745,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Sara V Orch.mp3",
+      "bytes": 2294595,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 16.mp3",
+      "bytes": 2287071,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/luce/luce - 11.mp3",
+      "bytes": 2276413,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 3/db 3 - 17.mp3",
+      "bytes": 2255724,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 11.mp3",
+      "bytes": 2244823,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Restituzioni/23-e soprattutto fertile sempre.mp3",
+      "bytes": 2235891,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 3/vario 3 - 14.mp3",
+      "bytes": 2232528,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/mp3/Il nome leggendario.mp3",
+      "bytes": 2216879,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Varie web 1/vario 1 - 22.mp3",
+      "bytes": 2213719,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 14.mp3",
+      "bytes": 2203688,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Colazione con la pietra/2 lamentazione.mp3",
+      "bytes": 2201527,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 15.mp3",
+      "bytes": 2195538,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Mozart forte piano.mp3",
+      "bytes": 2193657,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 32.mp3",
+      "bytes": 2175476,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/classica - 19.mp3",
+      "bytes": 2159803,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Kyma early sounds/kearly - 03.mp3",
+      "bytes": 2157922,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/exc/main entrance.mp3",
+      "bytes": 2154161,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/QuadriDiSchermoVivo/21 pure l'albero e.mp3",
+      "bytes": 2147497,
+      "ext": "mp3"
+    },
+    {
+      "path": "downloads/database/mp3/K Moz forte piano 2.mp3",
+      "bytes": 2147264,
+      "ext": "mp3"
+    },
+    {
+      "path": "mp3/Shadows/10-action.mp3",
+      "bytes": 2144358,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 1/db 1 - 21.mp3",
+      "bytes": 2144129,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 06.mp3",
+      "bytes": 2140995,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/db 2/db 2 - 24.mp3",
+      "bytes": 2124067,
+      "ext": "mp3"
+    },
+    {
+      "path": "database/Classica/- Track07.mp3",
+      "bytes": 2109021,
+      "ext": "mp3"
+    },
+    {
+      "path": "public/shop/cgi-bin/web.config",
+      "bytes": 2106762,
+      "ext": "config"
+    }
+  ]
+}

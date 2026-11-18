@@ -1,0 +1,64 @@
+SOURCE: about/aboutdb.htm
+
+timet.about us | Dino Bramanti
+
+timet.about
+us
+
+<home
+
+Dino
+Bramanti was born in 1969 in Pietrasanta (Lucca), Italy.
+His cultural background is both based on a classical
+humanistic education and on mathematical and technical
+studies.
+
+In 1996 took PhD in Telecommunications Engineering at
+the University of Pisa in Italy, achieving a strong training
+in digital signal processing, computer science and communications
+networks and protocols.
+
+During 90's he's been working as DJ in several clubs
+and radio stations spinning great black music and started
+moving towards electronic sound composition, digital
+signal manipulation and sample grinding.
+
+His main interest in the area of digital art is related
+to sound installations, sculptures and mechanisms where
+natural sounds are generated, evolve over time by microvariations
+and interplay with real time samples manipulated in
+time and frequency domain.
+
+Together with A. Borghi is the author of "quaa|ude
+- a quiet interlude" installation and sound generator,
+which has been premiered in October 2002 at "c'Arte
+d'identita' " art gallery in Pietrasanta (LU).
+
+As a member of Timet collective (www.timet.org) has
+taken part in several projects contributing with concepts,
+sound composition, audio and electronics engineering.
+Latest involvement with Timet has been with "L'Ospite
+Ingrato - A Medici Obsession" sound installation
+in Florence, Forte Belvedere, July-October 2003, which
+is part of "ORIZZONTI- Belvedere dell' Arte" Art
+Exibition directed by A. Bonito Oliva (cat. Skirà editions).
+
+Current work is focused on the concept of composition/improvisation
+applied to live performance for laptops and custom
+made music software.
+
+He's currently sharing his time between digital art
+works and the work as optical and photonics networks
+designer for telecommunications industry.
+
+All the software he uses in his works and performances
+is entirely designed, programmed and implemented by
+himself in MaxMSP, superCollider and Csound development
+environment.
+
+<back
+to about us\\
+
+// Last update::
+February 29, 2004
+//

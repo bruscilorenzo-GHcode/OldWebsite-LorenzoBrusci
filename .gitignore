@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+dist/
+.astro/
+.DS_Store
+*.log
+*.tsbuildinfo
+.env
+.env.*
+
+deploy/aruba-media/audio/
+
+deploy/aruba-media.zip

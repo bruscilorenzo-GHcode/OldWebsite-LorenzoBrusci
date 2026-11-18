@@ -1,0 +1,49 @@
+SOURCE: guest/hann/index.htm
+
+timet.guest composer | hannes hoelzl
+
+timet.guests
+
+feb 2004 | hannes
+hoelzl
+
+Hannes Hoelzl:
+
+_born 1974 in Bolzano/Bozen/I
+
+_study audio engineering in Graz/A
+
+_study audio design in Utrecht/NL
+
+_European Media Master of Arts in Sound & Music Technology
+
+_lives in Cologne/D as freelance sound artist and musician
+
+_collaboration with Echo Ho: www.earweego.net
+
+_collaboration with Alberto de Campo, Jan-Kees v. Kampen,
+Echo Ho: PowerBooks_Unplugged.
+
+_collaboration with Andres Bosshard et al.: Institute
+for SonoAviatics
+
+_hardware: computer, ADAM monitor speakers
+
+_software: SuperCollider 3: www.audiosynth.com
+
+_< hannes@earweego.net >
+
+1.
+OllieInDaTube150 [ listen ]
+[ sc 3 code ]
+
+4'20''
+
+<home
+
+<back
+to guests
+
+// Last update::
+October 30, 2013
+//

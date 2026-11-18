@@ -1,0 +1,96 @@
+SOURCE: guest/db/index.htm
+
+timet.guest composer |dino bramanti
+
+timet.guests
+
+feb 2004 | dino
+bramanti
+
+Dino Bramanti was born in 1969 in Pietrasanta (Lucca),
+Italy. His background is based on a classical humanistic
+education and on mathematical and technical studies.
+
+In 1996 took PhD in Telecommunications Engineering at
+the University of Pisa in Italy, achieving a strong training
+in digital signal processing, computer science and communications
+networks and protocols.
+
+During 90's he's been working as DJ in several clubs
+and radio stations in the area of black music, 60's funk
+and dub and started moving towards electronic sound composition,
+digital signal manipulation and sample grinding.
+
+In 2002 designs and builds, with the collaboration of
+A. Borghi, "quaa|ude - a quiet interlude" installation
+working as natural sound generator and real-time processor,
+which has been premiered in October 2002 at "c'Arte
+d'identita' " art gallery in Pietrasanta (LU).
+
+As a Timet collaborator of has taken part in several
+projects contributing with concepts, sound composition,
+audio and electronics engineering.
+
+He's collaborated to Timet's Compilatione project with
+a handful of sonic pills aimed at desecrating both dance
+stereotypes and classical-contemporary music forms.
+
+Latest involvement with Timet has been with "L'Ospite
+Ingrato - A Medici Obsession" sound installation
+in Florence, part of "ORIZZONTI- Belvedere dell'
+Arte" Art Exibition directed by A. Bonito Oliva
+(2003-04).
+
+He is currently working on the solo project ampang,
+based on real-time sound composition from custom designed
+software for rhythmic, dub-influenced structures and
+lines and he's carrying on bonarosa project, for laptop
+based live improvisation, with fellow A. Borghi.
+
+He' s sharing his time between digital art works and
+the work as network software designer for telecommunications
+industry.
+
+All his works are realized in MaxMSP, superCollider and
+Csound development environment.
+
+AMPANG
+
+ampang takes its move from the multitude of sounds which,
+actively or passively populate our daylife. They are
+sounds and noises captured in every time and place,
+voices fragments and clutter, short excerpts from crucial
+recordings and works. The only thing in common among
+them is that they are short. Sound events lasting about
+a second, such that their atomicity ensures that they
+are no more related to the original context.
+
+Those absolute sound snippets are the timbral starting
+point for the composition. A software application, designed
+and built for their continous processing, shapes them
+in real time over rythmic structures. It organizes them
+over time, in a semi-deterministic way, following the
+conceptual and operational add/drop approach
+
+mutuated from dub techniques.
+
+dino.bramanti@tiscali.it
+
+1.
+lownext [ listen ]
+
+3'53''
+
+2. trasto
+[ listen ]
+
+4'54''
+
+<home
+
+<back
+to guests
+
+// Last update::
+October 30, 2013
+//

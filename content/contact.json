@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "source": "contacts.htm (legacy roles) + client decision 2026-11-04",
+    "rule": "info@musi-co.com is the canonical public address. Legacy timet.org addresses are kept for provenance only and are DEFUNCT."
+  },
+  "canonical": {
+    "email": "info@musi-co.com",
+    "label": "General contact",
+    "useFor": [
+      "commissions",
+      "guest composers",
+      "general enquiries"
+    ]
+  },
+  "legacy": {
+    "sourcePage": "contacts.htm",
+    "status": "defunct",
+    "entries": [
+      {
+        "role": "Purchase published Timet artworks",
+        "name": "Marco Veneri",
+        "email": "marco@spaziobianco.it",
+        "status": "legacy"
+      },
+      {
+        "role": "Purchase published Timet artworks",
+        "name": "Giovanni Antignano",
+        "email": "stolen@timet.org",
+        "status": "defunct"
+      },
+      {
+        "role": "Commission sound compositions or sound design tasks",
+        "name": "Lorenzo Brusci",
+        "email": "lorenzo.brusci@timet.org",
+        "status": "defunct"
+      },
+      {
+        "role": "Guest composer applications",
+        "name": "Lorenzo Brusci",
+        "email": "lorenzo.brusci@timet.org",
+        "status": "defunct"
+      },
+      {
+        "role": "Performative projects",
+        "name": "Gianluca Giusti",
+        "email": "promozione@trovarobato.com",
+        "status": "legacy"
+      }
+    ]
+  },
+  "replacementPolicy": "Every legacy timet.org address in the build resolves to info@musi-co.com. Non-timet addresses are shown as historical only, not as active contact routes."
+}
