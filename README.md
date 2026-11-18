@@ -1,5 +1,7 @@
 # TIMET.ORG — rebuild
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24355802.svg)](https://doi.org/10.5281/zenodo.24355802)
+
 Live preview: https://oldwebsite-lorenzobrusci.vercel.app  
 (`timet.org` is not switched yet; see `docs/GO-LIVE-OPTION-A.md`.)
 
@@ -152,3 +154,7 @@ Full checklist: `docs/GO-LIVE-OPTION-A.md`.
 - Audio is never committed. `public/audio/` contains only the four short previews required for the demo. `deploy/aruba-media/audio/` is gitignored; its README and server configs are committed.
 - `/archive` is the only route using `.register-paper`; the header and footer remain in the dark register.
 - The recombination engine is intentionally not implemented.
+
+## Cite
+
+Brusci, L. (2026). *timet.org archive: timet.database and texts* (CC BY-NC 4.0). Zenodo. https://doi.org/10.5281/zenodo.24355802
