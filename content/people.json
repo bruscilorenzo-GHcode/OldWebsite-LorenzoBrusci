@@ -120,7 +120,7 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": "Italian multi-instrumentalist, composer and producer (b. Montevarchi, 1976). Studied clarinet in Milan; member of Mariposa and Calibro 35, collaborator of Afterhours, solo as Der Maurer.",
+   "cv": "Italian multi-instrumentalist, composer and producer (b. Montevarchi, 1976). Studied clarinet in Milan; co-founder of Mariposa and member of Calibro 35, collaborator of Afterhours, solo as Der Maurer.",
    "sources": [
     {
      "label": "Rockit",
@@ -195,8 +195,21 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
-   "sources": [],
+   "cv": "Italian producer and electronic musician from Tuscany, known as Phonat. Spotted on MySpace by MofoHifi Records, he moved to London in 2007; Skrillex championed him and invited him to remix “Scary Monsters & Nice Sprites”, and he released on Skrillex’s label OWSLA (Identity Theft EP, 2013).",
+   "sources": [
+    {
+     "label": "UKF",
+     "url": "https://ukf.com/read/phonat-i-only-make-music-when-i-want-to/"
+    },
+    {
+     "label": "Mixmag",
+     "url": "https://mixmag.net/read/k-flay-phonat-remix-music"
+    },
+    {
+     "label": "Zeros & Ones interview",
+     "url": "https://alijamieson.co.uk/2015/12/16/zeros-ones-meets-phonat/"
+    }
+   ],
    "website": null
   },
   {
@@ -217,7 +230,7 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
+   "cv": "DJ and sociologist.",
    "sources": [],
    "website": null
   },
@@ -228,8 +241,21 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
-   "sources": [],
+   "cv": "Italian composer and singer-songwriter (b. Arezzo, 1976). Founder of Mariposa, which he left in 2012, then solo from 2010 (Attento a me stesso, Mi sono perso nel bosco); also a painter, writer and theatre teacher.",
+   "sources": [
+    {
+     "label": "Rockol (Mariposa)",
+     "url": "https://www.rockol.it/artista/mariposa"
+    },
+    {
+     "label": "Rockit",
+     "url": "https://www.rockit.it/recensione/57830/alessandrofiori-mi-sono-perso-nel-bosco"
+    },
+    {
+     "label": "Rolling Stone Italia",
+     "url": "https://www.rollingstone.it/?p=622911"
+    }
+   ],
    "website": null
   },
   {
@@ -239,8 +265,13 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
-   "sources": [],
+   "cv": "Drummer and founding member of Mariposa, the band formed around Arezzo and Bologna in 1998.",
+   "sources": [
+    {
+     "label": "Rockol (Mariposa)",
+     "url": "https://www.rockol.it/artista/mariposa"
+    }
+   ],
    "website": null
   },
   {
@@ -283,7 +314,7 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
+   "cv": "Architect.",
    "sources": [],
    "website": null
   },
@@ -621,7 +652,7 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
+   "cv": "Composer for theatre; he has worked with directors such as Castri, among others.",
    "sources": [],
    "website": null
   },
@@ -686,8 +717,13 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
-   "sources": [],
+   "cv": "Italian artist and designer (b. Carrara, 1969) and singer-songwriter. He has designed for Alessi since 1992, with an important place in the company’s history; his work is built around error and chance.",
+   "sources": [
+    {
+     "label": "Alessi",
+     "url": "https://alessi.com/collections/mattia-di-rosa"
+    }
+   ],
    "website": null
   },
   {
@@ -719,8 +755,13 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
-   "sources": [],
+   "cv": "Architect, Associate Director at Zaha Hadid Architects (London). Joined the studio in 2002 and worked on the MAXXI museum in Rome; has taught at the University of Florence.",
+   "sources": [
+    {
+     "label": "Zaha Hadid Architects",
+     "url": "https://www.zha.com/people/maurizio-meossi"
+    }
+   ],
    "website": null
   },
   {
@@ -730,8 +771,13 @@
    "guestComposer": null,
    "originalBio": null,
    "originalSource": null,
-   "cv": null,
-   "sources": [],
+   "cv": "Architect from Florence (University of Florence, AA), Director at Zaha Hadid Architects, where he has led transport and cultural projects such as Napoli-Afragola station and the King Abdullah Financial District Metro Station.",
+   "sources": [
+    {
+     "label": "Zaha Hadid Architects",
+     "url": "https://www.zha.com/people/filippo-innocenti"
+    }
+   ],
    "website": null
   },
   {
