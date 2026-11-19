@@ -1,4 +1,5 @@
 import type { Track } from "@/lib/content";
+import { TrackPlayButton } from "@/components/TrackPlayButton";
 
 type Row =
   | { kind: "disc"; label: string; key: string }
@@ -8,9 +9,12 @@ type Row =
 export function TrackList({
   tracks,
   showDiscs = false,
+  audio,
 }: {
   tracks: Track[];
   showDiscs?: boolean;
+  /** track number -> playable URL */
+  audio?: Record<string, string>;
 }) {
   const rows: Row[] = [];
   let lastSection: string | null = null;
@@ -64,8 +68,13 @@ export function TrackList({
           const { track } = row;
           return (
             <tr key={row.key}>
-              <td className="w-12 border-t border-line px-2 py-2 text-muted">
-                {typeof track.n === "number" ? String(track.n).padStart(2, "0") : "—"}
+              <td className="w-20 border-t border-line px-2 py-2 text-muted">
+                <span className="inline-flex items-center gap-2">
+                  {typeof track.n === "number" ? String(track.n).padStart(2, "0") : "—"}
+                  {typeof track.n === "number" && audio?.[String(track.n)] && (
+                    <TrackPlayButton src={audio[String(track.n)]} label={track.title} />
+                  )}
+                </span>
               </td>
               <td className="border-t border-line px-2 py-2">
                 <span className="font-sans text-sm text-ink">{track.title}</span>
