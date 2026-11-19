@@ -7,12 +7,13 @@
     }
   ],
   "license": "cc-by-nc-4.0",
-  "description": "Archive of the timet.org website (Timet, Lorenzo Brusci, 1993-2003): database of 543 audio samples with metadata (CSV, SQLite) in archive/dataset, and texts, interviews and project pages converted to Markdown in archive/texts. Also includes the source of the rebuilt static website.",
+  "description": "Archive of the timet.org website (Timet, Lorenzo Brusci, since 1993): the timet.database of 543 audio samples with metadata (CSV, SQLite), short biographies of 59 members and collaborators, project pages, interviews, articles and event texts converted to Markdown, and the source of the rebuilt static website. Audio, video and photographs are hosted on the Internet Archive (links in archive/README.md). Licence CC BY-NC 4.0.",
   "keywords": [
     "sound design",
     "sampling",
     "nonlinear music",
     "open data",
     "music archive"
-  ]
+  ],
+  "version": "1.1.0"
 }
