@@ -4,7 +4,7 @@ import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://timet.org"),
+  metadataBase: new URL("https://www.timet.org"),
   title: {
     default: "Timet — nonlinear music and sound architecture",
     template: "%s · Timet",

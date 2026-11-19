@@ -4,7 +4,7 @@ import { people } from "@/lib/people";
 import { mainProjects, performativeSubs } from "@/lib/projects";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://timet.org";
+  const base = "https://www.timet.org";
   const staticRoutes = [
     "",
     "/releases",
