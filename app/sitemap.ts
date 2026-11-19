@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/archive",
     "/contact",
     "/open-database",
+    "/open-database/samples",
     "/open-database/licence",
   ];
 
