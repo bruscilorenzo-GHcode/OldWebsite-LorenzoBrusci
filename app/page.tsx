@@ -22,7 +22,7 @@ export default function HomePage() {
       <section className="border-b border-line">
         <div className="shell grid12 gap-y-10 py-14 md:py-24">
           <div className="col-span-12 md:col-span-8">
-            <p className="eyebrow">Concept group · Firenze · 1993–2003</p>
+            <p className="eyebrow">Virtual label · Firenze · since 1993</p>
             <h1 className="display mt-6 max-w-[13ch]">
               Nonlinear music and sound architecture.
             </h1>
@@ -41,7 +41,7 @@ export default function HomePage() {
               elements, and electronic partitures.
             </p>
             <Link href="/about" className="link-arrow mt-6 inline-flex">
-              Read the collective
+              Read about Timet
             </Link>
           </div>
         </div>
@@ -51,7 +51,7 @@ export default function HomePage() {
         <div className="shell grid12 items-center py-4">
           <p className="col-span-4 font-code text-sm text-muted">1993</p>
           <div className="col-span-4 h-px bg-line-strong" />
-          <p className="col-span-4 text-right font-code text-sm text-muted">2003</p>
+          <p className="col-span-4 text-right font-code text-sm text-muted">today</p>
         </div>
       </section>
 

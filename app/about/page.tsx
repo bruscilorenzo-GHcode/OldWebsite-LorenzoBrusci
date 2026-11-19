@@ -5,17 +5,17 @@ import { about, bioPeople, displayName, personUrl, releases } from "@/lib/conten
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Timet: Italian sound-art collective founded by Lorenzo Brusci in 1993. Members, collaborators, timeline and biographies.",
+    "Timet: founded by Lorenzo Brusci in 1993 as a sound-art collective, since 2003 the virtual label behind his music productions. Members, collaborators, timeline and biographies.",
 };
 
 const fixedMilestones = [
   { year: 1993, label: "Timet founded by Lorenzo Brusci in Firenze." },
-  { year: 2003, label: "Timet stops its activity; the work continues through Giardino Sonoro." },
+  { year: 2003, label: "The collective stops its performing activity. Signing as Lorenzo Brusci/Timet, Brusci keeps composing for dance and theatre, launches Giardino Sonoro and begins turning Timet into his editorial platform in music." },
 ];
 
 const milestones = [
   ...fixedMilestones,
-  ...releases.filter((release) => Number(release.year) <= 2003).map((release) => ({
+  ...releases.map((release) => ({
     year: Number(release.year),
     label: `Release: ${release.title}.`,
   })),
@@ -27,11 +27,12 @@ export default function AboutPage() {
       <section className="border-b border-line">
         <div className="shell grid12 gap-y-8 py-12 md:py-16">
           <div className="col-span-12 md:col-span-8">
-            <p className="eyebrow">The collective</p>
+            <p className="eyebrow">Timet · virtual label</p>
             <h1 className="display mt-4">About Timet</h1>
             <p className="mt-6 max-w-[52ch] text-lg text-ink-2">
-              Founded in 1993 by Lorenzo Brusci. Active until 2003. Musicians,
-              artists and collaborators.
+              Founded in 1993 by Lorenzo Brusci as a collective of musicians,
+              artists and collaborators. Since 2003 the virtual label behind
+              all his music productions.
             </p>
           </div>
           <div className="col-span-12 md:col-span-4">
@@ -45,8 +46,12 @@ export default function AboutPage() {
                 <dd className="font-code">{about.collective.founder}</dd>
               </div>
               <div className="flex justify-between border-b border-line py-3">
-                <dt className="mono uppercase tracking-[0.14em] text-muted">Active</dt>
-                <dd className="font-code">1993–{about.collective.stoppedActivity}</dd>
+                <dt className="mono uppercase tracking-[0.14em] text-muted">Collective</dt>
+                <dd className="font-code">1993–{about.collective.collectiveActionEnded}</dd>
+              </div>
+              <div className="flex justify-between border-b border-line py-3">
+                <dt className="mono uppercase tracking-[0.14em] text-muted">Label</dt>
+                <dd className="font-code">{about.collective.collectiveActionEnded}–today</dd>
               </div>
             </dl>
           </div>
@@ -97,7 +102,7 @@ export default function AboutPage() {
         <div className="shell grid12 gap-y-8 py-10 md:py-14">
           <div className="col-span-12 md:col-span-3">
             <p className="eyebrow">Timeline</p>
-            <h2 className="display-sm mt-4">1993–2003</h2>
+            <h2 className="display-sm mt-4">Since 1993</h2>
           </div>
           <div className="col-span-12 md:col-span-9">
             {milestones.map((milestone, index) => (
@@ -161,7 +166,7 @@ export default function AboutPage() {
 
       <section className="shell grid12 py-10">
         <div className="col-span-12 md:col-span-3">
-          <p className="eyebrow">After 2003</p>
+          <p className="eyebrow">Since 2003</p>
         </div>
         <div className="col-span-12 space-y-5 md:col-span-8 md:col-start-5">
           <p className="text-lg text-ink-2">{about.lineage.statement}</p>

@@ -5,7 +5,7 @@
 Live preview: https://oldwebsite-lorenzobrusci.vercel.app  
 (`timet.org` is not switched yet; see `docs/GO-LIVE-OPTION-A.md`.)
 
-A new static site for **Timet**, the Italian sound-art collective founded by Lorenzo Brusci in 1993 and active until 2003.
+A new static site for **Timet**, the virtual label behind Lorenzo Brusci’s music productions, founded in 1993 as an Italian sound-art collective (collective performing activity 1993–2003).
 
 Built from the legacy archive at `/Users/lorenzobrusci2020/TIMET_SITO_BACKUP`. The backup is read-only source material and is never modified.
 
@@ -57,7 +57,7 @@ On Vercel: Project → Settings → Environment Variables → add `NEXT_PUBLIC_A
 | `/releases` | Discography index (14 releases, including Isiaca, Nova Compilatione, Easy Classics, SRS, LoLe and the 2003 Timet/Mariposa collaboration) |
 | `/releases/[slug]` | Cover, year, credits, tracklist, archive notes |
 | `/projects` | Eight research sections + appendices |
-| `/about` | Collective, timeline 1993–2003, lineage to Giardino Sonoro / Architettura Sonora, full member/collaborator lists, 19 bios |
+| `/about` | Collective, timeline since 1993, lineage to Giardino Sonoro / Architettura Sonora, full member/collaborator lists, 19 bios |
 | `/archive` | Legacy register in the paper register: writings, PDFs, photographic inventory, held material |
 | `/contact` | Canonical address `info@musi-co.com`; legacy addresses marked defunct |
 | `/open-database` | Client-side sound-object index, filters, waveform, Web Audio playback |

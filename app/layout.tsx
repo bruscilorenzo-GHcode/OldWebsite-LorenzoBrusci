@@ -10,18 +10,18 @@ export const metadata: Metadata = {
     template: "%s · Timet",
   },
   description:
-    "Timet, Italian sound-art collective founded by Lorenzo Brusci in 1993. Compositions, sound architecture, projects and the open sound database.",
+    "Timet, founded by Lorenzo Brusci in 1993 as a sound-art collective and since 2003 his virtual music label. Compositions, sound architecture, projects and the open sound database.",
   openGraph: {
     type: "website",
     siteName: "Timet",
     title: "Timet — nonlinear music and sound architecture",
     description:
-      "Italian sound-art collective, 1993–2003. Archive, releases, projects and the open sound database.",
+      "Virtual music label since 1993. Archive, releases, projects and the open sound database.",
   },
   twitter: {
     card: "summary_large_image",
     title: "Timet",
-    description: "Nonlinear music and sound architecture, 1993–2003.",
+    description: "Nonlinear music and sound architecture, since 1993.",
   },
   icons: {
     icon: "/favicon.svg",

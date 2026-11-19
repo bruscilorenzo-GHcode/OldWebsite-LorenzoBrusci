@@ -7,9 +7,9 @@ export function SiteFooter() {
         <div className="col-span-12 md:col-span-5">
           <p className="mono uppercase tracking-[0.18em] text-muted">Timet</p>
           <p className="mt-4 max-w-sm text-ink-2">
-            Italian sound-art collective founded by Lorenzo Brusci in 1993,
-            active until 2003. Compositions for theatre, dance, television,
-            radio and sound installations.
+            Virtual label behind the music productions of Lorenzo Brusci. Founded
+            in 1993 as a sound-art collective. Compositions for theatre, dance,
+            television, radio and sound installations.
           </p>
         </div>
         <div className="col-span-6 md:col-span-3">

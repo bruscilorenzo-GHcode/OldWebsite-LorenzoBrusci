@@ -112,7 +112,7 @@ export const about = aboutJson as unknown as {
     statement: string;
     founded: number;
     founder: string;
-    stoppedActivity: number;
+    collectiveActionEnded: number;
     news: string;
     lastUpdate: string;
   };
