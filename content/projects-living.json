@@ -1,0 +1,415 @@
+{
+ "01": {
+  "id": "01",
+  "slug": "stressing",
+  "title": "Stressing the limit of sound perception",
+  "markdown": "**Stressing the limit of sound perception.** 1) Stressing#1: Timet music composition. New Timet productions. Samples from:\n\n- Lole-Musica Leggiadra, CD I Dischi Forma, 2002/2003.\n\n- Compilatione, CD, 2002. 2) Stressing#2: multichanneling pop songs (mp3 stereo version from the original 5.1 standard) Samples from:\n\n- SRS Società Ritmico Sintetica from AUTOMATED MIRRORS, THE ANTHROPICAL FOREST. DVD, 2003. 3) Stressing#3: a cognitive exploration. Physiological stress of sound perception and recognition. Excerpts from Timet musicians’ live processing sessions. explore the examples [listen](#excerpt) |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "02": {
+  "id": "02",
+  "slug": "hyper-classicism",
+  "title": "Hyper Classicism",
+  "markdown": "**Timet perspectives on Classicism.** 1- The idea of classicism refers to a cognitive public frame. We intend to criticize a static idea of music heritage. We are suggesting an ETHIC OF USING and ABUSING of cultural heritage. We also defend a sophisticated preservation of the *access to* and *availability* *of* all the original sources at any processing level. 2- Memory as a collective memory. A dialectical, dynamic and actually electronic confrontation between music histories exemplifies the circle of *cultural synthesis*. Timet is against a strict and not-symbolic author-right legislation. See\n\n- Easyclassics - DVD . Cosottini, Brusci. Timet, 2002. (mp3 stereo version from the original 5.1 standard) explore the examples [listen](#excerpt) |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "03": {
+  "id": "03",
+  "slug": "immersion",
+  "title": "State of immersion",
+  "markdown": "**Re-designing sound objects and spaces.** Designing *sonic objects* and *sound spaces*. Towards a naturalization of abstract sonic experiences. We are creating specific site conditions and producing specific *sonic objects* able to give life and immediate expressive meaning and phisicality to our electroacoutic compositions. Samples from:\n\n- Ospite Ingrato, Sound Installation, Timet 2003. (AC3 5.1 audio version, files available on demand, [contact us](mailto:info@musi-co.com)). [read](/archive/events/ospingr) [watch](#gallery-ospite)\n\n- Sonic objects. Various designers and artists designing objects for Timet and with Timet sound consultance [gallery 01](#gallery-sound-obj) [gallery 02](#gallery-marble-obj)\n\n- Intersistema # 1 Sound/Dance Installation, Sosta Palmizi-Timet - Fabbrica Europa 2003 - Stazione Leopolda, 28-29 giugno. Stereo sample of the 8 multi-channeling live version. [watch](#video-hic)\n\n- Amplifying natural sites. Hyper-exposing electro-acoustic sound experiences inside relevant urban or naturalistic sites. DVD audio-video productions. Samples from:\n\n- Marble. A matter of evidence, DVD, Installation, Timet 2003. (AC3 audio files available on demand, [contact us](mailto:info@musi-co.com); 5.1 audio version). [watch](#gallery-marmo) Video directors: Reuven Halevi, Andrea Baldini, Letizia Renzini. 5.1 Music composition by Timet.\n\n- Klangturm. Biel Expo 02. Live recordings and images. (mp3 stereo version) Lorenzo Brusci, directing and performing inside the Sound Tower. Project by Andres Bosshard [listen]> [watch](#gallery-klang) |",
+  "media": {
+   "galleries": [
+    {
+     "key": "ospite",
+     "title": "ospite",
+     "images": [
+      "/projects/ospite/01.jpg",
+      "/projects/ospite/02.jpg",
+      "/projects/ospite/03.jpg",
+      "/projects/ospite/04.jpg",
+      "/projects/ospite/05.jpg",
+      "/projects/ospite/06.jpg",
+      "/projects/ospite/07.jpg",
+      "/projects/ospite/08.jpg",
+      "/projects/ospite/09.jpg",
+      "/projects/ospite/10.jpg",
+      "/projects/ospite/11.jpg",
+      "/projects/ospite/12.jpg"
+     ]
+    },
+    {
+     "key": "sound-obj",
+     "title": "sound obj",
+     "images": [
+      "/projects/sound-obj/01.jpg",
+      "/projects/sound-obj/02.jpg",
+      "/projects/sound-obj/03.jpg",
+      "/projects/sound-obj/04.jpg",
+      "/projects/sound-obj/05.jpg",
+      "/projects/sound-obj/06.jpg",
+      "/projects/sound-obj/07.jpg",
+      "/projects/sound-obj/08.jpg",
+      "/projects/sound-obj/09.jpg",
+      "/projects/sound-obj/10.jpg",
+      "/projects/sound-obj/11.jpg",
+      "/projects/sound-obj/12.jpg",
+      "/projects/sound-obj/13.jpg",
+      "/projects/sound-obj/14.jpg",
+      "/projects/sound-obj/15.jpg"
+     ]
+    },
+    {
+     "key": "marble-obj",
+     "title": "marble obj",
+     "images": [
+      "/projects/marble-obj/01.jpg",
+      "/projects/marble-obj/02.jpg",
+      "/projects/marble-obj/03.jpg",
+      "/projects/marble-obj/04.jpg",
+      "/projects/marble-obj/05.jpg",
+      "/projects/marble-obj/06.jpg",
+      "/projects/marble-obj/07.jpg",
+      "/projects/marble-obj/08.jpg",
+      "/projects/marble-obj/09.jpg",
+      "/projects/marble-obj/10.jpg",
+      "/projects/marble-obj/11.jpg",
+      "/projects/marble-obj/12.jpg",
+      "/projects/marble-obj/13.jpg",
+      "/projects/marble-obj/14.jpg",
+      "/projects/marble-obj/15.jpg"
+     ]
+    },
+    {
+     "key": "marmo",
+     "title": "marmo",
+     "images": [
+      "/projects/marmo/01.jpg",
+      "/projects/marmo/02.jpg",
+      "/projects/marmo/03.jpg",
+      "/projects/marmo/04.jpg",
+      "/projects/marmo/05.jpg",
+      "/projects/marmo/06.jpg",
+      "/projects/marmo/07.jpg",
+      "/projects/marmo/08.jpg",
+      "/projects/marmo/09.jpg",
+      "/projects/marmo/10.jpg",
+      "/projects/marmo/11.jpg",
+      "/projects/marmo/12.jpg",
+      "/projects/marmo/13.jpg",
+      "/projects/marmo/14.jpg",
+      "/projects/marmo/15.jpg"
+     ]
+    },
+    {
+     "key": "klang",
+     "title": "klang",
+     "images": [
+      "/projects/klang/01.jpg",
+      "/projects/klang/02.jpg",
+      "/projects/klang/03.jpg",
+      "/projects/klang/04.jpg",
+      "/projects/klang/05.jpg",
+      "/projects/klang/06.jpg",
+      "/projects/klang/07.jpg",
+      "/projects/klang/08.jpg",
+      "/projects/klang/09.jpg",
+      "/projects/klang/10.jpg",
+      "/projects/klang/11.jpg",
+      "/projects/klang/12.jpg"
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "key": "hic",
+     "files": [
+      "sostap.mov",
+      "sostap.mov"
+     ]
+    }
+   ],
+   "files": []
+  }
+ },
+ "04": {
+  "id": "04",
+  "slug": "performative",
+  "title": "Performative projects",
+  "markdown": "**Performative projects.** **Marble Cave Orchestra** Featuring A. Bosshard (CH) –- L. Brusci (ITA) + Timet guests Immersive audio installation and concert for laptops, musicians, multichannel sound system. “…the space will be fullfilled with sound fantasies coming from a marble cave multichannel recording sessions. Inside this natural reverberation chamber, we apply our formal and sound design research. 4 sets: 1- water/bach set 2- wind/mozart set 3- fire/beethoven set 4- ground/shoenberg set Towards a sonic hybrid body”. Acoustic musicians as special guest are available. This has to be asked and scheduled specifically. No audio technical needs. We just need an essential light support. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "05": {
+  "id": "05",
+  "slug": "sonic-architecture",
+  "title": "Sonic architectures",
+  "markdown": "**Sonic architectures.** **We intend a livable environment as an open process in its synthetic, multiple and reversible evidence.** Any music aggregate is a symbol of a living process and expresses dynamic relationships between any perceptual elements. From our perspective a symbolic system is expressive (and logic) when it’s deeply editable. The editability makes dynamic and alive any symbolic system. Symbolic systems are/stay for possible environments. **To free a complex music, integrated in a livable space.** Aesthetic Contents are an alternative reality model. A continuous symbolic world, made by dynamic identities and the reversibility of any state. Synchronicity and Environment are contextinterfaces between Man and Complexity. -Ecology of a dynamic open space. -Immaterial Architecture. -Multiplicity and habitat. A nonlinear architecture. An active process. Ex. Virtual Gardens. Giovanni Antignano [explore](#video-vg1test) you need flash player 6 [thanks j.tarbell for the sourcecode]. Sonic Garden Design.\n\n- Ri.natura [watch](/archive/events/rinatura) Documentation will be soon available\n\n- Symbolic Walls Timet 2004. Giovanni Antignano - Timet [watch](#video-mould) Maurizio Meossi, Filippo Innocenti - SPIN + [watch](#gallery-symbolic-wall) |",
+  "media": {
+   "galleries": [
+    {
+     "key": "symbolic-wall",
+     "title": "symbolic wall",
+     "images": [
+      "/projects/symbolic-wall/01.jpg",
+      "/projects/symbolic-wall/02.jpg",
+      "/projects/symbolic-wall/03.jpg",
+      "/projects/symbolic-wall/04.jpg",
+      "/projects/symbolic-wall/05.jpg"
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "key": "vg1test",
+     "files": [
+      "vg1test.swf",
+      "vg1test.swf"
+     ]
+    },
+    {
+     "key": "mould",
+     "files": [
+      "mould.mov",
+      "mould.mov"
+     ]
+    }
+   ],
+   "files": []
+  }
+ },
+ "06": {
+  "id": "06",
+  "slug": "metalanguages",
+  "title": "Metalanguages and nonlinearity",
+  "markdown": "**Metalanguages and Nonlinearity** The forced association between traditional (conventional) stylistic values and music research, from the start assumed \"relationship\", or \" contextuality\", as relevant compositional data. We spontaneously constructed scores which included metaphorical instructions to all or a specific type of musician; the codification of Lorenzo's gestures and performative behavior were the first hint of a nonlinear composition obtained by the conduction; the use of improvisation subjected to strict timbrical, dynamical, harmonic, rhythmical and metaphorical laws persued the idea of improvisation as the possibility to apply a contemporary musician’s complexity and compositional ability inside specific macro-semantic grids (1995). In defining the aggregates which resulted from the individual experiments/improvisations and in stabilizing the nature of pre-recorded sample-aggregates, the idea of metacomposition (the treatment of music aggregates as sonic “elements”) often surfaced. These two approaches had a common need for the heterogeneous components to flow inside of a composition which can no longer refer to any traditional 'ensemble' laws, and to now make use of contextuality, of the fusion betweeen electronic and acoustic bodies, and of free editing of previous recordings, as the main compositional characteristic (on the line of any phonografic art). The fragile harmonic condition of an aggregate inside a metacomposition necessarly meets the need for a nonlinear composition: the possibility of each aggregate and performative context to live within more than one possible musical relationship . Nonlinearity. Multiple solutions for an intentional artwork. Nonlinear instructions. An inter-language theory Didactictraining to our editing and performing languages. Examples:\n\n- Partitura Viva. A Living Score. Dancer *Raffaella Giordano* conducting . 1997 [read](/projects/files/partitura%20viva.pdf) pdf\n\n- Sempre Straniero. Singer *Andrea de Luca* conducting . 1998 [read](/projects/files/sempre%20straniero.pdf) pdf\n\n- Butterfly. Musician *Ikue Mori*, conduction.1998. .I cani crocifissi. *Elliott Sharp* conductor. Special guest *Zeena Parkins*. explore the examples [listen](#excerpt) |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": [
+    "partitura viva.pdf",
+    "sempre straniero.pdf"
+   ]
+  }
+ },
+ "07": {
+  "id": "07",
+  "slug": "open-database",
+  "title": "Open database",
+  "markdown": "**Open database.** Interfaces/complexity. We can produce specific sounds and operate data-research for specific environmental needs. We assume that anyone digitally produce his own music environment: *djing and home sound processing are average music gestures.* Timet organizes *access to* and *evident relationships between* a huge number of his own compositional data. Our database is organized to be re-played. We freely provide Timet elementary music information to increase *external* compositional experiences. All our music materials are under EFF datashare licence. Ex. Open and Share DATA Experiences\n\n- Timet’s www.timet.org [explore](../database/index.asp)\n\n- Timet Remix of Mariposa’s recordings: Metamorfosi di canzoni napoletane.\n\n- Marco Parente’s website Open Songs. [explore](http://www.marcoparente.it)\n\n- Radiotopia. Ars Electronica 2002. Live performance. explore the examples [listen](#excerpt) |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "08": {
+  "id": "08",
+  "slug": "video",
+  "title": "Video experiences and documentarism",
+  "markdown": "**Video experiences and documentarism.** Social , artistic and Natural organisms meet Timet video projects. Features of a sonic and visual social thought. Example:\n\n- Le donne della Valdambra. director Letizia Renzini [watch](#video-vald)\n\n- Stabat Basta Mater. director Letizia Renzini [watch](galleria/video/stabat%20basta%20mater.mov) .L’altopiano. Regia di Stefano Parigi. director Stefano Parigi\n\n- Trasparente remix. Pill Scolpisciguerra. director Giovanni Antignano [watch](#video-scolp)\n\n- Le tribù di Montevarchi. directors Lorenzo Brusci-Simone Cipolli\n\n- Social Forum - Letizia Renzini - 2002 [soon avaible]>\n\n- Dear Giorgio. An evening at the sonic tubolar. Performer Giorgio Rossi, music and direction Lorenzo Brusci. [watch](#video-giorgio)\n\n- Death in regress. 1996\n\n- Directors Piero Grazzi e Lorenzo Brusci. |",
+  "media": {
+   "galleries": [],
+   "videos": [
+    {
+     "key": "vald",
+     "files": [
+      "valdambra.mov",
+      "valdambra.mov"
+     ]
+    },
+    {
+     "key": "scolp",
+     "files": [
+      "scolpisc piccolo.mov",
+      "scolpisc piccolo.mov"
+     ]
+    },
+    {
+     "key": "giorgio",
+     "files": [
+      "giorgio.mov",
+      "giorgio.mov"
+     ]
+    }
+   ],
+   "files": []
+  }
+ },
+ "04_2": {
+  "id": "04_2",
+  "slug": "04_2",
+  "title": "Easy Classics",
+  "markdown": "**Performative projects.** **EASYCLASSICS, a music animation project** featuring Bach, Schuman, Beethoven, Wagner, Ravel, Stravinskji, Ellington, Nono. interpretations by Brusci (I) – Cosottini (I) – Roeslmair (D)– Gabrielli (I) Immersive audio installation and concert for laptops, musicians, multichannel sound system “… we have been electronically transfiguring pre-recorded classical pieces. They become naturally part of our everyday life, subtracted to the traditional concert rite. they now live live in a 5.1 public theatre music set…”. . Special guests have to be asked and scheduled specifically. No audio technical needs. We will use our self constructed speakers. We just need an essential light support. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_3": {
+  "id": "04_3",
+  "slug": "04_3",
+  "title": "LoLe",
+  "markdown": "**Performative projects.** **LoLe** Musica Leggiadra. women in an outer world Featuring Letizia Renzini - Lorenzo Brusci Sound Installation and concert for electronics, voice and 8 speakers. “… Letizia Renzini sings and musically acts inside a widely concrete electronic world. Any vocal narration is deep a concern about women social and emotional expressive dimensions”. Special guests have to be asked and scheduled specifically. No technical needs. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_4": {
+  "id": "04_4",
+  "slug": "04_4",
+  "title": "Zarathustra",
+  "markdown": "**Performative projects.** **Zarathustra, The last animal** Futuring de Luca, Fiori, Brusci, Gabrielli, Cosottini, Roeslmair, Guerrini Sound Installation and concert for electronics, 3 voices, trumpet, Saxophone, Clarinets, Flutes and 4 speakers. “… Timet has been produced a triple cd on Zarathustra Part I by F. Nietzsche (reviewed by The Wired, April 2003); the concert is the mediation between the vocation of the work to the intimate fruition and the need of expression that Nietzsche’s work brings inside. Announcement is a correct metaphor for the concert form”. No technical needs |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_5": {
+  "id": "04_5",
+  "slug": "04_5",
+  "title": "The poem",
+  "markdown": "**Performative projects.** **The poem. By Giancarlo Majorino** text read live by the poet himself. Installations and reading for electronics, voices and 8 speakers. “ Lorenzo’s electronics will articulate a sonic environment where Giancarlo’s words will mirror…”. No technical needs. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_6": {
+  "id": "04_6",
+  "slug": "04_6",
+  "title": "Heritage to be played",
+  "markdown": "**Performative projects.** **Heritage to be played** Featuring Dj MOLLY and LO Pass “…playing and processing the Music of the XX century: new perspectives in music live interpretation. This is an improvisation: selecting and processing…”. Installation and concert for electronics, turntables, cdj players, voices and 4 speakers. No technical needs. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_7": {
+  "id": "04_7",
+  "slug": "04_7",
+  "title": "Compilatione",
+  "markdown": "**Performative projects.** A Tuscan Electronic Scene **COMPILATIONE** Classicism meets the beat Featuring Leo Cavallo, Dino Bramanti, Andrea Borghi, Mirio Cosottini, Beppe Mangione, Enrico Gabrielli, Mariposa, Paolo Frasconi, Letizia Renzini, Stefano Roeslmair, Lorenzo Brusci, Michele Balduzzi, Dj Seya. special guest: viking in peace avatar Andres Bosshard No technical needs. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_8": {
+  "id": "04_8",
+  "slug": "04_8",
+  "title": "Maybe",
+  "markdown": "**Performative projects.** **MAYBE** you would like to be someone else? Creative Radio Mixing of live environments and other music. One night of live and recorded materials. Featuring Timet Mixing Team (2 persons minimum) Please provide technical details about mixing boards and tools used at the radio station. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_9": {
+  "id": "04_9",
+  "slug": "04_9",
+  "title": "AL><Ter",
+  "markdown": "[Marble Cave Orchestra](/projects/performative) | [EASYCLASSICS](/projects/performative/04_2) | [LoLe](/projects/performative/04_3) | [Zarathustra](/projects/performative/04_4) | [The poem](/projects/performative/04_5) | [Heritage to be played](/projects/performative/04_6) | [COMPILATIONE](/projects/performative/04_7) | [MAYBE](/projects/performative/04_8) | **AL><Ter** | [SAMPLING Art](/projects/performative/04_10) | [Shadows](/projects/performative/04_11) | [May the 1th](/projects/performative/04_12) | \\* for any further detail about costs and booking, Gianluca Giusti, [promozione@trovarobato.com](mailto:info@musi-co.com) |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_10": {
+  "id": "04_10",
+  "slug": "04_10",
+  "title": "Sampling Art",
+  "markdown": "**Performative projects.** **SAMPLING Art** The 5 re-cyclying totems .a metamusic quintet. sampling art by Lorenzo Brusci 5 totems by artists Giampaolo Di Cocco, Filippo Tincolini, Simone Zanaglia, Giacomo Bonciolini Sound Installation. Sampled composers, among others: F. Zappa, G. Clinton, G. Ligeti, S. Barrett, Bach, L. Berio, N. Cave, A. Artaud, J. Coltrane, Bomporti, G. Petrassi, K. Penderecki, Beatles, O. Coleman, B. Eno, Pergolesi, Monteverdi. “… is it possible to give a synthetical and analogue short impression of an entire compositional life? Inside the sonic totems built by our visual collaborators, we locate our music meta-bodies, results of a radical sampling art. We tried out real concentrations of music experiences Totems are syncronic, they set up a real meta-music quintet…”. No technical needs. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_11": {
+  "id": "04_11",
+  "slug": "04_11",
+  "title": "Shadows",
+  "markdown": "**Performative projects.** **Shadows** Freely by Murder in The Cathedral (T.S. Eliot) vocals Andrea de Luca Images Carluccio Rossi Music by Timet Installation and performance for voice, multichannel system and projections. “… this is a vocal concert. Andrea de Luca is an amazing vocalist. His ancient music awareness and contemporary vocal techniques acknowledgments gives him the ability to apply in an electronic world Eliot’s masterpiece with great pertinence.” technical needs: to be defined specifically for the venue. |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "04_12": {
+  "id": "04_12",
+  "slug": "04_12",
+  "title": "May the 1st",
+  "markdown": "**Performative projects.** **May the 1th. Labor day** Rights and Men of the new era. Featuring Andrea de Luca Music by Timet Installation and performance for voice and electronics. “No fear. No war. No sorrow. No oblivion. No starvation. No violence. No humiliation. Can music and words be an invitation for a new era of civil involvement? Abstractions and deep reality belong to the same wish: it’s possible to build a different awareness of any detail of human life; it’s possible to belong to the same world of opportunity with equal dignity…”. No technical needs; |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "app01": {
+  "id": "app01",
+  "slug": "app01",
+  "title": "Lole - Musica Leggiadra",
+  "markdown": "01 IF An Die Musik IF (L. Brusci, M.Cosottini, and A. De Luca) [listen] |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "app02": {
+  "id": "app02",
+  "slug": "app02",
+  "title": "Easy Classics",
+  "markdown": "4 - From a fuga by J.S.Bach to an excert from Sinfoniy n\\_6 in F, “La Pastorale”, by L.. Van Beethoven, to a string quartet, N.12 in E Flat, Op. 127, movimento Finale, by L.. Van Beethoven [listen] |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "app06": {
+  "id": "app06",
+  "slug": "app06",
+  "title": "Sempre Straniero",
+  "markdown": "**I cani crocifissi****. Elliott Sharp conductor. Special guest Zeena Parkins** | |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ },
+ "app07": {
+  "id": "app07",
+  "slug": "app07",
+  "title": "Mariposa / Lo-Timet versions",
+  "markdown": "below some excerpts from the 2 final cd artworks, the Mariposa's versions and the remixed Lo-Timet's electro-versions | |",
+  "media": {
+   "galleries": [],
+   "videos": [],
+   "files": []
+  }
+ }
+}

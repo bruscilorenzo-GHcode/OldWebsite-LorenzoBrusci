@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { articles } from "@/lib/content";
+import Link from "next/link";
+import { articles, events } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Archive",
@@ -73,13 +74,38 @@ export default function ArchivePage() {
                   className="border-t border-line py-5 last:border-b"
                 >
                   <h3 className="font-grotesk text-xl font-bold tracking-[-0.03em]">
-                    {article.title}
+                    <Link href={`/archive/articles/${article.sourcePage.replace(/^articles\//, "").replace(/\.htm$/, "")}`} className="no-underline hover:text-accent">
+                      {article.title}
+                    </Link>
                   </h3>
-                  <p className="mono mt-1 text-muted">{article.sourcePage}</p>
+                  <p className="mono mt-1 text-muted">Read the full text →</p>
                   <p className="mt-3 max-w-[80ch] text-sm leading-relaxed text-ink-2">
                     {lead}
                   </p>
                 </article>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      <section className="border-b border-line">
+        <div className="shell grid12 gap-y-8 py-10 md:py-14">
+          <div className="col-span-12 md:col-span-3">
+            <p className="eyebrow">Events &amp; installations · {events.length}</p>
+            <h2 className="display-sm mt-4">Events</h2>
+          </div>
+          <div className="col-span-12 md:col-span-9">
+            {events.map((event) => {
+              const slug = event.sourcePage.replace(/^events\//, "").replace(/\.htm$/, "");
+              return (
+                <Link key={event.slug} href={`/archive/events/${slug}`} className="grid grid-cols-12 gap-3 border-t border-line py-3 no-underline last:border-b hover:bg-surface">
+                  <span className="col-span-2 font-code text-sm text-highlight">{event.year}</span>
+                  <span className="col-span-10 font-grotesk text-lg font-bold tracking-[-0.03em]">
+                    {event.title}
+                    <span className="mono ml-3 text-muted">{event.location}</span>
+                  </span>
+                </Link>
               );
             })}
           </div>
