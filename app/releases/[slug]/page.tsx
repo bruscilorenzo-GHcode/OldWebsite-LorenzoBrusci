@@ -2,6 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrackList } from "@/components/TrackList";
+import releaseAudio from "@/content/release-audio.json";
+
+const IA_PRODUCTIONS = "https://archive.org/download/timet-productions-1996-2003/";
+const iaUrl = (folder: string, file: string) => IA_PRODUCTIONS + [...folder.split("/"), file].map(encodeURIComponent).join("/");
+type RA = { folder: string; tracks: Record<string, string>; extras: string[] };
+const audioFor = (slug: string): RA | null => ((releaseAudio as Record<string, RA>)[slug] ?? null);
 import { ReleaseCover } from "@/components/ReleaseCover";
 import { releases } from "@/lib/content";
 
@@ -128,12 +134,31 @@ export default async function ReleasePage({
           </div>
           <div className="col-span-12 md:col-span-9">
             {release.tracks.length > 0 ? (
-              <TrackList tracks={release.tracks} showDiscs={release.slug === "on-zarathustra" || release.slug === "nova-compilatione"} />
+              <TrackList
+                tracks={release.tracks}
+                showDiscs={release.slug === "on-zarathustra" || release.slug === "nova-compilatione"}
+                audio={(() => { const a = audioFor(release.slug); return a ? Object.fromEntries(Object.entries(a.tracks).map(([n, f]) => [n, iaUrl(a.folder, f)])) : undefined; })()}
+              />
             ) : (
               <p className="border-l-2 border-highlight bg-surface px-4 py-3 font-code text-sm text-ink-2">
                 {release.tracklistStatus ?? "Tracklist not published."}
               </p>
             )}
+            {(() => {
+              const a = audioFor(release.slug);
+              const extra = a?.extras ?? [];
+              const tars = release.slug === "quadri-di-schermo-vivo" ? ["notte", "restituzione", "consegnarsi", "altpop", "equilibrio", "dignita", "mani"] : [];
+              if (!a || (extra.length === 0 && tars.length === 0)) return null;
+              return (
+                <div className="mt-6 border-t border-line pt-4">
+                  <p className="eyebrow">Listen &amp; download · Internet Archive</p>
+                  <ul className="mt-3 space-y-2 text-sm text-ink-2">
+                    {extra.map((f) => <li key={f}><a href={iaUrl(a.folder, f)} target="_blank" rel="noopener">{f.replace(/\.mp3$/, "")}</a></li>)}
+                    {tars.map((t) => <li key={t}><a href={iaUrl(a.folder, `${t}.tar`)} target="_blank" rel="noopener">{t}.tar</a> <span className="text-muted">(full-length audio archive)</span></li>)}
+                  </ul>
+                </div>
+              );
+            })()}
             {release.sectionDurations && (
               <dl className="mt-6 border-t border-line">
                 {Object.entries(release.sectionDurations).map(([section, duration]) => (
