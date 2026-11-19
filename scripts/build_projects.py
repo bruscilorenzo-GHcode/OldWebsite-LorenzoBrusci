@@ -1,4 +1,5 @@
-"""Rebuild the 'projects' (legacy modular/) pages as structured, linked content.
+"""NOTE: after running this, run scripts/clean_texts.py (cleaned English texts overwrite the raw extraction).
+Rebuild the 'projects' (legacy modular/) pages as structured, linked content.
 Reads the read-only backup. Writes content/projects-living.json and public/projects/*.
 Run: python3 scripts/build_projects.py /path/to/TIMET_SITO_BACKUP"""
 import sys, re, json, shutil, pathlib, chardet
@@ -40,7 +41,7 @@ def video_for(urlpath):
     mov = [pathlib.Path(a["src"] if a.get("src") else a.get("value","")).name for a in s.find_all(["embed","param"]) if re.search(r"\.(mov|swf)", (a.get("src") or a.get("value") or ""))]
     return list(dict.fromkeys(m for m in mov if m))
 TITLES = {"01":"Stressing the limit of sound perception","02":"Hyper Classicism","03":"State of immersion","04":"Performative projects",
- "05":"Sonic architectures","06":"Metalanguages and nonlinearity","07":"Open database","08":"Video experiences and documentarism",
+ "05":"Sonic architectures","06":"Metalanguages and nonlinearity","07":"Open database","08":"Video experiences and documentary",
  "04_2":"Easy Classics","04_3":"LoLe","04_4":"Zarathustra","04_5":"The poem","04_6":"Heritage to be played","04_7":"Compilatione",
  "04_8":"Maybe","04_9":"AL><Ter","04_10":"Sampling Art","04_11":"Shadows","04_12":"May the 1st",
  "app01":"Lole - Musica Leggiadra","app02":"Easy Classics","app06":"Sempre Straniero","app07":"Mariposa / Lo-Timet versions"}

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Prose } from "@/components/Prose";
-import { preconditions } from "@/lib/content";
+import method from "@/content/method.json";
 import { mainProjects, summary } from "@/lib/projects";
 
 export const metadata: Metadata = {
@@ -52,7 +52,7 @@ export default function ProjectsPage() {
             <h2 className="display-sm mt-4">Method</h2>
           </div>
           <div className="col-span-12 md:col-span-8 md:col-start-5">
-            <Prose text={preconditions.bodyText.split("\n\nTimet Pre-conditions")[1] ? "Timet Pre-conditions" + preconditions.bodyText.split("\n\nTimet Pre-conditions")[1] : preconditions.bodyText} />
+            <Prose text={method.markdown} />
           </div>
         </div>
       </section>
