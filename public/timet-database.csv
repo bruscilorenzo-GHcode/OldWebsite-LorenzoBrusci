@@ -1,0 +1,544 @@
+id,year,order,PP,sampled_musician,sampled_source_1,sampled_source_2,metaphor,CS,timet_artwork,C,collection,file,original_url
+1,2003,1,k,-,perc,ambient 1,-,-,-,LB,k sound,downloads/database/mp3/K ambience 1.mp3,http://www.timet.org/downloads/database/mp3/K ambience 1.mp3
+2,2003,2,k,Bach,orchestra,1,-,-,-,LB,k sound,downloads/database/mp3/K Bach orch 1.mp3,http://www.timet.org/downloads/database/mp3/K Bach orch 1.mp3
+3,2003,3,k,Bach,orchestra,2,-,-,-,LB,k sound,downloads/database/mp3/K Bach orch 2.mp3,http://www.timet.org/downloads/database/mp3/K Bach orch 2.mp3
+4,2003,4,k,Bach,orchestra,3,-,-,-,LB,k sound,downloads/database/mp3/K Bach orch 3.mp3,http://www.timet.org/downloads/database/mp3/K Bach orch 3.mp3
+5,2003,5,k,Bach,orchestra,4,-,-,-,LB,k sound,downloads/database/mp3/K Bach orch 4.mp3,http://www.timet.org/downloads/database/mp3/K Bach orch 4.mp3
+6,2003,6,k,Barb,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K Barbieri ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Barbieri ensemble.mp3
+7,2003,7,k,Bassi,perc,1,-,-,-,LB,k sound,downloads/database/mp3/K Bassi 1.mp3,http://www.timet.org/downloads/database/mp3/K Bassi 1.mp3
+8,2003,8,k,B Boys,ensemble,1,-,-,-,LB,k sound,downloads/database/mp3/K Beach Boys ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Beach Boys ensemble.mp3
+9,2003,9,k,B Boys,ensemble,2,-,-,-,LB,k sound,downloads/database/mp3/K Beach Boys ensemble 2.mp3,http://www.timet.org/downloads/database/mp3/K Beach Boys ensemble 2.mp3
+10,2003,10,k,Behrman,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K Behrman ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Behrman ensemble.mp3
+11,2003,11,k,Beri,choir,-,-,-,-,LB,k sound,downloads/database/mp3/K Berio-Coro.mp3,http://www.timet.org/downloads/database/mp3/K Berio-Coro.mp3
+12,2003,12,k,Berliotz,orchestra,-,-,-,-,LB,k sound,downloads/database/mp3/K Berliotz orch.mp3,http://www.timet.org/downloads/database/mp3/K Berliotz orch.mp3
+13,2003,13,k,Gabbia,piano,ambient 1,-,-,-,LB,k sound,downloads/database/mp3/K Cage a piano piece.mp3,http://www.timet.org/downloads/database/mp3/K Cage a piano piece.mp3
+14,2003,14,k,-,clavi,ambient 1,-,-,-,LB,k sound,downloads/database/mp3/K Clavi 1.mp3,http://www.timet.org/downloads/database/mp3/K Clavi 1.mp3
+15,2003,15,k,-,clavi,1,-,-,-,LB,k sound,downloads/database/mp3/K Clavi 2.mp3,http://www.timet.org/downloads/database/mp3/K Clavi 2.mp3
+16,2003,16,k,-,clavi,2,-,-,-,LB,k sound,downloads/database/mp3/K Clavi 48FB.mp3,http://www.timet.org/downloads/database/mp3/K Clavi 48FB.mp3
+17,2003,17,k,Coleman-Shosta-Bartok,orchestra,-,-,-,-,LB,k sound,downloads/database/mp3/K Coleman-Shosta-Bartok orch.mp3,http://www.timet.org/downloads/database/mp3/K Coleman-Shosta-Bartok orch.mp3
+18,2003,18,k,Coltrane,ensemble,1,-,-,-,LB,k sound,downloads/database/mp3/K Coltrane ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Coltrane ensemble.mp3
+19,2003,19,k,Coltrane,ensemble,2,-,-,-,LB,k sound,downloads/database/mp3/K Coltrane ensemble 2.mp3,http://www.timet.org/downloads/database/mp3/K Coltrane ensemble 2.mp3
+20,2003,20,k,Coltrane,ensemble,3,-,-,-,LB,k sound,downloads/database/mp3/K Coltrane ensemble 3.mp3,http://www.timet.org/downloads/database/mp3/K Coltrane ensemble 3.mp3
+21,2003,21,k,Coltrane,ensemble,4,-,-,-,LB,k sound,downloads/database/mp3/K Coltrane ensemble 4.mp3,http://www.timet.org/downloads/database/mp3/K Coltrane ensemble 4.mp3
+22,2003,22,k,Coltrane,ensemble,5,-,-,-,LB,k sound,downloads/database/mp3/K Coltrane ensemble 5.mp3,http://www.timet.org/downloads/database/mp3/K Coltrane ensemble 5.mp3
+23,2003,23,k,Coltrane,ensemble,6,-,-,-,LB,k sound,downloads/database/mp3/K Coltrane ensemble 6.mp3,http://www.timet.org/downloads/database/mp3/K Coltrane ensemble 6.mp3
+24,2003,24,k,Coltrane,sax,-,-,-,-,LB,k sound,downloads/database/mp3/K Coltrane solo.mp3,http://www.timet.org/downloads/database/mp3/K Coltrane solo.mp3
+25,2003,25,k,Davis,perc,-,-,-,-,LB,k sound,downloads/database/mp3/K Davis Drum.mp3,http://www.timet.org/downloads/database/mp3/K Davis Drum.mp3
+26,2003,26,k,Davis,ensemble,1,-,-,-,LB,k sound,downloads/database/mp3/K Davis ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Davis ensemble.mp3
+27,2003,27,k,Davis,ensemble,2,-,-,-,LB,k sound,downloads/database/mp3/K Davis ensemble 2.mp3,http://www.timet.org/downloads/database/mp3/K Davis ensemble 2.mp3
+28,2003,28,k,Davis,ensemble,3,-,-,-,LB,k sound,downloads/database/mp3/K Davis ensemble 3.mp3,http://www.timet.org/downloads/database/mp3/K Davis ensemble 3.mp3
+29,2003,29,k,Davis,ensemble,4,-,-,-,LB,k sound,downloads/database/mp3/K Davis ensemble 4.mp3,http://www.timet.org/downloads/database/mp3/K Davis ensemble 4.mp3
+30,2003,30,k,-,perc,1,-,-,-,LB,k sound,downloads/database/mp3/K Drum Fast.mp3,http://www.timet.org/downloads/database/mp3/K Drum Fast.mp3
+31,2003,31,k,-,perc,2,-,-,-,LB,k sound,downloads/database/mp3/K drum 2.mp3,http://www.timet.org/downloads/database/mp3/K drum 2.mp3
+32,2003,32,k,-,perc,3,-,-,-,LB,k sound,downloads/database/mp3/K Drum 3.mp3,http://www.timet.org/downloads/database/mp3/K Drum 3.mp3
+33,2003,33,k,-,perc,4,-,-,-,LB,k sound,downloads/database/mp3/K Drum 4.mp3,http://www.timet.org/downloads/database/mp3/K Drum 4.mp3
+34,2003,34,k,-,perc,5,-,-,-,LB,k sound,downloads/database/mp3/K Drum 5.mp3,http://www.timet.org/downloads/database/mp3/K Drum 5.mp3
+35,2003,35,k,-,perc,6,-,-,-,LB,k sound,downloads/database/mp3/K Drum 6.mp3,http://www.timet.org/downloads/database/mp3/K Drum 6.mp3
+36,2003,36,k,-,perc,7,-,-,-,LB,k sound,downloads/database/mp3/K Drum 7.mp3,http://www.timet.org/downloads/database/mp3/K Drum 7.mp3
+37,2003,37,k,-,perc,8,-,-,-,LB,k sound,downloads/database/mp3/K Drum 8.mp3,http://www.timet.org/downloads/database/mp3/K Drum 8.mp3
+38,2003,38,k,-,perc,9,-,-,-,LB,k sound,downloads/database/mp3/K Drum 9.mp3,http://www.timet.org/downloads/database/mp3/K Drum 9.mp3
+39,2003,39,k,-,perc,ambient 1,-,-,-,LB,k sound,downloads/database/mp3/K Drum D068.mp3,http://www.timet.org/downloads/database/mp3/K Drum D068.mp3
+40,2003,40,k,-,perc,ambient vocal,-,-,-,LB,k sound,downloads/database/mp3/K Drum-Leti voce.mp3,http://www.timet.org/downloads/database/mp3/K Drum-Leti voce.mp3
+41,2003,41,k,Egk,orchestra,1,-,-,-,LB,k sound,downloads/database/mp3/K Egk orch.mp3,http://www.timet.org/downloads/database/mp3/K Egk orch.mp3
+42,2003,42,k,Egk,orchestra,2,-,-,-,LB,k sound,downloads/database/mp3/K Egk orch 2.mp3,http://www.timet.org/downloads/database/mp3/K Egk orch 2.mp3
+43,2003,43,k,F Culley,atlant ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K F Culley Atl ensemble.mp3,http://www.timet.org/downloads/database/mp3/K F Culley Atl ensemble.mp3
+44,2003,44,k,Feroci,organ,-,-,-,-,LB,k sound,downloads/database/mp3/K Feroci solo organ.mp3,http://www.timet.org/downloads/database/mp3/K Feroci solo organ.mp3
+45,2003,45,k,Hade,bass,orchestra,-,-,-,LB,k sound,downloads/database/mp3/K Haden Bass-_orch DC62.mp3,http://www.timet.org/downloads/database/mp3/K Haden Bass-_orch DC62.mp3
+46,2003,46,k,Hemph,perc,-,-,-,-,LB,k sound,downloads/database/mp3/K Hemphil Drum.mp3,http://www.timet.org/downloads/database/mp3/K Hemphil Drum.mp3
+47,2003,47,k,Ives,orchestra,-,-,-,-,LB,k sound,downloads/database/mp3/K Ives orch.mp3,http://www.timet.org/downloads/database/mp3/K Ives orch.mp3
+48,2003,48,k,J Morris,atlant ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K J Morris Atl ensemble.mp3,http://www.timet.org/downloads/database/mp3/K J Morris Atl ensemble.mp3
+49,2003,49,k,Janis,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K Janis J ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Janis J ensemble.mp3
+50,2003,50,k,Jusus,-,-,-,MC,-,LB,k sound,downloads/database/mp3/K Jusus MC.mp3,http://www.timet.org/downloads/database/mp3/K Jusus MC.mp3
+51,2003,51,k,kagel,orchestra,-,-,-,-,LB,k sound,downloads/database/mp3/K Kagel.mp3,http://www.timet.org/downloads/database/mp3/K Kagel.mp3
+52,2003,52,k,kagel,coro,-,-,-,-,LB,k sound,downloads/database/mp3/K Kagel coro.mp3,http://www.timet.org/downloads/database/mp3/K Kagel coro.mp3
+53,2003,53,k,L Young,atlant ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K L Young Atl ensemble.mp3,http://www.timet.org/downloads/database/mp3/K L Young Atl ensemble.mp3
+54,2003,54,k,Lo brusci,vocal,1,-,-,-,LB,k sound,downloads/database/mp3/K Lo brusci 1.mp3,http://www.timet.org/downloads/database/mp3/K Lo brusci 1.mp3
+55,2003,55,k,Lukas Ligeti,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K Lukas Ligeti ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Lukas Ligeti ensemble.mp3
+56,2003,56,k,MaxwlD,choir,-,-,-,-,LB,k sound,downloads/database/mp3/K MaxwellD WhiteChoir.mp3,http://www.timet.org/downloads/database/mp3/K MaxwellD WhiteChoir.mp3
+57,2003,57,k,McGee,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K McGee ensemble.mp3,http://www.timet.org/downloads/database/mp3/K McGee ensemble.mp3
+58,2003,58,k,Messiaen,orchestra,1,-,-,-,LB,k sound,downloads/database/mp3/K Messiaen orch.mp3,http://www.timet.org/downloads/database/mp3/K Messiaen orch.mp3
+59,2003,59,k,Messiaen,orchestra,2,-,-,-,LB,k sound,downloads/database/mp3/K Messiaen orch 2.mp3,http://www.timet.org/downloads/database/mp3/K Messiaen orch 2.mp3
+60,2003,60,k,Mozart,forte piano,1,-,-,-,LB,k sound,downloads/database/mp3/K Mozart forte piano.mp3,http://www.timet.org/downloads/database/mp3/K Mozart forte piano.mp3
+61,2003,61,k,Mozart,forte piano,2,-,-,-,LB,k sound,downloads/database/mp3/K Moz forte piano 2.mp3,http://www.timet.org/downloads/database/mp3/K Moz forte piano 2.mp3
+62,2003,62,k,Mozart,forte piano,3,-,-,-,LB,k sound,downloads/database/mp3/K Mozart forte piano 3.mp3,http://www.timet.org/downloads/database/mp3/K Mozart forte piano 3.mp3
+63,2003,63,k,Nelson,orchestra,2,-,-,-,LB,k sound,downloads/database/mp3/K Nelson orch 2.mp3,http://www.timet.org/downloads/database/mp3/K Nelson orch 2.mp3
+64,2003,64,k,Partch,perc,1,-,-,-,LB,k sound,downloads/database/mp3/K Partch low perc.mp3,http://www.timet.org/downloads/database/mp3/K Partch low perc.mp3
+65,2003,65,k,Partch,perc,2,-,-,-,LB,k sound,downloads/database/mp3/K Partch perc.mp3,http://www.timet.org/downloads/database/mp3/K Partch perc.mp3
+66,2003,66,k,Penderec,orchestra,1,-,-,-,LB,k sound,downloads/database/mp3/K Penderecki orch 2.mp3,http://www.timet.org/downloads/database/mp3/K Penderecki orch 2.mp3
+67,2003,67,k,Penderec,orchestra,2,-,-,-,LB,k sound,downloads/database/mp3/K Penderecki orch.mp3,http://www.timet.org/downloads/database/mp3/K Penderecki orch.mp3
+68,2003,68,k,R Brown,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K R Brown ensemble.mp3,http://www.timet.org/downloads/database/mp3/K R Brown ensemble.mp3
+69,2003,69,k,Roach,perc,-,-,-,-,LB,k sound,downloads/database/mp3/k Roach drum.mp3,http://www.timet.org/downloads/database/mp3/k Roach drum.mp3
+70,2003,70,k,Rollins,sax,-,-,-,-,LB,k sound,downloads/database/mp3/K Rollins solo Sax.mp3,http://www.timet.org/downloads/database/mp3/K Rollins solo Sax.mp3
+71,2003,71,k,Sara V,orchestra,1,-,-,-,LB,k sound,downloads/database/mp3/K Sara V Orch.mp3,http://www.timet.org/downloads/database/mp3/K Sara V Orch.mp3
+72,2003,72,k,Sara V,orchestra,2,-,-,-,LB,k sound,downloads/database/mp3/K Sara V orch 2.mp3,http://www.timet.org/downloads/database/mp3/K Sara V orch 2.mp3
+73,2003,73,k,Sara V,orchestra,3,-,-,-,LB,k sound,downloads/database/mp3/K Sara V orch 3.mp3,http://www.timet.org/downloads/database/mp3/K Sara V orch 3.mp3
+74,2003,74,k,Sara V,orchestra,4,-,-,-,LB,k sound,downloads/database/mp3/K Sara V orch 4.mp3,http://www.timet.org/downloads/database/mp3/K Sara V orch 4.mp3
+75,2003,75,k,Schnittke,orchestra,1,-,-,-,LB,k sound,downloads/database/mp3/K Schnittke orch.mp3,http://www.timet.org/downloads/database/mp3/K Schnittke orch.mp3
+76,2003,76,k,Schnittke,orchestra,2,-,-,-,LB,k sound,downloads/database/mp3/K Schnittke orch 2.mp3,http://www.timet.org/downloads/database/mp3/K Schnittke orch 2.mp3
+77,2003,77,k,Schnittke,orchestra,3,-,-,-,LB,k sound,downloads/database/mp3/K Schnittke orch 3.mp3,http://www.timet.org/downloads/database/mp3/K Schnittke orch 3.mp3
+78,2003,78,k,Schutz,choir,-,-,-,-,LB,k sound,downloads/database/mp3/K Schutz coro.mp3,http://www.timet.org/downloads/database/mp3/K Schutz coro.mp3
+79,2003,79,k,Scott Her,bass,-,-,-,-,LB,k sound,downloads/database/mp3/K Scott Heron Basso.mp3,http://www.timet.org/downloads/database/mp3/K Scott Heron Basso.mp3
+80,2003,80,k,Scott Her,ensemble,1,-,-,-,LB,k sound,downloads/database/mp3/K Scott Heron ensamble 3.mp3,http://www.timet.org/downloads/database/mp3/K Scott Heron ensamble 3.mp3
+81,2003,81,k,Scott Her,ensemble,2,-,-,-,LB,k sound,downloads/database/mp3/K Scott Heron ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Scott Heron ensemble.mp3
+82,2003,82,k,Scott Her,ensemble,3,-,-,-,LB,k sound,downloads/database/mp3/K Scott Heron ensemble 2.mp3,http://www.timet.org/downloads/database/mp3/K Scott Heron ensemble 2.mp3
+83,2003,83,k,Short,bass,-,-,-,-,LB,k sound,downloads/database/mp3/K Shorter Bassi.mp3,http://www.timet.org/downloads/database/mp3/K Shorter Bassi.mp3
+84,2003,84,k,Short,perc,-,-,-,-,LB,k sound,downloads/database/mp3/K Shorter Drum.mp3,http://www.timet.org/downloads/database/mp3/K Shorter Drum.mp3
+85,2003,85,k,Suicide,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K Suicide ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Suicide ensemble.mp3
+86,2003,86,k,Super SSS,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K Super SSS ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Super SSS ensemble.mp3
+87,2003,87,k,-,synth,1,-,-,-,LB,k sound,downloads/database/mp3/K synth 1.mp3,http://www.timet.org/downloads/database/mp3/K synth 1.mp3
+88,2003,88,k,-,synth,2,-,-,-,LB,k sound,downloads/database/mp3/K synth 2.mp3,http://www.timet.org/downloads/database/mp3/K synth 2.mp3
+89,2003,89,k,-,synth,orchestra,-,-,-,LB,k sound,downloads/database/mp3/K synth 3.mp3,http://www.timet.org/downloads/database/mp3/K synth 3.mp3
+90,2003,90,k,Tiny Grimes,ensemble,-,-,-,-,LB,k sound,downloads/database/mp3/K Tiny Grimes ensemble.mp3,http://www.timet.org/downloads/database/mp3/K Tiny Grimes ensemble.mp3
+91,2003,91,k,Varese,orchestra,-,-,-,-,LB,k sound,downloads/database/mp3/K Varese orch.mp3,http://www.timet.org/downloads/database/mp3/K Varese orch.mp3
+92,2003,92,k,Xenakis,orchestra,-,-,-,-,LB,k sound,downloads/database/mp3/K Xenakis orch.mp3,http://www.timet.org/downloads/database/mp3/K Xenakis orch.mp3
+93,2003,93,k,Yoshimatsu,orchestra,-,-,-,-,LB,k sound,downloads/database/mp3/K Yoshimatsu orch.mp3,http://www.timet.org/downloads/database/mp3/K Yoshimatsu orch.mp3
+94,2003,94,k,L Nelson,orchestra,-,-,-,-,LB,k sound,downloads/database/mp3/L Nelson orch.mp3,http://www.timet.org/downloads/database/mp3/L Nelson orch.mp3
+95,2003,95,k,Hawt,perc,1,-,-,-,LB,k sound,downloads/database/mp3/techno delay.mp3,http://www.timet.org/downloads/database/mp3/techno delay.mp3
+96,2003,96,k,Hawt,perc,2,-,-,-,LB,k sound,downloads/database/mp3/Techno noise_fdbk A891.mp3,http://www.timet.org/downloads/database/mp3/Techno noise_fdbk A891.mp3
+97,2001,1,k,-,perc,multi 1,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 01.mp3,http://www.timet.org/kyma early sounds/kearly - 01.mp3
+98,2001,2,k,-,perc,multi 2,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 02.mp3,http://www.timet.org/kyma early sounds/kearly - 02.mp3
+99,2001,3,k,-,synth,ambient 1,clusters,SC,-,LB,early kima,database/Kyma early sounds/kearly - 03.mp3,http://www.timet.org/kyma early sounds/kearly - 03.mp3
+100,2001,4,k,-,synth,ambient 1,walk,SC,-,LB,early kima,database/Kyma early sounds/kearly - 04.mp3,http://www.timet.org/kyma early sounds/kearly - 04.mp3
+101,2001,5,k,-,bass,flood 2,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 05.mp3,http://www.timet.org/kyma early sounds/kearly - 05.mp3
+102,2001,6,k,-,perc,distorted,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 06.mp3,http://www.timet.org/kyma early sounds/kearly - 06.mp3
+103,2001,7,k,-,ambient,multibeeing,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 07.mp3,http://www.timet.org/kyma early sounds/kearly - 07.mp3
+104,2001,8,k,-,ambient,shocks,-,-,-,LB,early kima,database/Kyma early sounds/kearly - 08.mp3,http://www.timet.org/kyma early sounds/kearly - 08.mp3
+105,2001,9,k,-,sitar,9,-,-,-,LB,early kima,database/Kyma early sounds/kearly - 09.mp3,http://www.timet.org/kyma early sounds/kearly - 09.mp3
+106,2001,10,k,-,perc-tabla,Bass,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 10.mp3,http://www.timet.org/kyma early sounds/kearly - 10.mp3
+107,2001,11,k,-,ambient,sections,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 11.mp3,http://www.timet.org/kyma early sounds/kearly - 11.mp3
+108,2001,12,k,-,perc,tabla 1,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 12.mp3,http://www.timet.org/kyma early sounds/kearly - 12.mp3
+109,2001,13,k,-,perc,tabla 2,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 13.mp3,http://www.timet.org/kyma early sounds/kearly - 13.mp3
+110,2001,14,k,-,perc,tabla 3,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 14.mp3,http://www.timet.org/kyma early sounds/kearly - 14.mp3
+111,2001,15,k,-,perc,tabla 4,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 15.mp3,http://www.timet.org/kyma early sounds/kearly - 15.mp3
+112,2001,16,k,-,-,-,temporale,SC,-,LB,early kima,database/Kyma early sounds/kearly - 16.mp3,http://www.timet.org/kyma early sounds/kearly - 16.mp3
+113,2001,17,k,-,sitar,10,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 17.mp3,http://www.timet.org/kyma early sounds/kearly - 17.mp3
+114,2001,18,k,-,sitar,1,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 18.mp3,http://www.timet.org/kyma early sounds/kearly - 18.mp3
+115,2001,19,k,-,sitar,2,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 19.mp3,http://www.timet.org/kyma early sounds/kearly - 19.mp3
+116,2001,20,k,-,sitar,3,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 20.mp3,http://www.timet.org/kyma early sounds/kearly - 20.mp3
+117,2001,21,k,-,sitar,4,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 21.mp3,http://www.timet.org/kyma early sounds/kearly - 21.mp3
+118,2001,22,k,-,sitar,5,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 22.mp3,http://www.timet.org/kyma early sounds/kearly - 22.mp3
+119,2001,23,k,-,small,6,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 23.mp3,http://www.timet.org/kyma early sounds/kearly - 23.mp3
+120,2001,24,k,-,sitar,7,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 24.mp3,http://www.timet.org/kyma early sounds/kearly - 24.mp3
+121,2001,25,k,-,sitar,8,-,SC,-,LB,early kima,database/Kyma early sounds/kearly - 25.mp3,http://www.timet.org/kyma early sounds/kearly - 25.mp3
+122,2000,1,pt,Bach,ensemble,-,-,SC,zarathustra,LB,cd vario 1,database/Varie web 1/vario 1 - 01.mp3,http://www.timet.org/varie web 1/vario 1 - 01.mp3
+123,2000,2,pt,-,perc,-,-,SC,zarathustra,LB,cd vario 1,database/Varie web 1/vario 1 - 02.mp3,http://www.timet.org/varie web 1/vario 1 - 02.mp3
+124,2000,3,pt,-,perc,ambient 1,-,SC,zarathustra,LB,cd vario 1,database/Varie web 1/vario 1 - 03.mp3,http://www.timet.org/varie web 1/vario 1 - 03.mp3
+125,2001,4,pt,E. Gabrielli,clarinet,1,-,SC,zarathustra,LB,cd vario 1,database/Varie web 1/vario 1 - 04.mp3,http://www.timet.org/varie web 1/vario 1 - 04.mp3
+126,2001,5,pt,E. Gabrielli,clarinet,2,-,SC,zarathustra,LB,cd vario 1,database/Varie web 1/vario 1 - 05.mp3,http://www.timet.org/varie web 1/vario 1 - 05.mp3
+127,2001,6,pt,-,perc,-,war,SC,zarathustra,LB,cd vario 1,database/Varie web 1/vario 1 - 06.mp3,http://www.timet.org/varie web 1/vario 1 - 06.mp3
+128,2001,7,pt,-,piano,-,-,SC,zarathustra,LB,cd vario 1,database/Varie web 1/vario 1 - 07.mp3,http://www.timet.org/varie web 1/vario 1 - 07.mp3
+129,2001,8,pt,M. Guerrini,sax,-,-,SC,zarathustra,LB,cd vario 1,database/Varie web 1/vario 1 - 08.mp3,http://www.timet.org/varie web 1/vario 1 - 08.mp3
+130,2003,9,pt,Britten,ambient,-,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 09.mp3,http://www.timet.org/varie web 1/vario 1 - 09.mp3
+131,2001,10,pt,Britten,orchestra,-,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 10.mp3,http://www.timet.org/varie web 1/vario 1 - 10.mp3
+132,2003,11,k,-,ambient,metals,-,,-,LB,cd vario 1,database/Varie web 1/vario 1 - 11.mp3,http://www.timet.org/varie web 1/vario 1 - 11.mp3
+133,2001,12,pt,-,noise,packaging s.,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 12.mp3,http://www.timet.org/varie web 1/vario 1 - 12.mp3
+134,2001,13,k,-,perc,mechanical,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 13.mp3,http://www.timet.org/varie web 1/vario 1 - 13.mp3
+135,1999,14,pt,Bachar,vocal,1,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 14.mp3,http://www.timet.org/varie web 1/vario 1 - 14.mp3
+136,1999,15,pt,Bachar,vocal,2,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 15.mp3,http://www.timet.org/varie web 1/vario 1 - 15.mp3
+137,1998,16,pt,-,ambient,-,velvet,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 16.mp3,http://www.timet.org/varie web 1/vario 1 - 16.mp3
+138,2002,17,pt,-,perc,distortion,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 17.mp3,http://www.timet.org/varie web 1/vario 1 - 17.mp3
+139,2002,18,k,EL.MEN,,-,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 18.mp3,http://www.timet.org/varie web 1/vario 1 - 18.mp3
+140,2002,19,k,L. Renzini,vocal,1,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 19.mp3,http://www.timet.org/varie web 1/vario 1 - 19.mp3
+141,2002,20,k,L. Renzini,vocal,2,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 20.mp3,http://www.timet.org/varie web 1/vario 1 - 20.mp3
+142,2002,21,k,-,perc,wood 2,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 21.mp3,http://www.timet.org/varie web 1/vario 1 - 21.mp3
+143,2002,22,k,-,perc,wood 3,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 22.mp3,http://www.timet.org/varie web 1/vario 1 - 22.mp3
+144,2002,23,k,-,perc,wood 4,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 23.mp3,http://www.timet.org/varie web 1/vario 1 - 23.mp3
+145,2002,24,k,-,perc,wood 5,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 24.mp3,http://www.timet.org/varie web 1/vario 1 - 24.mp3
+146,2002,25,k,-,perc,wood 6,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 25.mp3,http://www.timet.org/varie web 1/vario 1 - 25.mp3
+147,2002,26,k,-,perc,wood 7,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 26.mp3,http://www.timet.org/varie web 1/vario 1 - 26.mp3
+148,2002,27,k,-,perc,wood 8,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 27.mp3,http://www.timet.org/varie web 1/vario 1 - 27.mp3
+149,2002,28,k,-,perc,wood 9,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 28.mp3,http://www.timet.org/varie web 1/vario 1 - 28.mp3
+150,2002,29,k,-,perc,wood 10,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 29.mp3,http://www.timet.org/varie web 1/vario 1 - 29.mp3
+151,2002,30,k,-,perc,wood 11,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 30.mp3,http://www.timet.org/varie web 1/vario 1 - 30.mp3
+152,2002,31,k,-,perc,wood 12,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 31.mp3,http://www.timet.org/varie web 1/vario 1 - 31.mp3
+153,2002,32,k,-,perc,wood 13,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 32.mp3,http://www.timet.org/varie web 1/vario 1 - 32.mp3
+154,2002,33,k,-,perc,wood 14,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 33.mp3,http://www.timet.org/varie web 1/vario 1 - 33.mp3
+155,2002,34,k,-,perc,wood 15,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 34.mp3,http://www.timet.org/varie web 1/vario 1 - 34.mp3
+156,2002,35,k,-,perc,wood 16,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 35.mp3,http://www.timet.org/varie web 1/vario 1 - 35.mp3
+157,2002,36,k,M. Cosottini,trumpet,-,-,SC,-,LB,cd vario 1,database/Varie web 1/vario 1 - 36.mp3,http://www.timet.org/varie web 1/vario 1 - 36.mp3
+158,2000,1,pt,Hindemith,orchestra,1,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 01.mp3,http://www.timet.org/classica/classica - 01.mp3
+159,2000,3,pt,Hindemith,orchestra,2,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 03.mp3,http://www.timet.org/classica/classica - 03.mp3
+160,2000,4,pt,Haydn,orchestra,-,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 04.mp3,http://www.timet.org/classica/classica - 04.mp3
+161,2000,5,pt,Goldman,orchestra,-,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 05.mp3,http://www.timet.org/classica/classica - 05.mp3
+162,2000,6,pt,Dvorak,orchestra,-,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 06.mp3,http://www.timet.org/classica/classica - 06.mp3
+163,1999,8,pt,Bach,ambient,2,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 08.mp3,http://www.timet.org/classica/classica - 08.mp3
+164,1999,9,pt,Mendellssohn,orchestra,-,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 09.mp3,http://www.timet.org/classica/classica - 09.mp3
+165,1999,10,pt,Herchet,orchestra,1,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 10.mp3,http://www.timet.org/classica/classica - 10.mp3
+166,1999,11,pt,Herchet,orchestra,2,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 11.mp3,http://www.timet.org/classica/classica - 11.mp3
+167,1999,12,pt,Mozart,orchestra,-,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 12.mp3,http://www.timet.org/classica/classica - 12.mp3
+168,1999,13,pt,Wagner,orchestra,-,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 13.mp3,http://www.timet.org/classica/classica - 13.mp3
+169,1999,14,pt,Miano,piano,1,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 14.mp3,http://www.timet.org/classica/classica - 14.mp3
+170,1999,15,pt,Miano,piano,2,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 15.mp3,http://www.timet.org/classica/classica - 15.mp3
+171,2000,16,pt,Miano,piano,3,drops,SC,zarathustra,LB,cd classica,database/Classica/classica - 16.mp3,http://www.timet.org/classica/classica - 16.mp3
+172,1996,17,pt,-,orchestra,slowdown,fuga,SC,zarathustra,LB,cd classica,database/Classica/classica - 17.mp3,http://www.timet.org/classica/classica - 17.mp3
+173,1999,19,pt,Miano,piano,4,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 19.mp3,http://www.timet.org/classica/classica - 19.mp3
+174,1998,20,pt,Bach,cello,1,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 20.mp3,http://www.timet.org/classica/classica - 20.mp3
+175,1998,21,pt,Bach,cello,2,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 21.mp3,http://www.timet.org/classica/classica - 21.mp3
+176,1999,22,pt,Bomporti,orchestra,-,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 22.mp3,http://www.timet.org/classica/classica - 22.mp3
+177,1999,24,pt,Bach,cello,minimal extension,-,MC,zarathustra,LB,cd classica,database/Classica/classica - 24.mp3,http://www.timet.org/classica/classica - 24.mp3
+178,2000,25,pt,Bach,organ,ambient 1,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 25.mp3,http://www.timet.org/classica/classica - 25.mp3
+179,2000,26,pt,Bach,organ,ambient 2,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 26.mp3,http://www.timet.org/classica/classica - 26.mp3
+180,1999,27,pt,Miano,piano,4,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 27.mp3,http://www.timet.org/classica/classica - 27.mp3
+181,1999,28,pt,Respighi,orchestra,1,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 28.mp3,http://www.timet.org/classica/classica - 28.mp3
+182,1999,29,pt,Respighi,orchestra,2,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 29.mp3,http://www.timet.org/classica/classica - 29.mp3
+183,1999,30,pt,Respighi,orchestra,3,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 30.mp3,http://www.timet.org/classica/classica - 30.mp3
+184,1999,31,pt,Bach,ambient,2,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 31.mp3,http://www.timet.org/classica/classica - 31.mp3
+185,2000,32,pt,Messiaen,orchestra,1,-,SC,carne capitata,LB,cd classica,database/Classica/classica - 32.mp3,http://www.timet.org/classica/classica - 32.mp3
+186,2000,33,pt,Messiaen,orchestra,2,-,SC,carne capitata,LB,cd classica,database/Classica/classica - 33.mp3,http://www.timet.org/classica/classica - 33.mp3
+187,1999,34,pt,Respighi,orchestra,1,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 34.mp3,http://www.timet.org/classica/classica - 34.mp3
+188,1997,35,pt,Dufay,vocal,-,-,SC,quadri di schermo v.,LB,cd classica,database/Classica/classica - 35.mp3,http://www.timet.org/classica/classica - 35.mp3
+189,1997,36,pt,Gregorian,vocal,1,-,SC,zarathustra,LB,cd classica,database/Classica/classica - 36.mp3,http://www.timet.org/classica/classica - 36.mp3
+190,1996,37,pt,Village Band,-,-,-,SC,colazione con …,LB,cd classica,database/Classica/classica - 37.mp3,http://www.timet.org/classica/classica - 37.mp3
+191,2000,1,pt,-,perc,arpeggio,-,SC,-,LB,cd web vario2,database/Varie web 2/vario 2 - 02.mp3,http://www.timet.org/varie web 2/vario 2 - 02.mp3
+192,2000,2,pt,-,perc,bass,-,SC,-,LB,cd web vario2,database/Varie web 2/vario 2 - 01.mp3,http://www.timet.org/varie web 2/vario 2 - 01.mp3
+193,2002,3,k,-,perc,1,-,SC,SRS,LB,cd web vario2,database/Varie web 2/vario 2 - 03.mp3,http://www.timet.org/varie web 2/vario 2 - 03.mp3
+194,2002,4,k,-,perc,2,-,SC,SRS,LB,cd web vario2,database/Varie web 2/vario 2 - 04.mp3,http://www.timet.org/varie web 2/vario 2 - 04.mp3
+195,2002,5,pt,-,perc,house,-,SC,SRS,LB,cd web vario2,database/Varie web 2/vario 2 - 05.mp3,http://www.timet.org/varie web 2/vario 2 - 05.mp3
+196,2002,6,k,-,perc,4,-,SC,SRS,LB,cd web vario2,database/Varie web 2/vario 2 - 06.mp3,http://www.timet.org/varie web 2/vario 2 - 06.mp3
+197,2002,7,k,-,perc,5,-,SC,SRS,LB,cd web vario2,database/Varie web 2/vario 2 - 07.mp3,http://www.timet.org/varie web 2/vario 2 - 07.mp3
+198,2002,8,k,-,perc,6,-,SC,SRS,LB,cd web vario2,database/Varie web 2/vario 2 - 08.mp3,http://www.timet.org/varie web 2/vario 2 - 08.mp3
+199,2002,9,k,-,perc,7,-,SC,SRS,LB,cd web vario2,database/Varie web 2/vario 2 - 09.mp3,http://www.timet.org/varie web 2/vario 2 - 09.mp3
+200,2000,10,pt,-,perc,run,-,SC,Metamorfosi,LB,cd web vario2,database/Varie web 2/vario 2 - 10.mp3,http://www.timet.org/varie web 2/vario 2 - 10.mp3
+201,2002,11,k,,perc,rolling distorted,-,SC,LoLe,LB,cd web vario2,database/Varie web 2/vario 2 - 11.mp3,http://www.timet.org/varie web 2/vario 2 - 11.mp3
+202,2000,12,k,A. Melani,perc,swing,-,SC,zarathustra,LB,cd web vario2,database/Varie web 2/vario 2 - 12.mp3,http://www.timet.org/varie web 2/vario 2 - 12.mp3
+203,2002,13,k,-,perc,stretching,-,SC,zarathustra,LB,cd web vario2,database/Varie web 2/vario 2 - 13.mp3,http://www.timet.org/varie web 2/vario 2 - 13.mp3
+204,2002,14,k,-,perc,8,-,SC,zarathustra,LB,cd web vario2,database/Varie web 2/vario 2 - 14.mp3,http://www.timet.org/varie web 2/vario 2 - 14.mp3
+205,2002,15,k,Bach,Piano-Fiddler,morphing,-,SC,zarathustra,LB,cd web vario2,database/Varie web 2/vario 2 - 15.mp3,http://www.timet.org/varie web 2/vario 2 - 15.mp3
+206,2002,1,pt,Beeth,strings,quartet,-,SC,easy classics,LB,cd web vario3,database/Varie web 3/vario 3 - 02.mp3,http://www.timet.org/varie web 3/vario 3 - 02.mp3
+207,2001,2,pt,Copland,orchestra,-,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 01.mp3,http://www.timet.org/varie web 3/vario 3 - 01.mp3
+208,2001,3,pt,Mozart,orchestra,-,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 03.mp3,http://www.timet.org/varie web 3/vario 3 - 03.mp3
+209,2001,4,pt,Albinoni,orchestra,-,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 04.mp3,http://www.timet.org/varie web 3/vario 3 - 04.mp3
+210,2002,5,k,Bach,orchestra,distortion,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 05.mp3,http://www.timet.org/varie web 3/vario 3 - 05.mp3
+211,2001,6,pt,Schubert,orchestra,-,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 06.mp3,http://www.timet.org/varie web 3/vario 3 - 06.mp3
+212,2001,7,pt,Sosta Palmizi,sospiri,-,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 07.mp3,http://www.timet.org/varie web 3/vario 3 - 07.mp3
+213,2001,8,k,De Luca,vocal,1,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 08.mp3,http://www.timet.org/varie web 3/vario 3 - 08.mp3
+214,2001,9,k,De Luca,vocal,2,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 09.mp3,http://www.timet.org/varie web 3/vario 3 - 09.mp3
+215,2001,10,k,De Luca,vocal,3,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 10.mp3,http://www.timet.org/varie web 3/vario 3 - 10.mp3
+216,2000,11,pt,Miano,piano,1,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 11.mp3,http://www.timet.org/varie web 3/vario 3 - 11.mp3
+217,2000,12,pt,Miano,piano,2,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 12.mp3,http://www.timet.org/varie web 3/vario 3 - 12.mp3
+218,2000,13,pt,Miano,piano,3,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 13.mp3,http://www.timet.org/varie web 3/vario 3 - 13.mp3
+219,2000,14,pt,Miano,piano,4,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 14.mp3,http://www.timet.org/varie web 3/vario 3 - 14.mp3
+220,2000,15,pt,Miano,piano,5,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 15.mp3,http://www.timet.org/varie web 3/vario 3 - 15.mp3
+221,2000,16,pt,Miano,piano,6,-,SC,zarathustra,LB,cd web vario3,database/Varie web 3/vario 3 - 16.mp3,http://www.timet.org/varie web 3/vario 3 - 16.mp3
+222,1999,1,pt,-,orchestra,1,-,MC,emigrazione,LB,emigrazione,database/Emigrazioni/emigrazioni 01.mp3,http://www.timet.org/emigrazioni/emigrazioni 01.mp3
+223,1999,2,pt,-,orchestra,2,-,MC,emigrazione,LB,emigrazione,database/Emigrazioni/emigrazioni 02.mp3,http://www.timet.org/emigrazioni/emigrazioni 02.mp3
+224,1997,1,pt,Brian,vocal,1,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 01.mp3,http://www.timet.org/vocalità/voc - 01.mp3
+225,1997,2,pt,Brian,vocal,2,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 02.mp3,http://www.timet.org/vocalità/voc - 02.mp3
+226,1997,3,pt,-,vocal,ambient 1,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 03.mp3,http://www.timet.org/vocalità/voc - 03.mp3
+227,1999,4,pt,-,vocal,perc,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 04.mp3,http://www.timet.org/vocalità/voc - 04.mp3
+228,1999,5,pt,-,vocal,multilingual 1,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 05.mp3,http://www.timet.org/vocalità/voc - 05.mp3
+229,1999,6,pt,-,vocal,multilingual 2,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 06.mp3,http://www.timet.org/vocalità/voc - 06.mp3
+230,1999,7,pt,-,vocal,multilingual 3,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 07.mp3,http://www.timet.org/vocalità/voc - 07.mp3
+231,1999,8,pt,-,vocal,multilingual 4,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 08.mp3,http://www.timet.org/vocalità/voc - 08.mp3
+232,1999,9,pt,-,vocal,multilingual 5,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 09.mp3,http://www.timet.org/vocalità/voc - 09.mp3
+233,1999,10,pt,-,vocal,multilingual 6,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 10.mp3,http://www.timet.org/vocalità/voc - 10.mp3
+234,1999,11,pt,-,vocal,multilingual 7,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 11.mp3,http://www.timet.org/vocalità/voc - 11.mp3
+235,1999,12,pt,-,vocal,multilingual 8,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 12.mp3,http://www.timet.org/vocalità/voc - 12.mp3
+236,1999,13,pt,-,vocal,multilingual 9,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 13.mp3,http://www.timet.org/vocalità/voc - 13.mp3
+237,1999,14,pt,-,vocal,multilingual 10,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 14.mp3,http://www.timet.org/vocalità/voc - 14.mp3
+238,1999,15,pt,-,vocal,multilingual 11,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 15.mp3,http://www.timet.org/vocalità/voc - 15.mp3
+239,1999,16,pt,-,vocal,multilingual 12,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 16.mp3,http://www.timet.org/vocalità/voc - 16.mp3
+240,1999,17,pt,-,vocal,multilingual 13,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 17.mp3,http://www.timet.org/vocalità/voc - 17.mp3
+241,1999,18,pt,-,vocal,multilingual 14,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 18.mp3,http://www.timet.org/vocalità/voc - 18.mp3
+242,1999,19,pt,-,vocal,multilingual 15,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 19.mp3,http://www.timet.org/vocalità/voc - 19.mp3
+243,1999,20,pt,-,vocal,multilingual 16,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 20.mp3,http://www.timet.org/vocalità/voc - 20.mp3
+244,1999,21,pt,-,vocal,multilingual 17,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 21.mp3,http://www.timet.org/vocalità/voc - 21.mp3
+245,1999,22,pt,-,vocal,multilingual 18,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 22.mp3,http://www.timet.org/vocalità/voc - 22.mp3
+246,1999,23,pt,-,vocal,multilingual 19,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 23.mp3,http://www.timet.org/vocalità/voc - 23.mp3
+247,1999,24,pt,-,vocal,multilingual 20,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 24.mp3,http://www.timet.org/vocalità/voc - 24.mp3
+248,1999,25,pt,-,vocal,multilingual 21,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 25.mp3,http://www.timet.org/vocalità/voc - 25.mp3
+249,1999,26,pt,-,vocal,multilingual 22,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 26.mp3,http://www.timet.org/vocalità/voc - 26.mp3
+250,1999,27,pt,-,vocal,multilingual 23,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 27.mp3,http://www.timet.org/vocalità/voc - 27.mp3
+251,1999,28,pt,-,vocal,multilingual 24,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 28.mp3,http://www.timet.org/vocalità/voc - 28.mp3
+252,1999,29,pt,-,vocal,multilingual 25,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 29.mp3,http://www.timet.org/vocalità/voc - 29.mp3
+253,1999,30,pt,-,vocal,multilingual 26,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 30.mp3,http://www.timet.org/vocalità/voc - 30.mp3
+254,1999,31,pt,-,vocal,multilingual 27,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 31.mp3,http://www.timet.org/vocalità/voc - 31.mp3
+255,1999,32,pt,-,vocal,multilingual 28,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 32.mp3,http://www.timet.org/vocalità/voc - 32.mp3
+256,1999,33,pt,-,vocal,multilingual 29,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 33.mp3,http://www.timet.org/vocalità/voc - 33.mp3
+257,1999,34,pt,-,vocal,multilingual 30,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 34.mp3,http://www.timet.org/vocalità/voc - 34.mp3
+258,1999,35,pt,-,vocal,multilingual 31,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 35.mp3,http://www.timet.org/vocalità/voc - 35.mp3
+259,1999,36,pt,-,vocal,multilingual 32,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 36.mp3,http://www.timet.org/vocalità/voc - 36.mp3
+260,1999,37,pt,-,vocal,multilingual 33,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 37.mp3,http://www.timet.org/vocalità/voc - 37.mp3
+261,1999,38,pt,-,vocal,multilingual 34,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 38.mp3,http://www.timet.org/vocalità/voc - 38.mp3
+262,1999,39,pt,-,vocal,multilingual 35,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 39.mp3,http://www.timet.org/vocalità/voc - 39.mp3
+263,1999,40,pt,Demuru,vocal,1,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 40.mp3,http://www.timet.org/vocalità/voc - 40.mp3
+264,1999,41,pt,Demuru,vocal,2,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 41.mp3,http://www.timet.org/vocalità/voc - 41.mp3
+265,1999,42,pt,Demuru,vocal,3,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 42.mp3,http://www.timet.org/vocalità/voc - 42.mp3
+266,1999,43,pt,Demuru,vocal,4,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 43.mp3,http://www.timet.org/vocalità/voc - 43.mp3
+267,1999,44,pt,Demuru,vocal,5,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 44.mp3,http://www.timet.org/vocalità/voc - 44.mp3
+268,1999,45,pt,Dufay,vocal,6,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 45.mp3,http://www.timet.org/vocalità/voc - 45.mp3
+269,1999,46,pt,Demuru,vocal,7,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 46.mp3,http://www.timet.org/vocalità/voc - 46.mp3
+270,2000,48,pt,-,vocal,ambient 1,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 48.mp3,http://www.timet.org/vocalità/voc - 48.mp3
+271,1999,49,pt,Sara V,vocal,-,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 49.mp3,http://www.timet.org/vocalità/voc - 49.mp3
+272,2000,50,pt,Demuru,vocal,perc 1,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 50.mp3,http://www.timet.org/vocalità/voc - 50.mp3
+273,2000,5,pt,Demuru,vocal,perc 2,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 51.mp3,http://www.timet.org/vocalità/voc - 51.mp3
+274,2000,52,pt,Demuru,vocal,ambient 1,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 52.mp3,http://www.timet.org/vocalità/voc - 52.mp3
+275,2000,53,pt,Majorino,perc,-,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 53.mp3,http://www.timet.org/vocalità/voc - 53.mp3
+276,2000,54,pt,Feroci,vocal,ambient 1,-,SC,zarathustra,LB,vocalità,database/Vocalità/voc - 54.mp3,http://www.timet.org/vocalità/voc - 54.mp3
+277,2000,55,pt,Giordano,vocal,-,-,SC,zarathustra,LB,vocalità,database/Vocalità/voc - 55.mp3,http://www.timet.org/vocalità/voc - 55.mp3
+278,2000,56,pt,Majorino,vocal,ambient 1,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 56.mp3,http://www.timet.org/vocalità/voc - 56.mp3
+279,2000,57,pt,Majorino,vocal,ambient 2,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 57.mp3,http://www.timet.org/vocalità/voc - 57.mp3
+280,2000,58,pt,Majorino,vocal,ambient 3,-,SC,carne capitata,LB,vocalità,database/Vocalità/voc - 58.mp3,http://www.timet.org/vocalità/voc - 58.mp3
+281,1998,59,pt,De Luca,vocal,4,-,SC,shadows,LB,vocalità,database/Vocalità/voc - 59.mp3,http://www.timet.org/vocalità/voc - 59.mp3
+282,1997,60,pt,Beatl,ensemble,perc 1,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 60.mp3,http://www.timet.org/vocalità/voc - 60.mp3
+283,1997,61,pt,Beatl,ensemble,perc 2,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 61.mp3,http://www.timet.org/vocalità/voc - 61.mp3
+284,1997,62,pt,Beatl,ensemble,perc 3,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 62.mp3,http://www.timet.org/vocalità/voc - 62.mp3
+285,1997,63,pt,Beatl,ensemble,perc 4,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 63.mp3,http://www.timet.org/vocalità/voc - 63.mp3
+286,1997,64,pt,Beatl,ensemble,perc 5,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 64.mp3,http://www.timet.org/vocalità/voc - 64.mp3
+287,1997,65,pt,Beatl,ensemble,perc 6,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 65.mp3,http://www.timet.org/vocalità/voc - 65.mp3
+288,1997,66,pt,Beatl,ensemble,perc 7,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 66.mp3,http://www.timet.org/vocalità/voc - 66.mp3
+289,1997,67,pt,Beatl,ensemble,perc 8,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 67.mp3,http://www.timet.org/vocalità/voc - 67.mp3
+290,1997,68,pt,Beatl,ensemble,perc 9,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 68.mp3,http://www.timet.org/vocalità/voc - 68.mp3
+291,1997,69,pt,Beatl,ensemble,perc 10,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 69.mp3,http://www.timet.org/vocalità/voc - 69.mp3
+292,1997,70,pt,Beatl,ensemble,perc 11,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 70.mp3,http://www.timet.org/vocalità/voc - 70.mp3
+293,1997,71,pt,Beatl,ensemble,perc 12,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 71.mp3,http://www.timet.org/vocalità/voc - 71.mp3
+294,1998,72,pt,De Luca,vocal,5,-,SC,shadows,LB,vocalità,database/Vocalità/voc - 72.mp3,http://www.timet.org/vocalità/voc - 72.mp3
+295,1998,73,pt,Demuru,vocal,impro 1,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 73.mp3,http://www.timet.org/vocalità/voc - 73.mp3
+296,1998,74,pt,Demuru,vocal,impro 2,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 74.mp3,http://www.timet.org/vocalità/voc - 74.mp3
+297,1997,75,pt,Artaud,vocal,ambient 1,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 75.mp3,http://www.timet.org/vocalità/voc - 75.mp3
+298,1997,76,pt,Artaud,vocal,ambient 2,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 76.mp3,http://www.timet.org/vocalità/voc - 76.mp3
+299,1997,77,pt,Ashley,vocal,ambient 1,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 77.mp3,http://www.timet.org/vocalità/voc - 77.mp3
+300,1997,78,pt,Beatl,ambient,-,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 78.mp3,http://www.timet.org/vocalità/voc - 78.mp3
+301,1998,79,pt,Bene,vocal,ambient 1,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 79.mp3,http://www.timet.org/vocalità/voc - 79.mp3
+302,1997,80,pt,Bluesmen,ambient,1,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 80.mp3,http://www.timet.org/vocalità/voc - 80.mp3
+303,1997,81,pt,Bluesmen,ambient,2,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 81.mp3,http://www.timet.org/vocalità/voc - 81.mp3
+304,1997,82,pt,Bluesmen,ambient,3,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 82.mp3,http://www.timet.org/vocalità/voc - 82.mp3
+305,1997,83,pt,Bluesmen,ambient,4,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 83.mp3,http://www.timet.org/vocalità/voc - 83.mp3
+306,1997,84,pt,Bluesmen,ambient,5,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 84.mp3,http://www.timet.org/vocalità/voc - 84.mp3
+307,1997,85,pt,Bluesmen,ambient,6,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 85.mp3,http://www.timet.org/vocalità/voc - 85.mp3
+308,1997,86,pt,Bluesmen,ambient,7,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 86.mp3,http://www.timet.org/vocalità/voc - 86.mp3
+309,1997,87,pt,Bluesmen,ambient,8,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 87.mp3,http://www.timet.org/vocalità/voc - 87.mp3
+310,1997,88,pt,Bluesmen,ambient,9,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 88.mp3,http://www.timet.org/vocalità/voc - 88.mp3
+311,1997,89,pt,Bluesmen,ambient,10,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 89.mp3,http://www.timet.org/vocalità/voc - 89.mp3
+312,1997,90,pt,Georgian,vocal,-,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 90.mp3,http://www.timet.org/vocalità/voc - 90.mp3
+313,1997,91,pt,Tunisia,ensemble,ambient 1,-,SC,la via negativa,LB,vocalità,database/Vocalità/voc - 91.mp3,http://www.timet.org/vocalità/voc - 91.mp3
+314,1998,92,pt,De Luca,vocal,6,-,SC,shadows,LB,vocalità,database/Vocalità/voc - 92.mp3,http://www.timet.org/vocalità/voc - 92.mp3
+315,1998,93,pt,De Luca,vocal,7,-,SC,shadows,LB,vocalità,database/Vocalità/voc - 93.mp3,http://www.timet.org/vocalità/voc - 93.mp3
+316,1998,94,pt,-,vocal,folks,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 94.mp3,http://www.timet.org/vocalità/voc - 94.mp3
+317,1998,95,pt,Magnani,vocal,ambient 1,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 95.mp3,http://www.timet.org/vocalità/voc - 95.mp3
+318,1998,96,pt,Magnani,vocal,ambient 2,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 96.mp3,http://www.timet.org/vocalità/voc - 96.mp3
+319,1998,97,pt,Bambini,vocal,-,-,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 97.mp3,http://www.timet.org/vocalità/voc - 97.mp3
+320,1998,98,pt,Demuru,vocal,5,-,SC,-,LB,vocalità,database/Vocalità/voc - 98.mp3,http://www.timet.org/vocalità/voc - 98.mp3
+321,1998,99,pt,-,vocal,folks,lullaby,SC,restituzioni,LB,vocalità,database/Vocalità/voc - 99.mp3,http://www.timet.org/vocalità/voc - 99.mp3
+322,1998,1,pt,-,ambient,,stellar,,,LB,cd luce,database/luce/luce - 01.mp3,http://www.timet.org/luce/luce - 01.mp3
+323,2000,2,pt,Miano,piano,prepared,-,SC,zarathustra,LB,cd luce,database/luce/luce - 02.mp3,http://www.timet.org/luce/luce - 02.mp3
+324,1999,3,pt,-,ambient,noise fan,-,SC,zarathustra,LB,cd luce,database/luce/luce - 03.mp3,http://www.timet.org/luce/luce - 03.mp3
+325,1999,4,k,Beethoven,ambient,distorted,-,SC,zarathustra,LB,cd luce,database/luce/luce - 04.mp3,http://www.timet.org/luce/luce - 04.mp3
+326,2001,6,k,Bach,orchestra,ambient 1,-,SC,zarathustra,LB,cd luce,database/luce/luce - 06.mp3,http://www.timet.org/luce/luce - 06.mp3
+327,2001,7,pt,Albinoni,orchestra,ambient 1,-,SC,zarathustra,LB,cd luce,database/luce/luce - 07.mp3,http://www.timet.org/luce/luce - 07.mp3
+328,2001,9,pt,Pergolesi,orchestra,ambient 1,pulsing,SC,zarathustra,LB,cd luce,database/luce/luce - 09.mp3,http://www.timet.org/luce/luce - 09.mp3
+329,2002,10,k,UFO,perc,1,-,SC,zarathustra,LB,cd luce,database/luce/luce - 10.mp3,http://www.timet.org/luce/luce - 10.mp3
+330,2001,11,k,Quarrel,noise,ambient 1,-,SC,zarathustra,LB,cd luce,database/luce/luce - 11.mp3,http://www.timet.org/luce/luce - 11.mp3
+331,2001,12,pt,-,perc,ambient 1,-,SC,zarathustra,LB,cd luce,database/luce/luce - 12.mp3,http://www.timet.org/luce/luce - 12.mp3
+332,2001,13,pt,-,perc,house,-,SC,zarathustra,LB,cd luce,database/luce/luce - 13.mp3,http://www.timet.org/luce/luce - 13.mp3
+333,2001,14,pt,-,perc,techno,-,SC,zarathustra,LB,cd luce,database/luce/luce - 14.mp3,http://www.timet.org/luce/luce - 14.mp3
+334,2001,15,k,-,perc,rolling,-,SC,LoLe,LB,cd luce,database/luce/luce - 15.mp3,http://www.timet.org/luce/luce - 15.mp3
+335,2001,16,k,-,perc,ambient 1,-,SC,-,LB,cd luce,database/luce/luce - 16.mp3,http://www.timet.org/luce/luce - 16.mp3
+336,2001,17,k,UFO,perc,2,-,SC,-,LB,cd luce,database/luce/luce - 17.mp3,http://www.timet.org/luce/luce - 17.mp3
+337,2003,1,k,Guerrini,sax,3,-,SC,-,LB,db 1,database/db 1/db 1 - 01.mp3,http://www.timet.org/db 1/db 1 - 01.mp3
+338,2003,2,k,Guerrini,sax,4,-,SC,-,LB,db 1,database/db 1/db 1 - 02.mp3,http://www.timet.org/db 1/db 1 - 02.mp3
+339,2003,3,k,Guerrini,sax,5,-,SC,-,LB,db 1,database/db 1/db 1 - 03.mp3,http://www.timet.org/db 1/db 1 - 03.mp3
+340,2003,4,k,Cosottini/Gabrielli,trumpet/clarinet,1,-,SC,SRS,LB,db 1,database/db 1/db 1 - 04.mp3,http://www.timet.org/db 1/db 1 - 04.mp3
+341,2003,5,k,Guerrini,sax,6,-,SC,-,LB,db 1,database/db 1/db 1 - 05.mp3,http://www.timet.org/db 1/db 1 - 05.mp3
+342,2003,6,k,Cosottini/Gabrielli,trumpet/clarinet,2,-,SC,SRS,LB,db 1,database/db 1/db 1 - 06.mp3,http://www.timet.org/db 1/db 1 - 06.mp3
+343,2003,7,k,Cosottini/Gabrielli,trumpet/clarinet,3,-,SC,SRS,LB,db 1,database/db 1/db 1 - 07.mp3,http://www.timet.org/db 1/db 1 - 07.mp3
+344,2003,8,k,Cosottini,trumpet,distorted 1,,SC,SRS,LB,db 1,database/db 1/db 1 - 08.mp3,http://www.timet.org/db 1/db 1 - 08.mp3
+345,2003,9,k,Cosottini,trumpet,distorted 2,,SC,SRS,LB,db 1,database/db 1/db 1 - 09.mp3,http://www.timet.org/db 1/db 1 - 09.mp3
+346,2003,10,k,Cosottini,trumpet,distorted 3,,SC,SRS,LB,db 1,database/db 1/db 1 - 10.mp3,http://www.timet.org/db 1/db 1 - 10.mp3
+347,2003,11,k,Cosottini,trumpet,distorted 4,,SC,SRS,LB,db 1,database/db 1/db 1 - 11.mp3,http://www.timet.org/db 1/db 1 - 11.mp3
+348,2003,12,k,Cosottini,trumpet,distorted 5,,SC,SRS,LB,db 1,database/db 1/db 1 - 12.mp3,http://www.timet.org/db 1/db 1 - 12.mp3
+349,2003,13,k,Cosottini,trumpet,distorted 6,,SC,SRS,LB,db 1,database/db 1/db 1 - 13.mp3,http://www.timet.org/db 1/db 1 - 13.mp3
+350,2003,14,k,Cosottini,trumpet,distorted 7,,SC,SRS,LB,db 1,database/db 1/db 1 - 14.mp3,http://www.timet.org/db 1/db 1 - 14.mp3
+351,2003,15,k,Cosottini,trumpet,distorted 8,,SC,SRS,LB,db 1,database/db 1/db 1 - 15.mp3,http://www.timet.org/db 1/db 1 - 15.mp3
+352,2003,16,k,Cosottini,trumpet,distorted 9,,SC,SRS,LB,db 1,database/db 1/db 1 - 16.mp3,http://www.timet.org/db 1/db 1 - 16.mp3
+353,2003,17,k,Di Rosa,perc,1,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 17.mp3,http://www.timet.org/db 1/db 1 - 17.mp3
+354,2003,18,k,Di Rosa,guitar,1,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 18.mp3,http://www.timet.org/db 1/db 1 - 18.mp3
+355,2003,19,k,Di Rosa,perc,2,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 19.mp3,http://www.timet.org/db 1/db 1 - 19.mp3
+356,2003,20,k,Di Rosa,perc,3,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 20.mp3,http://www.timet.org/db 1/db 1 - 20.mp3
+357,2003,21,k,Di Rosa,guitar,2,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 21.mp3,http://www.timet.org/db 1/db 1 - 21.mp3
+358,2003,22,k,Di Rosa,perc,3,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 22.mp3,http://www.timet.org/db 1/db 1 - 22.mp3
+359,2003,23,k,Di Rosa,perc,4,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 23.mp3,http://www.timet.org/db 1/db 1 - 23.mp3
+360,2003,24,k,Di Rosa,perc,5,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 24.mp3,http://www.timet.org/db 1/db 1 - 24.mp3
+361,2003,25,k,Di Rosa,guitar,3,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 25.mp3,http://www.timet.org/db 1/db 1 - 25.mp3
+362,2003,26,k,Di Rosa,guitar,4,-,SC,16 Canzoni,LB,db 1,database/db 1/db 1 - 26.mp3,http://www.timet.org/db 1/db 1 - 26.mp3
+363,2003,27,k,Cosottini,synth,1,-,SC,SRS,LB,db 1,database/db 1/db 1 - 27.mp3,http://www.timet.org/db 1/db 1 - 27.mp3
+364,2003,28,k,Cosottini,synth,2,-,SC,SRS,LB,db 1,database/db 1/db 1 - 28.mp3,http://www.timet.org/db 1/db 1 - 28.mp3
+365,2003,29,k,Cosottini,synth,3,-,SC,SRS,LB,db 1,database/db 1/db 1 - 29.mp3,http://www.timet.org/db 1/db 1 - 29.mp3
+366,2003,30,k,Cosottini,synth,4,-,SC,SRS,LB,db 1,database/db 1/db 1 - 30.mp3,http://www.timet.org/db 1/db 1 - 30.mp3
+367,2003,31,k,Cosottini,synth,5,-,SC,SRS,LB,db 1,database/db 1/db 1 - 31.mp3,http://www.timet.org/db 1/db 1 - 31.mp3
+368,2003,32,k,Cosottini,synth,6,-,SC,SRS,LB,db 1,database/db 1/db 1 - 32.mp3,http://www.timet.org/db 1/db 1 - 32.mp3
+369,2003,33,k,Cosottini,synth,7,-,SC,SRS,LB,db 1,database/db 1/db 1 - 33.mp3,http://www.timet.org/db 1/db 1 - 33.mp3
+370,2003,1,k,Cosottini,synth,8,-,SC,SRS,LB,db 2,database/db 2/db 2 - 01.mp3,http://www.timet.org/db 2/db 2 - 01.mp3
+371,2003,2,k,Cosottini,synth,9,-,SC,SRS,LB,db 2,database/db 2/db 2 - 02.mp3,http://www.timet.org/db 2/db 2 - 02.mp3
+372,2003,3,k,Cosottini,synth,10,-,SC,SRS,LB,db 2,database/db 2/db 2 - 03.mp3,http://www.timet.org/db 2/db 2 - 03.mp3
+373,2003,4,k,Cosottini,synth,11,-,SC,SRS,LB,db 2,database/db 2/db 2 - 04.mp3,http://www.timet.org/db 2/db 2 - 04.mp3
+374,2003,5,k,Cosottini,synth,12,-,SC,SRS,LB,db 2,database/db 2/db 2 - 05.mp3,http://www.timet.org/db 2/db 2 - 05.mp3
+375,2003,6,k,Cosottini,synth,13,-,SC,SRS,LB,db 2,database/db 2/db 2 - 06.mp3,http://www.timet.org/db 2/db 2 - 06.mp3
+376,2003,7,k,Cosottini,synth,14,-,SC,SRS,LB,db 2,database/db 2/db 2 - 07.mp3,http://www.timet.org/db 2/db 2 - 07.mp3
+377,2003,8,k,-,synth,15,-,SC,SRS,LB,db 2,database/db 2/db 2 - 08.mp3,http://www.timet.org/db 2/db 2 - 08.mp3
+378,2003,9,k,-,perc,one shot 1,-,SC,SRS,LB,db 2,database/db 2/db 2 - 09.mp3,http://www.timet.org/db 2/db 2 - 09.mp3
+379,2003,10,k,-,perc,one shot 2,-,SC,SRS,LB,db 2,database/db 2/db 2 - 10.mp3,http://www.timet.org/db 2/db 2 - 10.mp3
+380,2003,11,k,-,perc,one shot 3,-,SC,SRS,LB,db 2,database/db 2/db 2 - 11.mp3,http://www.timet.org/db 2/db 2 - 11.mp3
+381,2003,12,k,-,perc,one shot 4,-,SC,SRS,LB,db 2,database/db 2/db 2 - 12.mp3,http://www.timet.org/db 2/db 2 - 12.mp3
+382,2003,13,k,-,perc,one shot 5,-,SC,SRS,LB,db 2,database/db 2/db 2 - 13.mp3,http://www.timet.org/db 2/db 2 - 13.mp3
+383,2003,14,k,-,perc,one shot 6,-,SC,SRS,LB,db 2,database/db 2/db 2 - 14.mp3,http://www.timet.org/db 2/db 2 - 14.mp3
+384,2003,15,k,-,perc,one shot 7,-,SC,SRS,LB,db 2,database/db 2/db 2 - 15.mp3,http://www.timet.org/db 2/db 2 - 15.mp3
+385,2003,16,k,-,perc,one shot 8,-,SC,SRS,LB,db 2,database/db 2/db 2 - 16.mp3,http://www.timet.org/db 2/db 2 - 16.mp3
+386,2003,17,k,-,perc,one shot 9,-,SC,SRS,LB,db 2,database/db 2/db 2 - 17.mp3,http://www.timet.org/db 2/db 2 - 17.mp3
+387,2003,18,k,-,perc,one shot 10,-,SC,SRS,LB,db 2,database/db 2/db 2 - 18.mp3,http://www.timet.org/db 2/db 2 - 18.mp3
+388,2003,19,k,-,perc,one shot 11,-,SC,SRS,LB,db 2,database/db 2/db 2 - 19.mp3,http://www.timet.org/db 2/db 2 - 19.mp3
+389,2003,20,k,-,perc,one shot 12,-,SC,SRS,LB,db 2,database/db 2/db 2 - 20.mp3,http://www.timet.org/db 2/db 2 - 20.mp3
+390,2003,21,k,-,perc,one shot 13,-,SC,SRS,LB,db 2,database/db 2/db 2 - 21.mp3,http://www.timet.org/db 2/db 2 - 21.mp3
+391,2003,22,k,-,perc,one shot 14,-,SC,SRS,LB,db 2,database/db 2/db 2 - 22.mp3,http://www.timet.org/db 2/db 2 - 22.mp3
+392,2003,23,k,-,perc,one shot 15,-,SC,SRS,LB,db 2,database/db 2/db 2 - 23.mp3,http://www.timet.org/db 2/db 2 - 23.mp3
+393,2003,24,k,-,perc,one shot 16,-,SC,SRS,LB,db 2,database/db 2/db 2 - 24.mp3,http://www.timet.org/db 2/db 2 - 24.mp3
+394,2003,25,k,-,perc,one shot 17,-,SC,SRS,LB,db 2,database/db 2/db 2 - 25.mp3,http://www.timet.org/db 2/db 2 - 25.mp3
+395,2003,26,k,-,perc,one shot 18,-,SC,SRS,LB,db 2,database/db 2/db 2 - 26.mp3,http://www.timet.org/db 2/db 2 - 26.mp3
+396,2003,27,k,-,perc,one shot 19,-,SC,SRS,LB,db 2,database/db 2/db 2 - 27.mp3,http://www.timet.org/db 2/db 2 - 27.mp3
+397,2003,28,k,-,perc,one shot 20,-,SC,SRS,LB,db 2,database/db 2/db 2 - 28.mp3,http://www.timet.org/db 2/db 2 - 28.mp3
+398,2003,29,k,-,perc,one shot 21,-,SC,SRS,LB,db 2,database/db 2/db 2 - 29.mp3,http://www.timet.org/db 2/db 2 - 29.mp3
+399,2003,30,k,-,perc,one shot 22,-,SC,SRS,LB,db 2,database/db 2/db 2 - 30.mp3,http://www.timet.org/db 2/db 2 - 30.mp3
+400,2003,31,k,-,perc,one shot 23,-,SC,SRS,LB,db 2,database/db 2/db 2 - 31.mp3,http://www.timet.org/db 2/db 2 - 31.mp3
+401,2003,32,k,-,perc,one shot 24,-,SC,SRS,LB,db 2,database/db 2/db 2 - 32.mp3,http://www.timet.org/db 2/db 2 - 32.mp3
+402,2003,33,k,-,perc,animal 1,-,SC,SRS,LB,db 2,database/db 2/db 2 - 33.mp3,http://www.timet.org/db 2/db 2 - 33.mp3
+403,2003,34,k,-,perc,one shot 25,-,SC,SRS,LB,db 2,database/db 2/db 2 - 34.mp3,http://www.timet.org/db 2/db 2 - 34.mp3
+404,2003,35,k,-,perc,one shot 26,-,SC,SRS,LB,db 2,database/db 2/db 2 - 35.mp3,http://www.timet.org/db 2/db 2 - 35.mp3
+405,2003,36,k,-,perc,one shot 27,-,SC,SRS,LB,db 2,database/db 2/db 2 - 36.mp3,http://www.timet.org/db 2/db 2 - 36.mp3
+406,2003,37,k,-,perc,one shot 28,-,SC,SRS,LB,db 2,database/db 2/db 2 - 37.mp3,http://www.timet.org/db 2/db 2 - 37.mp3
+407,2003,38,k,-,perc,one shot 29,-,SC,SRS,LB,db 2,database/db 2/db 2 - 38.mp3,http://www.timet.org/db 2/db 2 - 38.mp3
+408,2003,39,k,-,perc,one shot 30,-,SC,SRS,LB,db 2,database/db 2/db 2 - 39.mp3,http://www.timet.org/db 2/db 2 - 39.mp3
+409,2003,40,k,-,perc,one shot 31,-,SC,SRS,LB,db 2,database/db 2/db 2 - 40.mp3,http://www.timet.org/db 2/db 2 - 40.mp3
+410,2003,41,k,-,perc,one shot 32,-,SC,SRS,LB,db 2,database/db 2/db 2 - 41.mp3,http://www.timet.org/db 2/db 2 - 41.mp3
+411,2003,42,k,-,perc,animal 2,-,SC,SRS,LB,db 2,database/db 2/db 2 - 42.mp3,http://www.timet.org/db 2/db 2 - 42.mp3
+412,2003,1,k,Bach,ambient,6,-,SC,zarathustra,LB,db 3,database/db 3/db 3 - 01.mp3,http://www.timet.org/db 3/db 3 - 01.mp3
+413,2003,2,pt,Bartok,ambient,1,-,SC,-,LB,db 3,database/db 3/db 3 - 02.mp3,http://www.timet.org/db 3/db 3 - 02.mp3
+414,2003,3,pt,Bartok,ambient,2,-,SC,-,LB,db 3,database/db 3/db 3 - 03.mp3,http://www.timet.org/db 3/db 3 - 03.mp3
+415,2003,4,pt,Bartok,ambient,3,-,SC,-,LB,db 3,database/db 3/db 3 - 04.mp3,http://www.timet.org/db 3/db 3 - 04.mp3
+416,2003,5,pt,Bartok,ambient,4,-,SC,-,LB,db 3,database/db 2/db 2 - 05.mp3,http://www.timet.org/db 2/db 2 - 05.mp3
+417,2003,6,pt,Albinoni,ambient,2,-,SC,-,LB,db 3,database/db 3/db 3 - 06.mp3,http://www.timet.org/db 3/db 3 - 06.mp3
+418,2002,9,k,-,perc,stretched 1,-,SC,zarathustra,LB,db 3,database/db 3/db 3 - 09.mp3,http://www.timet.org/db 3/db 3 - 09.mp3
+419,2002,10,k,-,perc,stretched 2,-,SC,zarathustra,LB,db 3,database/db 3/db 3 - 10.mp3,http://www.timet.org/db 3/db 3 - 10.mp3
+420,2002,12,k,Children,ambient,1,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 12.mp3,http://www.timet.org/db 3/db 3 - 12.mp3
+421,2002,13,k,Children,ambient,2,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 13.mp3,http://www.timet.org/db 3/db 3 - 13.mp3
+422,2002,14,k,Beethoven,ambient,1,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 14.mp3,http://www.timet.org/db 3/db 3 - 14.mp3
+423,2002,15,k,Beethoven,ambient,2,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 15.mp3,http://www.timet.org/db 3/db 3 - 15.mp3
+424,2002,16,k,Beethoven,ambient,3,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 16.mp3,http://www.timet.org/db 3/db 3 - 16.mp3
+425,2002,17,k,Beethoven,ambient,4,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 17.mp3,http://www.timet.org/db 3/db 3 - 17.mp3
+426,2002,18,k,Hartman,ambient,1,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 18.mp3,http://www.timet.org/db 3/db 3 - 18.mp3
+427,2002,19,k,-,orchestra,ambient 1,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 19.mp3,http://www.timet.org/db 3/db 3 - 19.mp3
+428,2002,20,k,-,orchestra,ambient 2,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 20.mp3,http://www.timet.org/db 3/db 3 - 20.mp3
+429,2002,21,k,-,orchestra,ambient 3,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 21.mp3,http://www.timet.org/db 3/db 3 - 21.mp3
+430,2002,22,k,-,perc,ambient 1,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 22.mp3,http://www.timet.org/db 3/db 3 - 22.mp3
+431,2002,23,k,-,perc,ambient 2,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 23.mp3,http://www.timet.org/db 3/db 3 - 23.mp3
+432,2002,24,k,-,vocal,ambient 1,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 24.mp3,http://www.timet.org/db 3/db 3 - 24.mp3
+433,2002,25,k,-,vocal,ambient 2,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 25.mp3,http://www.timet.org/db 3/db 3 - 25.mp3
+434,2002,26,k,-,orchestra,ambient 4,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 26.mp3,http://www.timet.org/db 3/db 3 - 26.mp3
+435,2002,27,k,-,orchestra,ambient 5,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 27.mp3,http://www.timet.org/db 3/db 3 - 27.mp3
+436,2002,28,k,-,orchestra,ambient 6,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 28.mp3,http://www.timet.org/db 3/db 3 - 28.mp3
+437,2002,29,k,-,ensemble,folk dance 1,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 29.mp3,http://www.timet.org/db 3/db 3 - 29.mp3
+438,2002,30,k,-,ensemble,folk dance 2,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 30.mp3,http://www.timet.org/db 3/db 3 - 30.mp3
+439,2002,31,k,-,ensemble,folk dance 3,-,SC,klangturm,LB,db 3,database/db 3/db 3 - 31.mp3,http://www.timet.org/db 3/db 3 - 31.mp3
+440,2002,32,k,Wagner,orchestra,ambient 1,-,SC,zarathustra,LB,db 3,database/db 3/db 3 - 32.mp3,http://www.timet.org/db 3/db 3 - 32.mp3
+441,2002,33,k,Wagner,orchestra,ambient 2,-,SC,zarathustra,LB,db 3,database/db 3/db 3 - 33.mp3,http://www.timet.org/db 3/db 3 - 33.mp3
+442,2001,34,pt,Albinoni,orchestra,2,-,SC,zarathustra,LB,db 3,database/db 3/db 3 - 34.mp3,http://www.timet.org/db 3/db 3 - 34.mp3
+443,1999,1,pt,-,ambiance,bells,-,-,carne capitata,BM,elettronica 2,database/elettronica 2/elettr 2 - 01.mp3,http://www.timet.org/elettronica 2/elettr 2 - 01.mp3
+444,1997,2,pt,-,bass,pulsing,-,-,colazione con …,BM,elettronica 2,database/elettronica 2/elettr 2 - 02.mp3,http://www.timet.org/elettronica 2/elettr 2 - 02.mp3
+445,1997,3,pt,-,ambiance,woods,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 03.mp3,http://www.timet.org/elettronica 2/elettr 2 - 03.mp3
+446,1998,4,pt,-,perc,tribal,Freeze,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 04.mp3,http://www.timet.org/elettronica 2/elettr 2 - 04.mp3
+447,1999,5,pt,-,perc,tribal,shuffled,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 05.mp3,http://www.timet.org/elettronica 2/elettr 2 - 05.mp3
+448,1997,6,pt,G Clinton,ensemble,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 06.mp3,http://www.timet.org/elettronica 2/elettr 2 - 06.mp3
+449,1997,7,pt,G Clinton,ensemble,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 07.mp3,http://www.timet.org/elettronica 2/elettr 2 - 07.mp3
+450,1997,8,pt,G Clinton,ensemble,3,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 08.mp3,http://www.timet.org/elettronica 2/elettr 2 - 08.mp3
+451,1997,9,pt,G Clinton,ensemble,4,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 09.mp3,http://www.timet.org/elettronica 2/elettr 2 - 09.mp3
+452,1997,10,pt,G Clinton,ensemble,5,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 10.mp3,http://www.timet.org/elettronica 2/elettr 2 - 10.mp3
+453,1997,11,pt,G Clinton,ensemble,6,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 11.mp3,http://www.timet.org/elettronica 2/elettr 2 - 11.mp3
+454,1997,12,pt,G Clinton,ensemble,7,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 12.mp3,http://www.timet.org/elettronica 2/elettr 2 - 12.mp3
+455,1997,13,pt,G Clinton,ensemble,8,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 13.mp3,http://www.timet.org/elettronica 2/elettr 2 - 13.mp3
+456,1997,14,pt,Coltrane,ensemble,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 14.mp3,http://www.timet.org/elettronica 2/elettr 2 - 14.mp3
+457,1997,15,pt,Coltrane,ensemble,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 15.mp3,http://www.timet.org/elettronica 2/elettr 2 - 15.mp3
+458,1997,16,pt,Death,ambient,ensemble 1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 16.mp3,http://www.timet.org/elettronica 2/elettr 2 - 16.mp3
+459,1997,17,pt,Death,ambient,ensemble 2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 17.mp3,http://www.timet.org/elettronica 2/elettr 2 - 17.mp3
+460,1997,18,pt,Death,ambient,ensemble 3,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 18.mp3,http://www.timet.org/elettronica 2/elettr 2 - 18.mp3
+461,1997,19,pt,-,perc,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 19.mp3,http://www.timet.org/elettronica 2/elettr 2 - 19.mp3
+462,1997,20,pt,-,perc,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 20.mp3,http://www.timet.org/elettronica 2/elettr 2 - 20.mp3
+463,1997,21,pt,-,perc,3,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 21.mp3,http://www.timet.org/elettronica 2/elettr 2 - 21.mp3
+464,1997,22,pt,Eno,ensemble,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 22.mp3,http://www.timet.org/elettronica 2/elettr 2 - 22.mp3
+465,1997,23,pt,Eno,ensemble,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 23.mp3,http://www.timet.org/elettronica 2/elettr 2 - 23.mp3
+466,1997,24,pt,Eno,ensemble,3,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 24.mp3,http://www.timet.org/elettronica 2/elettr 2 - 24.mp3
+467,1997,25,pt,Eno,ensemble,4,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 25.mp3,http://www.timet.org/elettronica 2/elettr 2 - 25.mp3
+468,1997,26,pt,Eno,ensemble,5,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 26.mp3,http://www.timet.org/elettronica 2/elettr 2 - 26.mp3
+469,1997,27,pt,Eno,ensemble,6,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 27.mp3,http://www.timet.org/elettronica 2/elettr 2 - 27.mp3
+470,1997,28,pt,Ground,ensemble,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 28.mp3,http://www.timet.org/elettronica 2/elettr 2 - 28.mp3
+471,1997,29,pt,Kletk,ensemble,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 29.mp3,http://www.timet.org/elettronica 2/elettr 2 - 29.mp3
+472,1997,30,pt,Mozart-Sharr,ensemble,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 30.mp3,http://www.timet.org/elettronica 2/elettr 2 - 30.mp3
+473,1997,31,pt,-,perc,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 31.mp3,http://www.timet.org/elettronica 2/elettr 2 - 31.mp3
+474,1997,32,pt,Praxis,-,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 32.mp3,http://www.timet.org/elettronica 2/elettr 2 - 32.mp3
+475,1996,33,pt,Stock,ensemble,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 33.mp3,http://www.timet.org/elettronica 2/elettr 2 - 33.mp3
+476,1996,34,pt,Stock,ensemble,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 34.mp3,http://www.timet.org/elettronica 2/elettr 2 - 34.mp3
+477,1996,35,pt,Stock,ensemble,3,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 35.mp3,http://www.timet.org/elettronica 2/elettr 2 - 35.mp3
+478,1996,36,pt,Stock,ensemble,4,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 36.mp3,http://www.timet.org/elettronica 2/elettr 2 - 36.mp3
+479,1997,37,pt,Subot,ensemble,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 37.mp3,http://www.timet.org/elettronica 2/elettr 2 - 37.mp3
+480,1997,38,pt,-,perc,swing,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 38.mp3,http://www.timet.org/elettronica 2/elettr 2 - 38.mp3
+481,1997,39,pt,Trick,-,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 39.mp3,http://www.timet.org/elettronica 2/elettr 2 - 39.mp3
+482,1997,40,pt,Trick,-,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 40.mp3,http://www.timet.org/elettronica 2/elettr 2 - 40.mp3
+483,1997,41,pt,Zap,-,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 41.mp3,http://www.timet.org/elettronica 2/elettr 2 - 41.mp3
+484,1997,42,pt,Zap,-,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 42.mp3,http://www.timet.org/elettronica 2/elettr 2 - 42.mp3
+485,1997,43,pt,Zap,-,3,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 43.mp3,http://www.timet.org/elettronica 2/elettr 2 - 43.mp3
+486,1997,44,pt,Zap,-,4,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 44.mp3,http://www.timet.org/elettronica 2/elettr 2 - 44.mp3
+487,1997,45,pt,Zap,-,5,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 45.mp3,http://www.timet.org/elettronica 2/elettr 2 - 45.mp3
+488,1997,46,pt,Zap,-,6,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 46.mp3,http://www.timet.org/elettronica 2/elettr 2 - 46.mp3
+489,1997,47,pt,Zap,-,7,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 47.mp3,http://www.timet.org/elettronica 2/elettr 2 - 47.mp3
+490,1997,48,pt,Zap,-,8,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 48.mp3,http://www.timet.org/elettronica 2/elettr 2 - 48.mp3
+491,1997,49,pt,Zap,-,9,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 49.mp3,http://www.timet.org/elettronica 2/elettr 2 - 49.mp3
+492,1997,50,pt,Zap,-,10,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 50.mp3,http://www.timet.org/elettronica 2/elettr 2 - 50.mp3
+493,1997,51,pt,Zap,-,11,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 51.mp3,http://www.timet.org/elettronica 2/elettr 2 - 51.mp3
+494,1997,52,pt,Zor,-,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 52.mp3,http://www.timet.org/elettronica 2/elettr 2 - 52.mp3
+495,1997,53,pt,Zor,-,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 53.mp3,http://www.timet.org/elettronica 2/elettr 2 - 53.mp3
+496,1999,57,pt,No no,-,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 54.mp3,http://www.timet.org/elettronica 2/elettr 2 - 54.mp3
+497,1997,58,pt,Spok,perc,1,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 55.mp3,http://www.timet.org/elettronica 2/elettr 2 - 55.mp3
+498,1997,59,pt,Spok,perc,2,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 56.mp3,http://www.timet.org/elettronica 2/elettr 2 - 56.mp3
+499,1997,61,pt,Stock,ensemble,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 57.mp3,http://www.timet.org/elettronica 2/elettr 2 - 57.mp3
+500,1997,62,pt,Ming,bass,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 58.mp3,http://www.timet.org/elettronica 2/elettr 2 - 58.mp3
+501,1997,62,pt,-,synth,1,-,-,-,BM,elettronica 2,database/elettronica 2/elettr 2 - 59.mp3,http://www.timet.org/elettronica 2/elettr 2 - 59.mp3
+502,1997,63,pt,-,synth,2,-,-,-,BM,elettronica 2,database/elettronica 2/elettr 2 - 60.mp3,http://www.timet.org/elettronica 2/elettr 2 - 60.mp3
+503,1997,64,pt,-,synth,3,-,-,-,BM,elettronica 2,database/elettronica 2/elettr 2 - 61.mp3,http://www.timet.org/elettronica 2/elettr 2 - 61.mp3
+504,1997,65,pt,-,synth,4,-,-,-,BM,elettronica 2,database/elettronica 2/elettr 2 - 62.mp3,http://www.timet.org/elettronica 2/elettr 2 - 62.mp3
+505,1997,66,pt,-,synth,5,-,-,-,BM,elettronica 2,database/elettronica 2/elettr 2 - 63.mp3,http://www.timet.org/elettronica 2/elettr 2 - 63.mp3
+506,1997,67,pt,-,synth,6,-,-,-,BM,elettronica 2,database/elettronica 2/elettr 2 - 64.mp3,http://www.timet.org/elettronica 2/elettr 2 - 64.mp3
+507,1996,68,pt,-,bass,-,-,-,-,LB,elettronica 2,database/elettronica 2/elettr 2 - 65.mp3,http://www.timet.org/elettronica 2/elettr 2 - 65.mp3
+508,1998,1,pt,Bach,piano,-,-,MC,-,LB,classic 2,database/Classical2/classical 2 - 01.mp3,http://www.timet.org/classical2/classical 2 - 01.mp3
+509,1998,2,pt,Schnitt,high cycle,-,-,MC,-,LB,classic 2,database/Classical2/classical 2 - 02.mp3,http://www.timet.org/classical2/classical 2 - 02.mp3
+510,1997,3,pt,Schoenberg,strings,1,-,MC,-,LB,classic 2,database/Classical2/classical 2 - 03.mp3,http://www.timet.org/classical2/classical 2 - 03.mp3
+511,1997,4,pt,Schoenberg,strings,2,-,MC,-,LB,classic 2,database/Classical2/classical 2 - 04.mp3,http://www.timet.org/classical2/classical 2 - 04.mp3
+512,1997,5,pt,Pender,cycle strings,-,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 05.mp3,http://www.timet.org/classical2/classical 2 - 05.mp3
+513,2001,6,k,Bach,piano,fuga high,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 06.mp3,http://www.timet.org/classical2/classical 2 - 06.mp3
+514,2001,7,k,Bach,piano,-,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 07.mp3,http://www.timet.org/classical2/classical 2 - 07.mp3
+515,1997,8,pt,,Polifonia astratta,-,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 08.mp3,http://www.timet.org/classical2/classical 2 - 08.mp3
+516,2002,9,k,Bach,piano,dist 5,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 09.mp3,http://www.timet.org/classical2/classical 2 - 09.mp3
+517,2002,10,k,Bach,piano,6,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 10.mp3,http://www.timet.org/classical2/classical 2 - 10.mp3
+518,2002,11,k,Beeth,strings,1,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 11.mp3,http://www.timet.org/classical2/classical 2 - 11.mp3
+519,1997,12,k,Beeth,strings,2,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 12.mp3,http://www.timet.org/classical2/classical 2 - 12.mp3
+520,2002,13,k,Cosottini,trumpet,1,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 13.mp3,http://www.timet.org/classical2/classical 2 - 13.mp3
+521,2002,14,k,Cosottini,trumpet,2,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 14.mp3,http://www.timet.org/classical2/classical 2 - 14.mp3
+522,2002,15,k,Cosottini,trumpet,3,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 15.mp3,http://www.timet.org/classical2/classical 2 - 15.mp3
+523,2002,16,k,Cosottini,trumpet,4,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 16.mp3,http://www.timet.org/classical2/classical 2 - 16.mp3
+524,2002,17,k,Nono,strings,freeze,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 17.mp3,http://www.timet.org/classical2/classical 2 - 17.mp3
+525,2002,18,k,,synth,metal,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 18.mp3,http://www.timet.org/classical2/classical 2 - 18.mp3
+526,2002,19,k,,perc,micro,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 19.mp3,http://www.timet.org/classical2/classical 2 - 19.mp3
+527,2002,20,k,,synth,oscillating 1,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 20.mp3,http://www.timet.org/classical2/classical 2 - 20.mp3
+528,2002,21,k,,synth,oscillating 2,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 21.mp3,http://www.timet.org/classical2/classical 2 - 21.mp3
+529,2002,22,k,,synth,bass,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 22.mp3,http://www.timet.org/classical2/classical 2 - 22.mp3
+530,2002,23,k,,synth,drone,-,SC,-,LB,classic 2,database/Classical2/classical 2 - 23.mp3,http://www.timet.org/classical2/classical 2 - 23.mp3
+531,2003,1,k,Beri,strings,-,-,MC,-,LB,Kyma last,downloads/database/mp3/Track01.mp3,http://www.timet.org/downloads/database/mp3/Track01.mp3
+532,2003,2,k,Casta,perc,ambient,-,MC,-,LB,Kyma last,downloads/database/mp3/Track02.mp3,http://www.timet.org/downloads/database/mp3/Track02.mp3
+533,2003,3,k,De Ross,orchestra,ambient 1,-,MC,-,LB,Kyma last,downloads/database/mp3/Track03.mp3,http://www.timet.org/downloads/database/mp3/Track03.mp3
+534,2003,4,k,De Ross,orchestra,ambient 2,-,MC,-,LB,Kyma last,downloads/database/mp3/Track04.mp3,http://www.timet.org/downloads/database/mp3/Track04.mp3
+535,2003,5,k,GLobo,orchestra,ambient 1,-,MC,-,LB,Kyma last,downloads/database/mp3/Track05.mp3,http://www.timet.org/downloads/database/mp3/Track05.mp3
+536,2003,6,k,Lenne,orchestra,ambient 2,-,MC,-,LB,Kyma last,downloads/database/mp3/Track06.mp3,http://www.timet.org/downloads/database/mp3/Track06.mp3
+537,2003,7,k,Lenne,orchestra,ambient 3,-,MC,-,LB,Kyma last,downloads/database/mp3/Track07.mp3,http://www.timet.org/downloads/database/mp3/Track07.mp3
+538,2003,8,k,Pennis,orchestra,-,-,MC,-,LB,Kyma last,downloads/database/mp3/Track08.mp3,http://www.timet.org/downloads/database/mp3/Track08.mp3
+539,2003,9,k,Petr,violins,-,-,MC,-,LB,Kyma last,downloads/database/mp3/Track09.mp3,http://www.timet.org/downloads/database/mp3/Track09.mp3
+540,2003,10,k,Scogn,orchestra,perc 1,-,MC,-,LB,Kyma last,downloads/database/mp3/Track10.mp3,http://www.timet.org/downloads/database/mp3/Track10.mp3
+541,2003,11,k,Scogn,orchestra,perc 2,-,MC,-,LB,Kyma last,downloads/database/mp3/Track11.mp3,http://www.timet.org/downloads/database/mp3/Track11.mp3
+542,2003,12,k,Scogn,orchestra,perc 3,-,MC,-,LB,Kyma last,downloads/database/mp3/Track12.mp3,http://www.timet.org/downloads/database/mp3/Track12.mp3
+543,2003,13,k,Cole,-,-,-,MC,-,LB,Kyma last,downloads/database/mp3/Track13.mp3,http://www.timet.org/downloads/database/mp3/Track13.mp3
