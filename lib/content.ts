@@ -207,6 +207,7 @@ export const navigation = [
   { href: "/releases", label: "Releases" },
   { href: "/projects", label: "Projects" },
   { href: "/about", label: "About" },
+  { href: "/people", label: "People" },
   { href: "/archive", label: "Archive" },
   { href: "/open-database", label: "Open database" },
   { href: "/contact", label: "Contact" },

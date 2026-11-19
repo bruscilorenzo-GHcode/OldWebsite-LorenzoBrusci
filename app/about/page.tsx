@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import { PersonName } from "@/components/PersonName";
-import { about, bioPeople, displayName, personUrl, releases } from "@/lib/content";
+import Link from "next/link";
+import { about, releases } from "@/lib/content";
+import { collaborators, members } from "@/lib/people";
 
 export const metadata: Metadata = {
   title: "About",
@@ -73,28 +74,25 @@ export default function AboutPage() {
 
       <section className="border-b border-line bg-surface">
         <div className="shell grid12 gap-y-8 py-10 md:py-14">
-          <div className="col-span-12 md:col-span-6">
-            <p className="eyebrow">Members · Musicians · {about.membersListVerbatim.length}</p>
-            <p className="mt-4 text-sm leading-relaxed text-ink-2">
-              {about.membersListVerbatim.map((name, index) => (
-                <span key={name}>
-                  {index > 0 && ", "}
-                  <PersonName name={name} />
-                </span>
-              ))}
-            </p>
-          </div>
-          <div className="col-span-12 md:col-span-6">
-            <p className="eyebrow">Collaboration · Artists · {about.collaborationListVerbatim.length}</p>
-            <p className="mt-4 text-sm leading-relaxed text-ink-2">
-              {about.collaborationListVerbatim.map((name, index) => (
-                <span key={name}>
-                  {index > 0 && ", "}
-                  <PersonName name={name} />
-                </span>
-              ))}
-            </p>
-          </div>
+          {[
+            { title: "Members", list: members },
+            { title: "Collaborators", list: collaborators },
+          ].map((g) => (
+            <div key={g.title} className="col-span-12 md:col-span-6">
+              <p className="eyebrow">{g.title} · {g.list.length}</p>
+              <p className="mt-4 text-sm leading-relaxed text-ink-2">
+                {g.list.map((person, index) => (
+                  <span key={person.slug}>
+                    {index > 0 && ", "}
+                    <Link href={`/people/${person.slug}`} className="underline decoration-line-strong underline-offset-2 hover:text-accent">{person.name}</Link>
+                  </span>
+                ))}
+              </p>
+            </div>
+          ))}
+          <p className="col-span-12 text-sm">
+            <Link href="/people" className="link-arrow">All members and collaborators, with short biographies</Link>
+          </p>
         </div>
       </section>
 
@@ -116,50 +114,6 @@ export default function AboutPage() {
                 <p className="col-span-9 text-sm text-ink-2 md:col-span-10">{milestone.label}</p>
               </div>
             ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="border-b border-line bg-surface">
-        <div className="shell grid12 gap-y-8 py-10 md:py-14">
-          <div className="col-span-12 md:col-span-3">
-            <p className="eyebrow">Biographies · {bioPeople.length}</p>
-            <h2 className="display-sm mt-4">People</h2>
-          </div>
-          <div className="col-span-12 md:col-span-9">
-            <div className="grid gap-px border border-line bg-line md:grid-cols-2">
-              {bioPeople.map((bio) => {
-                const website = personUrl(bio.name);
-                return (
-                  <article key={bio.slug} className="bg-bg p-5">
-                    <p className="mono uppercase tracking-[0.14em] text-highlight">
-                      {bio.category === "member" ? "Musician · member" : "Artist · collaborator"}
-                    </p>
-                    <h3 className="mt-2 font-grotesk text-lg font-bold tracking-[-0.03em]">
-                      {displayName(bio.name)}
-                    </h3>
-                    <p className="mt-2 line-clamp-5 text-sm leading-relaxed text-ink-2">
-                      {bio.bioText}
-                    </p>
-                    <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2">
-                      <p className="mono text-muted">{bio.sourcePage}</p>
-                      {website && (
-                        <a href={website} target="_blank" rel="noopener" className="link-arrow">
-                          Website ↗
-                        </a>
-                      )}
-                    </div>
-                  </article>
-                );
-              })}
-            </div>
-            <p className="mt-6 max-w-[70ch] text-sm text-ink-2">
-              The original member list also names Marco Veneri, Massimo Bressan,
-              Andrea De Luca, Alessandro Fiori, Enrico Gabrielli, Enzo Cimino,
-              Monica Demuru, Preot Buxton, Stefano Bollani, Daniele Pianigiani,
-              Phonat, Maurizio Meossi, Filippo Innocenti and Paolo Fiumi. No
-              biography was published for them on the site.
-            </p>
           </div>
         </div>
       </section>
