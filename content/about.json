@@ -8,11 +8,12 @@
     "name": "Timet",
     "founded": 1993,
     "founder": "Lorenzo Brusci",
-    "stoppedActivity": 2003,
-    "statement": "Lorenzo Brusci (1966) founded the concept group Timet in 1993. They have been composing music for theatre, dance, television, radio, and sound installations. He can be reached at info@musi-co.com . Our main efforts include the evolution of compositional and performing techniques for nonlinear music and sound architecture. We support the open data philosophy for the distribution of intellectual objects, including final compositions, single audio elements, and electronic partitures.",
-    "statementSource": "index.html",
-    "news": "Timet stopped its activity in 2003. You can now explore Lorenzo Brusci's work on www.lorenzobrusci.com/BLOG www.musstdesign.com www.soundcloud.com/lorenzo-brusci www.soundcloud.com/musst-1",
-    "lastUpdate": "November 2, 2014"
+    "statement": "Lorenzo Brusci (1966) founded the concept group Timet in 1993, a collective composing music for theatre, dance, television, radio and sound installations, and working on the evolution of compositional and performing techniques for nonlinear music and sound architecture. From 2003 Lorenzo Brusci stopped promoting Timet on the various performance fronts. Signing as Lorenzo Brusci/Timet, he continues to compose for dance and theatre, launches www.giardinosonoro.com, and sets out to make Timet his own editorial platform in music, with dozens of productions, solo and in collaboration. Timet is the virtual label behind all of Lorenzo Brusci’s music productions. Timet supports the open data philosophy for the distribution of intellectual objects, including final compositions, single audio elements and electronic scores. Contact: info@musi-co.com.",
+    "statementSource": "Rewritten 2026-11-19 from the author's own wording; original 2014 text kept in originalStatement2014.",
+    "news": "From 2003 Lorenzo Brusci stopped promoting Timet on the various performance fronts. Signing as Lorenzo Brusci/Timet, he continues to compose for dance and theatre, launches www.giardinosonoro.com, and sets out to make Timet his own editorial platform in music, with dozens of productions, solo and in collaboration. His ongoing work: www.lorenzobrusci.com/BLOG, www.musstdesign.com, www.soundcloud.com/lorenzo-brusci, www.soundcloud.com/musst-1.",
+    "lastUpdate": "November 2, 2014",
+    "originalStatement2014": "Lorenzo Brusci (1966) founded the concept group Timet in 1993. They have been composing music for theatre, dance, television, radio, and sound installations. He can be reached at info@musi-co.com . Our main efforts include the evolution of compositional and performing techniques for nonlinear music and sound architecture. We support the open data philosophy for the distribution of intellectual objects, including final compositions, single audio elements, and electronic partitures.",
+    "collectiveActionEnded": 2003
   },
   "membersListVerbatim": [
     "Lorenzo Brusci",
@@ -286,8 +287,8 @@
     }
   ],
   "lineage": {
-    "statement": "Timet stopped in 2003 and gave way to Giardino Sonoro. Many Timet collaborators later worked in the Florentine sonic garden, before the launch of Architettura Sonora.",
-    "source": "Client note, 2026-11-04",
+    "statement": "From 2003 Lorenzo Brusci stopped promoting Timet on the various performance fronts. Signing as Lorenzo Brusci/Timet, he continues to compose for dance and theatre, launches www.giardinosonoro.com, and sets out to make Timet his own editorial platform in music, with dozens of productions, solo and in collaboration.",
+    "source": "Author, 2026-11-19",
     "links": [
       {
         "label": "Giardino Sonoro",

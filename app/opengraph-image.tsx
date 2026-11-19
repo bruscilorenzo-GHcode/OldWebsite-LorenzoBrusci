@@ -2,7 +2,7 @@ import { ImageResponse } from "next/og";
 
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
-export const alt = "Timet — nonlinear music and sound architecture, 1993–2003";
+export const alt = "Timet — nonlinear music and sound architecture, since 1993";
 
 export default function OpenGraphImage() {
   return new ImageResponse(
@@ -30,7 +30,7 @@ export default function OpenGraphImage() {
           }}
         >
           <span>TIMET</span>
-          <span>1993–2003</span>
+          <span>since 1993</span>
         </div>
         <div
           style={{
@@ -54,7 +54,7 @@ export default function OpenGraphImage() {
             color: "#7D8B96",
           }}
         >
-          <span>Italian sound-art collective</span>
+          <span>Virtual label</span>
           <span>timet.org</span>
         </div>
       </div>

@@ -13,7 +13,7 @@ export function SiteHeader() {
             TIMET<span className="text-highlight">.</span>
           </Link>
           <p className="mono hidden whitespace-nowrap uppercase tracking-[0.14em] text-muted lg:block">
-            Sound-art collective · 1993–2003
+            Virtual label · since 1993
           </p>
         </div>
         <nav
