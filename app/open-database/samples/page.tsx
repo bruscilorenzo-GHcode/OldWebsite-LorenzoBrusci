@@ -24,7 +24,7 @@ export default function SamplesPage() {
             </p>
             <p className="mt-4 text-sm text-ink-2">
               Data: <a href="/timet-database.csv">CSV</a> ·{" "}
-              <a href="https://doi.org/10.5281/zenodo.24355802" rel="noopener">Zenodo DOI</a> ·{" "}
+              <a href="https://doi.org/10.5281/zenodo.24355801" rel="noopener">Zenodo DOI</a> ·{" "}
               <Link href="/open-database/licence">CC BY-NC 4.0</Link>
             </p>
           </div>

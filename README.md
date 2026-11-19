@@ -1,6 +1,6 @@
 # TIMET.ORG — rebuild
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24355802.svg)](https://doi.org/10.5281/zenodo.24355802)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24355801.svg)](https://doi.org/10.5281/zenodo.24355801)
 
 Live preview: https://oldwebsite-lorenzobrusci.vercel.app  
 (`timet.org` is not switched yet; see `docs/GO-LIVE-OPTION-A.md`.)
@@ -157,4 +157,4 @@ Full checklist: `docs/GO-LIVE-OPTION-A.md`.
 
 ## Cite
 
-Brusci, L. (2026). *timet.org archive: timet.database and texts* (CC BY-NC 4.0). Zenodo. https://doi.org/10.5281/zenodo.24355802
+Brusci, L. (2026). *timet.org archive: timet.database and texts* (CC BY-NC 4.0). Zenodo. https://doi.org/10.5281/zenodo.24355801
