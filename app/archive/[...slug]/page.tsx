@@ -5,6 +5,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Prose } from "@/components/Prose";
 import { events } from "@/lib/content";
+import { PhotoGrid } from "@/components/PhotoGrid";
+import { photosFor } from "@/lib/eventPhotos";
 
 const ROOT = path.join(process.cwd(), "archive/texts");
 const SECTIONS = ["events", "articles", "downloads", "about", "guest", "modular", "Compilazione"];
@@ -60,6 +62,7 @@ export default async function ArchiveTextPage({ params }: { params: Promise<{ sl
       <div className="shell grid12 py-10 md:py-14">
         <article className="col-span-12 max-w-[72ch] md:col-span-8 md:col-start-4">
           <Prose text={doc.body} />
+          {doc.section === "events" && slug.length === 2 && <PhotoGrid photos={photosFor(slug[1])} />}
           <p className="mono mt-12 border-t border-line pt-4 text-muted">
             Text from the original timet.org · CC BY-NC 4.0
           </p>
