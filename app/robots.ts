@@ -29,7 +29,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/dataset.json", "/dataset.csv", "/audio/", "/open-database"],
       })),
     ],
-    sitemap: "https://timet.org/sitemap.xml",
-    host: "https://timet.org",
+    sitemap: "https://www.timet.org/sitemap.xml",
+    host: "https://www.timet.org",
   };
 }
