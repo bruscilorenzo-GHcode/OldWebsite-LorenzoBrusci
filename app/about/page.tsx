@@ -133,11 +133,22 @@ export default function AboutPage() {
           </div>
           <p className="text-sm text-ink-2">
             Lorenzo Brusci’s ongoing work is published at{" "}
-            <a href="https://lorenzobrusci.com/" rel="noopener">lorenzobrusci.com</a>,{" "}
-            <a href="https://www.musstdesign.com" rel="noopener">musstdesign.com</a>,{" "}
             <a href="https://soundcloud.com/lorenzo-brusci" rel="noopener">SoundCloud</a> and{" "}
-            <a href="https://lorenzobrusci-timet.bandcamp.com/" rel="noopener">Bandcamp</a>.
+            <a href="https://lorenzobrusci-timet.bandcamp.com/" rel="noopener">Bandcamp</a>, on all streaming
+            platforms, and monitored at{" "}
+            <a href="https://www.lorenzobrusci.com" rel="noopener">www.lorenzobrusci.com</a>.
           </p>
+          <div lang="it" className="border-t border-line pt-5">
+            <p className="eyebrow">Italiano</p>
+            <p className="mt-3 text-ink-2">{about.lineage.statementIt}</p>
+            <p className="mt-3 text-sm text-ink-2">
+              Il lavoro attuale di Lorenzo Brusci è pubblicato su{" "}
+              <a href="https://soundcloud.com/lorenzo-brusci" rel="noopener">SoundCloud</a> e{" "}
+              <a href="https://lorenzobrusci-timet.bandcamp.com/" rel="noopener">Bandcamp</a>, su tutte le piattaforme di
+              streaming, e monitorato su{" "}
+              <a href="https://www.lorenzobrusci.com" rel="noopener">www.lorenzobrusci.com</a>.
+            </p>
+          </div>
         </div>
       </section>
     </>

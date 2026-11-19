@@ -124,6 +124,7 @@ export const about = aboutJson as unknown as {
   personLinks: Array<{ name: string; url: string; source: string }>;
   lineage: {
     statement: string;
+    statementIt: string;
     source: string;
     links: Array<{ label: string; url: string }>;
   };
