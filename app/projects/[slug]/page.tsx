@@ -86,12 +86,20 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           {project.media.videos.map((v) => (
             <section key={v.key} id={`video-${v.key}`} className="mt-12 scroll-mt-24">
               <p className="eyebrow">Video · {v.key}</p>
-              {v.files.map((f) => (
-                <video key={f} controls preload="none" className="mt-4 w-full max-w-[640px] border border-line">
-                  <source src={`${MEDIA_BASE}video/${encodeURIComponent(f)}`} />
-                  <a href={`${MEDIA_BASE}video/${encodeURIComponent(f)}`}>Download {f}</a>
-                </video>
-              ))}
+              {v.files.map((f) => {
+                const href = `${MEDIA_BASE}video/${encodeURIComponent(f)}`;
+                return /\.swf$/i.test(f) ? (
+                  <p key={f} className="mt-4 text-sm text-ink-2">
+                    Flash animation (no longer playable in browsers):{" "}
+                    <a href={href} target="_blank" rel="noopener">download {f}</a>
+                  </p>
+                ) : (
+                  <video key={f} controls preload="none" className="mt-4 w-full max-w-[640px] border border-line">
+                    <source src={href} />
+                    <a href={href}>Download {f}</a>
+                  </video>
+                );
+              })}
             </section>
           ))}
 

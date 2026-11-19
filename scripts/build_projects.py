@@ -38,7 +38,7 @@ def gallery_images(urlpath):
 def video_for(urlpath):
     s = read(MOD/urlpath.split("/modular/")[-1])
     mov = [pathlib.Path(a["src"] if a.get("src") else a.get("value","")).name for a in s.find_all(["embed","param"]) if re.search(r"\.(mov|swf)", (a.get("src") or a.get("value") or ""))]
-    return [m for m in mov if m]
+    return list(dict.fromkeys(m for m in mov if m))
 TITLES = {"01":"Stressing the limit of sound perception","02":"Hyper Classicism","03":"State of immersion","04":"Performative projects",
  "05":"Sonic architectures","06":"Metalanguages and nonlinearity","07":"Open database","08":"Video experiences and documentarism",
  "04_2":"Easy Classics","04_3":"LoLe","04_4":"Zarathustra","04_5":"The poem","04_6":"Heritage to be played","04_7":"Compilatione",
