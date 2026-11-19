@@ -132,7 +132,6 @@
     {
      "key": "hic",
      "files": [
-      "sostap.mov",
       "sostap.mov"
      ]
     }
@@ -174,14 +173,12 @@
     {
      "key": "vg1test",
      "files": [
-      "vg1test.swf",
       "vg1test.swf"
      ]
     },
     {
      "key": "mould",
      "files": [
-      "mould.mov",
       "mould.mov"
      ]
     }
@@ -225,21 +222,18 @@
     {
      "key": "vald",
      "files": [
-      "valdambra.mov",
       "valdambra.mov"
      ]
     },
     {
      "key": "scolp",
      "files": [
-      "scolpisc piccolo.mov",
       "scolpisc piccolo.mov"
      ]
     },
     {
      "key": "giorgio",
      "files": [
-      "giorgio.mov",
       "giorgio.mov"
      ]
     }
